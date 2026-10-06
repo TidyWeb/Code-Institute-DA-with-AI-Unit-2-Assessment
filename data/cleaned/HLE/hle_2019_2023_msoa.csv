@@ -1,0 +1,1321 @@
+area_code,local_area_name,sex,hle_years
+E02001827,Hill Hook,Male,68.4
+E02001827,Hill Hook,Female,68.3
+E02001828,Four Oaks,Male,69.5
+E02001828,Four Oaks,Female,72.6
+E02001829,Little Sutton,Male,73.3
+E02001829,Little Sutton,Female,73.3
+E02001830,Sutton Coldfield North,Male,71.7
+E02001830,Sutton Coldfield North,Female,72.4
+E02001831,Reddicap Heath,Male,63.7
+E02001831,Reddicap Heath,Female,63.9
+E02001832,Rectory Park,Male,69.5
+E02001832,Rectory Park,Female,71.8
+E02001833,Kingstanding North,Male,67.3
+E02001833,Kingstanding North,Female,71.0
+E02001834,Old Oscott,Male,59.7
+E02001834,Old Oscott,Female,60.8
+E02001835,Sutton Coldfield South,Male,67.9
+E02001835,Sutton Coldfield South,Female,68.1
+E02001836,New Oscott,Male,70.6
+E02001836,New Oscott,Female,70.3
+E02001837,Kingstanding South East,Male,54.9
+E02001837,Kingstanding South East,Female,55.7
+E02001838,Walmley,Male,70.1
+E02001838,Walmley,Female,70.6
+E02001839,Queslett,Male,61.9
+E02001839,Queslett,Female,63.9
+E02001840,Perry Common College Road,Male,54.3
+E02001840,Perry Common College Road,Female,54.9
+E02001841,Wylde Green,Male,71.7
+E02001841,Wylde Green,Female,70.9
+E02001842,Perry Beeches West,Male,65.9
+E02001842,Perry Beeches West,Female,66.0
+E02001843,Kingstanding South West,Male,62.2
+E02001843,Kingstanding South West,Female,65.4
+E02001844,Chester Road,Male,62.9
+E02001844,Chester Road,Female,64.8
+E02001845,Perry Beeches East,Male,64.6
+E02001845,Perry Beeches East,Female,65.9
+E02001846,Short Heath,Male,56.8
+E02001846,Short Heath,Female,59.0
+E02001847,Minworth,Male,65.8
+E02001847,Minworth,Female,68.7
+E02001848,Upper Witton,Male,57.9
+E02001848,Upper Witton,Female,58.0
+E02001849,Erdington Town,Male,58.7
+E02001849,Erdington Town,Female,60.2
+E02001850,Perry Barr,Male,62.4
+E02001850,Perry Barr,Female,64.8
+E02001851,Pype Hayes Park,Male,59.8
+E02001851,Pype Hayes Park,Female,60.4
+E02001852,Stockland Green Marsh Hill,Male,58.1
+E02001852,Stockland Green Marsh Hill,Female,59.3
+E02001855,Castle Vale,Male,55.0
+E02001855,Castle Vale,Female,54.6
+E02001856,Brookvale,Male,57.1
+E02001856,Brookvale,Female,60.2
+E02001857,Gravelly Hill,Male,54.2
+E02001857,Gravelly Hill,Female,57.1
+E02001858,Handsworth East,Male,61.3
+E02001858,Handsworth East,Female,60.3
+E02001859,Birchfield East,Male,57.0
+E02001859,Birchfield East,Female,57.0
+E02001860,Handsworth West,Male,58.6
+E02001860,Handsworth West,Female,57.9
+E02001861,Birchfield West,Male,57.6
+E02001861,Birchfield West,Female,55.9
+E02001862,Middlemore,Male,58.3
+E02001862,Middlemore,Female,59.0
+E02001863,Aston Park,Male,55.7
+E02001863,Aston Park,Female,54.0
+E02001865,Handsworth South,Male,57.6
+E02001865,Handsworth South,Female,57.0
+E02001866,Lozells West,Male,54.1
+E02001866,Lozells West,Female,53.7
+E02001867,Lozells East,Male,55.7
+E02001867,Lozells East,Female,55.9
+E02001868,Hodge Hill,Male,61.3
+E02001868,Hodge Hill,Female,60.8
+E02001869,Nechells,Male,55.3
+E02001869,Nechells,Female,56.7
+E02001870,Ward End,Male,58.1
+E02001870,Ward End,Female,58.1
+E02001871,Buckland End,Male,56.6
+E02001871,Buckland End,Female,57.3
+E02001872,Shard End,Male,59.1
+E02001872,Shard End,Female,56.6
+E02001873,Winson Green,Male,56.4
+E02001873,Winson Green,Female,56.9
+E02001874,Washwood Heath,Male,56.0
+E02001874,Washwood Heath,Female,54.6
+E02001875,Hockley,Male,57.4
+E02001875,Hockley,Female,56.2
+E02001876,North Central,Male,56.2
+E02001876,North Central,Female,57.2
+E02001877,Saltley East,Male,57.3
+E02001877,Saltley East,Female,54.9
+E02001878,Saltley West,Male,55.8
+E02001878,Saltley West,Female,53.0
+E02001879,Summerfield,Male,54.6
+E02001879,Summerfield,Female,54.5
+E02001880,Glebe Farm,Male,55.7
+E02001880,Glebe Farm,Female,55.3
+E02001881,Belchers Lane,Male,55.9
+E02001881,Belchers Lane,Female,55.5
+E02001882,Stechford,Male,54.9
+E02001882,Stechford,Female,58.2
+E02001883,Kitts Green,Male,54.7
+E02001883,Kitts Green,Female,57.1
+E02001884,Bordesley Green North,Male,55.2
+E02001884,Bordesley Green North,Female,55.4
+E02001886,Rotton Park,Male,60.8
+E02001886,Rotton Park,Female,62.1
+E02001888,Kent's Moat,Male,56.8
+E02001888,Kent's Moat,Female,57.5
+E02001889,Little Bromwich,Male,55.9
+E02001889,Little Bromwich,Female,55.3
+E02001890,Edgbaston North,Male,64.3
+E02001890,Edgbaston North,Female,68.2
+E02001892,Yardley Fields,Male,56.9
+E02001892,Yardley Fields,Female,56.0
+E02001893,Yardley,Male,60.8
+E02001893,Yardley,Female,61.4
+E02001895,Sheldon North,Male,57.2
+E02001895,Sheldon North,Female,58.0
+E02001896,Small Heath Park,Male,57.2
+E02001896,Small Heath Park,Female,54.3
+E02001897,Sparkbrook North,Male,53.7
+E02001897,Sparkbrook North,Female,53.7
+E02001898,Lyndon Green,Male,66.0
+E02001898,Lyndon Green,Female,67.7
+E02001899,Harborne West,Male,69.5
+E02001899,Harborne West,Female,71.1
+E02001900,Five Ways South,Male,60.5
+E02001900,Five Ways South,Female,61.7
+E02001901,Harborne East,Male,68.6
+E02001901,Harborne East,Female,72.6
+E02001902,Yardley South,Male,61.9
+E02001902,Yardley South,Female,66.0
+E02001903,Sparkbrook South,Male,55.8
+E02001903,Sparkbrook South,Female,52.9
+E02001904,Hay Mills,Male,55.9
+E02001904,Hay Mills,Female,59.3
+E02001905,Edgbaston South,Male,69.4
+E02001905,Edgbaston South,Female,70.2
+E02001906,Quinton Ridgacre,Male,65.4
+E02001906,Quinton Ridgacre,Female,66.5
+E02001907,Sheldon South,Male,63.9
+E02001907,Sheldon South,Female,65.6
+E02001908,Sparkhill North,Male,56.7
+E02001908,Sparkhill North,Female,53.4
+E02001909,Balsall Heath East,Male,55.4
+E02001909,Balsall Heath East,Female,53.8
+E02001910,Balsall Heath West,Male,56.0
+E02001910,Balsall Heath West,Female,56.2
+E02001911,Quinton East,Male,58.2
+E02001911,Quinton East,Female,60.0
+E02001913,Metchley,Male,60.1
+E02001913,Metchley,Female,61.8
+E02001914,Moor Green,Male,60.6
+E02001914,Moor Green,Female,61.6
+E02001915,Acocks Green East,Male,58.5
+E02001915,Acocks Green East,Female,61.2
+E02001916,Acocks Green West,Male,59.6
+E02001916,Acocks Green West,Female,58.9
+E02001918,Moseley Village,Male,59.7
+E02001918,Moseley Village,Female,62.4
+E02001919,Moseley,Male,62.8
+E02001919,Moseley,Female,62.7
+E02001920,Woodgate Valley,Male,58.1
+E02001920,Woodgate Valley,Female,58.9
+E02001921,California,Male,60.7
+E02001921,California,Female,62.6
+E02001922,Selly Oak,Male,56.0
+E02001922,Selly Oak,Female,59.5
+E02001923,Springfield,Male,59.8
+E02001923,Springfield,Female,61.1
+E02001924,Hall Green East,Male,61.0
+E02001924,Hall Green East,Female,62.5
+E02001925,Selly Oak Park,Male,66.4
+E02001925,Selly Oak Park,Female,66.7
+E02001926,Stirchley North,Male,62.1
+E02001926,Stirchley North,Female,64.2
+E02001927,Weoley Castle,Male,58.0
+E02001927,Weoley Castle,Female,58.2
+E02001928,Woodgate,Male,59.5
+E02001928,Woodgate,Female,60.4
+E02001929,Fox Hollies,Male,55.9
+E02001929,Fox Hollies,Female,56.8
+E02001930,Kings Heath,Male,63.8
+E02001930,Kings Heath,Female,66.0
+E02001931,Wake Green East,Male,64.2
+E02001931,Wake Green East,Female,65.7
+E02001932,Bartley Green,Male,58.4
+E02001932,Bartley Green,Female,58.0
+E02001933,Kings Heath Park,Male,60.1
+E02001933,Kings Heath Park,Female,61.3
+E02001934,Hall Green Central,Male,66.0
+E02001934,Hall Green Central,Female,65.4
+E02001935,Shenley Lane,Male,65.9
+E02001935,Shenley Lane,Female,66.6
+E02001936,Brandwood North,Male,66.4
+E02001936,Brandwood North,Female,69.4
+E02001937,Billesley Common,Male,58.4
+E02001937,Billesley Common,Female,58.8
+E02001938,Bournville East,Male,62.5
+E02001938,Bournville East,Female,64.6
+E02001939,Bournville West,Male,63.0
+E02001939,Bournville West,Female,64.4
+E02001941,Yardley Wood West,Male,57.0
+E02001941,Yardley Wood West,Female,56.6
+E02001942,Cotteridge,Male,63.0
+E02001942,Cotteridge,Female,65.2
+E02001943,Brandwood East,Male,62.8
+E02001943,Brandwood East,Female,62.5
+E02001944,Brandwood End,Male,60.2
+E02001944,Brandwood End,Female,63.1
+E02001945,Allens Cross,Male,56.4
+E02001945,Allens Cross,Female,58.8
+E02001946,Northfield Victoria Common,Male,65.0
+E02001946,Northfield Victoria Common,Female,66.8
+E02001947,Druids Heath,Male,53.0
+E02001947,Druids Heath,Female,55.4
+E02001948,Highter's Heath,Male,60.8
+E02001948,Highter's Heath,Female,63.3
+E02001949,Lifford,Male,61.2
+E02001949,Lifford,Female,62.4
+E02001950,Longbridge North,Male,65.3
+E02001950,Longbridge North,Female,65.6
+E02001951,Frankley,Male,55.2
+E02001951,Frankley,Female,56.4
+E02001952,Turves Green,Male,55.1
+E02001952,Turves Green,Female,58.0
+E02001953,King's Norton,Male,63.8
+E02001953,King's Norton,Female,66.7
+E02001954,Hawkesley,Male,56.0
+E02001954,Hawkesley,Female,56.8
+E02001955,Longbridge South,Male,61.3
+E02001955,Longbridge South,Female,61.5
+E02001956,Rubery East,Male,62.5
+E02001956,Rubery East,Female,65.7
+E02001957,West Heath,Male,64.8
+E02001957,West Heath,Female,64.5
+E02001958,Longford,Male,60.0
+E02001958,Longford,Female,61.2
+E02001959,Keresley,Male,64.0
+E02001959,Keresley,Female,64.3
+E02001961,Bell Green,Male,58.2
+E02001961,Bell Green,Female,57.6
+E02001962,Little Heath,Male,60.6
+E02001962,Little Heath,Female,60.4
+E02001963,Whitmore Park,Male,61.5
+E02001963,Whitmore Park,Female,66.0
+E02001964,Henley Green,Male,55.7
+E02001964,Henley Green,Female,56.1
+E02001965,Walsgrave,Male,65.1
+E02001965,Walsgrave,Female,65.8
+E02001966,Foleshill West,Male,57.8
+E02001966,Foleshill West,Female,54.8
+E02001967,Brownshill Green,Male,68.8
+E02001967,Brownshill Green,Female,70.4
+E02001968,Radford East,Male,62.5
+E02001968,Radford East,Female,63.4
+E02001969,Radford West,Male,58.7
+E02001969,Radford West,Female,58.4
+E02001970,Wyken Croft,Male,62.8
+E02001970,Wyken Croft,Female,65.5
+E02001971,Coundon,Male,65.7
+E02001971,Coundon,Female,67.5
+E02001972,Foleshill East,Male,57.2
+E02001972,Foleshill East,Female,55.9
+E02001973,Stoke Heath,Male,57.7
+E02001973,Stoke Heath,Female,59.1
+E02001974,Sherbourne,Male,67.9
+E02001974,Sherbourne,Female,69.2
+E02001975,Ravensdale,Male,64.0
+E02001975,Ravensdale,Female,64.9
+E02001976,Clifford Park,Male,61.9
+E02001976,Clifford Park,Female,63.6
+E02001977,Naul's Mill,Male,56.2
+E02001977,Naul's Mill,Female,57.1
+E02001978,Barras Heath,Male,62.9
+E02001978,Barras Heath,Female,65.2
+E02001979,Allesley Park,Male,69.0
+E02001979,Allesley Park,Female,68.2
+E02001980,Allesley Green,Male,68.1
+E02001980,Allesley Green,Female,71.3
+E02001981,Hillfields,Male,56.8
+E02001981,Hillfields,Female,57.0
+E02001982,Eastern Green,Male,68.1
+E02001982,Eastern Green,Female,68.9
+E02001983,Whoberley,Male,63.7
+E02001983,Whoberley,Female,65.9
+E02001984,Copsewood,Male,63.9
+E02001984,Copsewood,Female,63.2
+E02001985,Lower Stoke,Male,57.8
+E02001985,Lower Stoke,Female,59.1
+E02001986,Tile Hill,Male,57.4
+E02001986,Tile Hill,Female,59.7
+E02001987,Chapelfields,Male,61.2
+E02001987,Chapelfields,Female,63.2
+E02001988,Central Coventry,Male,55.8
+E02001988,Central Coventry,Female,60.5
+E02001989,Earl Place,Male,65.4
+E02001989,Earl Place,Female,66.2
+E02001990,Binley,Male,68.7
+E02001990,Binley,Female,68.7
+E02001991,Earlsdon,Male,68.9
+E02001991,Earlsdon,Female,70.5
+E02001992,Ernesford Grange,Male,58.0
+E02001992,Ernesford Grange,Female,59.7
+E02001993,Canley,Male,61.0
+E02001993,Canley,Female,62.5
+E02001994,Cheylesmore Daventry Road,Male,65.0
+E02001994,Cheylesmore Daventry Road,Female,66.3
+E02001995,Whitley,Male,62.6
+E02001995,Whitley,Female,63.0
+E02001996,Willenhall,Male,54.3
+E02001996,Willenhall,Female,56.2
+E02001997,Stivichall,Male,70.2
+E02001997,Stivichall,Female,70.8
+E02001998,Finham Park,Male,71.0
+E02001998,Finham Park,Female,69.8
+E02001999,Cannon Park,Male,69.6
+E02001999,Cannon Park,Female,69.1
+E02002000,Coseley Wallbrook,Male,60.7
+E02002000,Coseley Wallbrook,Female,62.3
+E02002001,Sedgley East,Male,63.8
+E02002001,Sedgley East,Female,64.2
+E02002002,Sedgley West,Male,68.2
+E02002002,Sedgley West,Female,70.1
+E02002003,West Coseley,Male,61.8
+E02002003,West Coseley,Female,64.3
+E02002004,Woodsetton,Male,60.2
+E02002004,Woodsetton,Female,61.8
+E02002005,Dudley Priory,Male,57.5
+E02002005,Dudley Priory,Female,58.6
+E02002006,Upper Gornal,Male,59.6
+E02002006,Upper Gornal,Female,62.9
+E02002007,Lower Gornal,Male,64.3
+E02002007,Lower Gornal,Female,66.0
+E02002008,Dibdale,Male,67.0
+E02002008,Dibdale,Female,66.8
+E02002009,Kates Hill,Male,58.6
+E02002009,Kates Hill,Female,58.6
+E02002010,New Dock,Male,57.1
+E02002010,New Dock,Female,58.7
+E02002011,Kingswinford North,Male,68.7
+E02002011,Kingswinford North,Female,68.8
+E02002012,Russell's Hall,Male,57.0
+E02002012,Russell's Hall,Female,56.3
+E02002013,Wall Heath,Male,67.6
+E02002013,Wall Heath,Female,68.6
+E02002014,Dixons Green,Male,57.0
+E02002014,Dixons Green,Female,60.1
+E02002015,Pensett,Male,64.1
+E02002015,Pensett,Female,64.2
+E02002016,Brockmoor,Male,57.2
+E02002016,Brockmoor,Female,56.1
+E02002017,Netherton,Male,59.0
+E02002017,Netherton,Female,58.5
+E02002018,Kingswinford South,Male,68.8
+E02002018,Kingswinford South,Female,68.1
+E02002019,Dudley Wood,Male,59.7
+E02002019,Dudley Wood,Female,59.9
+E02002020,Wordsley,Male,66.1
+E02002020,Wordsley,Female,67.0
+E02002021,Brierley Hill,Male,56.0
+E02002021,Brierley Hill,Female,57.5
+E02002022,Hawbush,Male,60.7
+E02002022,Hawbush,Female,60.6
+E02002023,Ashwood,Male,65.7
+E02002023,Ashwood,Female,68.0
+E02002024,Quarry Bank,Male,62.6
+E02002024,Quarry Bank,Female,62.4
+E02002025,Shell Corner,Male,63.5
+E02002025,Shell Corner,Female,63.6
+E02002026,Amblecote East,Male,66.2
+E02002026,Amblecote East,Female,67.7
+E02002027,Withymoor Village,Male,70.6
+E02002027,Withymoor Village,Female,71.3
+E02002028,Wollaston,Male,65.9
+E02002028,Wollaston,Female,67.7
+E02002029,Quinton West,Male,66.6
+E02002029,Quinton West,Female,67.4
+E02002030,Amblecote West,Male,61.5
+E02002030,Amblecote West,Female,62.2
+E02002031,Cradley West,Male,61.7
+E02002031,Cradley West,Female,63.4
+E02002032,Cradley East,Male,60.9
+E02002032,Cradley East,Female,61.3
+E02002033,Hawne,Male,66.5
+E02002033,Hawne,Female,66.7
+E02002034,Stourbridge Town,Male,63.3
+E02002034,Stourbridge Town,Female,65.7
+E02002035,Halesowen East,Male,69.5
+E02002035,Halesowen East,Female,71.7
+E02002036,Lye,Male,56.9
+E02002036,Lye,Female,60.9
+E02002037,Norton North,Male,64.9
+E02002037,Norton North,Female,68.2
+E02002038,Halesowen Town,Male,62.9
+E02002038,Halesowen Town,Female,64.7
+E02002039,Oldswinford,Male,67.4
+E02002039,Oldswinford,Female,69.9
+E02002040,Norton South,Male,68.7
+E02002040,Norton South,Female,73.0
+E02002041,Pedmore Fields,Male,71.2
+E02002041,Pedmore Fields,Female,69.3
+E02002042,Hayley Green,Male,68.0
+E02002042,Hayley Green,Female,69.8
+E02002043,Wood Green,Male,57.9
+E02002043,Wood Green,Female,58.9
+E02002044,Yew Tree,Male,62.5
+E02002044,Yew Tree,Female,61.6
+E02002045,Woods,Male,59.3
+E02002045,Woods,Female,61.5
+E02002046,Friar Park,Male,54.3
+E02002046,Friar Park,Female,56.0
+E02002047,Wednesbury,Male,56.3
+E02002047,Wednesbury,Female,59.2
+E02002048,Great Barr,Male,67.3
+E02002048,Great Barr,Female,68.7
+E02002049,Princes End,Male,62.1
+E02002049,Princes End,Female,61.9
+E02002051,Ocker Hill,Male,55.9
+E02002051,Ocker Hill,Female,57.2
+E02002052,Stone Cross,Male,58.3
+E02002052,Stone Cross,Female,59.4
+E02002053,Hamstead East,Male,64.3
+E02002053,Hamstead East,Female,65.7
+E02002054,Hamstead West,Male,64.2
+E02002054,Hamstead West,Female,63.6
+E02002055,Wednesbury South,Male,58.6
+E02002055,Wednesbury South,Female,59.6
+E02002056,Tibbington,Male,55.1
+E02002056,Tibbington,Female,56.2
+E02002057,Tipton,Male,56.4
+E02002057,Tipton,Female,57.4
+E02002058,Great Bridge,Male,59.8
+E02002058,Great Bridge,Female,59.3
+E02002059,West Bromwich North,Male,59.3
+E02002059,West Bromwich North,Female,60.2
+E02002060,Greets Green West,Male,56.7
+E02002060,Greets Green West,Female,58.6
+E02002061,Greets Green East,Male,56.1
+E02002061,Greets Green East,Female,57.5
+E02002062,West Bromwich East,Male,56.6
+E02002062,West Bromwich East,Female,57.0
+E02002063,North Tividale,Male,60.9
+E02002063,North Tividale,Female,61.3
+E02002064,Tividale,Male,61.3
+E02002064,Tividale,Female,61.2
+E02002065,Smethwick North,Male,58.4
+E02002065,Smethwick North,Female,57.9
+E02002066,Oldbury,Male,57.5
+E02002066,Oldbury,Female,59.0
+E02002067,Rowley West,Male,63.5
+E02002067,Rowley West,Female,65.2
+E02002069,Whiteheath,Male,59.3
+E02002069,Whiteheath,Female,58.9
+E02002070,Smethwick South,Male,56.7
+E02002070,Smethwick South,Female,57.8
+E02002071,Rowley East,Male,58.0
+E02002071,Rowley East,Female,59.9
+E02002072,Langley Green,Male,62.9
+E02002072,Langley Green,Female,62.8
+E02002073,Warley East,Male,58.4
+E02002073,Warley East,Female,57.2
+E02002074,Warley West,Male,60.7
+E02002074,Warley West,Female,60.7
+E02002075,Blackheath,Male,59.2
+E02002075,Blackheath,Female,60.3
+E02002076,Bearwood,Male,63.8
+E02002076,Bearwood,Female,64.9
+E02002077,Old Hill,Male,58.5
+E02002077,Old Hill,Female,60.1
+E02002078,Warley South,Male,67.2
+E02002078,Warley South,Female,68.6
+E02002079,Brandhall,Male,61.4
+E02002079,Brandhall,Female,63.0
+E02002080,Cradley Heath,Male,59.8
+E02002080,Cradley Heath,Female,60.5
+E02002081,Castle Bromwich West,Male,66.3
+E02002081,Castle Bromwich West,Female,66.6
+E02002082,Smith's Wood North,Male,56.6
+E02002082,Smith's Wood North,Female,57.9
+E02002083,Castle Bromwich East,Male,68.4
+E02002083,Castle Bromwich East,Female,70.7
+E02002084,Smith's Wood South,Male,57.1
+E02002084,Smith's Wood South,Female,59.1
+E02002085,Kingshurst,Male,59.9
+E02002085,Kingshurst,Female,63.0
+E02002086,Chelmsley Wood West,Male,55.8
+E02002086,Chelmsley Wood West,Female,59.0
+E02002087,Fordbridge,Male,55.7
+E02002087,Fordbridge,Female,55.7
+E02002088,Chelmsley Wood East,Male,55.3
+E02002088,Chelmsley Wood East,Female,55.8
+E02002089,Marston Green,Male,64.8
+E02002089,Marston Green,Female,66.0
+E02002090,Lyndon North,Male,64.8
+E02002090,Lyndon North,Female,68.4
+E02002091,Elmdon Park,Male,67.6
+E02002091,Elmdon Park,Female,68.4
+E02002092,Lyndon South,Male,64.3
+E02002092,Lyndon South,Female,63.5
+E02002093,Olton,Male,63.9
+E02002093,Olton,Female,65.2
+E02002094,Ulverley Green,Male,70.8
+E02002094,Ulverley Green,Female,73.2
+E02002095,Elmdon Heath,Male,68.5
+E02002095,Elmdon Heath,Female,70.1
+E02002096,Lode Heath,Male,69.9
+E02002096,Lode Heath,Female,70.0
+E02002097,Meriden,Male,69.7
+E02002097,Meriden,Female,71.3
+E02002098,Shirley East,Male,67.2
+E02002098,Shirley East,Female,69.2
+E02002099,Central Solihull,Male,74.5
+E02002099,Central Solihull,Female,76.1
+E02002101,Solihull Lodge,Male,65.6
+E02002101,Solihull Lodge,Female,68.3
+E02002102,Blossomfield,Male,67.9
+E02002102,Blossomfield,Female,68.6
+E02002103,Shirley Heath,Male,68.4
+E02002103,Shirley Heath,Female,69.9
+E02002104,Monkspath North,Male,75.4
+E02002104,Monkspath North,Female,73.8
+E02002105,Balsall Common,Male,72.2
+E02002105,Balsall Common,Female,73.0
+E02002106,Knowle,Male,70.6
+E02002106,Knowle,Female,74.0
+E02002107,Monkspath South,Male,73.3
+E02002107,Monkspath South,Female,74.4
+E02002108,Dorridge,Male,72.5
+E02002108,Dorridge,Female,76.2
+E02002109,Dickens Heath,Male,71.3
+E02002109,Dickens Heath,Female,73.7
+E02002110,Brownhills West,Male,62.7
+E02002110,Brownhills West,Female,63.6
+E02002111,Brownhills,Male,58.9
+E02002111,Brownhills,Female,60.0
+E02002112,Pelsall North,Male,64.3
+E02002112,Pelsall North,Female,65.3
+E02002113,Walsall Wood,Male,63.4
+E02002113,Walsall Wood,Female,61.9
+E02002114,Pelsall South,Male,64.7
+E02002114,Pelsall South,Female,65.2
+E02002115,Little Bloxwich,Male,59.3
+E02002115,Little Bloxwich,Female,61.5
+E02002116,Aldridge North,Male,65.0
+E02002116,Aldridge North,Female,67.5
+E02002117,Bloxwich Central,Male,61.1
+E02002117,Bloxwich Central,Female,63.9
+E02002118,Bloxwich North West,Male,58.6
+E02002118,Bloxwich North West,Female,57.6
+E02002119,Shelfield,Male,63.1
+E02002119,Shelfield,Female,64.3
+E02002120,Ashmore,Male,66.2
+E02002120,Ashmore,Female,66.4
+E02002121,Blakenall North,Male,54.6
+E02002121,Blakenall North,Female,55.3
+E02002122,Blakenall South,Male,57.0
+E02002122,Blakenall South,Female,58.3
+E02002123,New Invention,Male,60.8
+E02002123,New Invention,Female,62.3
+E02002124,Aldridge Central,Male,63.3
+E02002124,Aldridge Central,Female,65.3
+E02002125,Rushall,Male,60.0
+E02002125,Rushall,Female,59.3
+E02002126,Bloxwich South,Male,52.4
+E02002126,Bloxwich South,Female,55.5
+E02002127,Walsall Ryecroft,Male,56.8
+E02002127,Walsall Ryecroft,Female,56.7
+E02002128,Short Heath East,Male,62.7
+E02002128,Short Heath East,Female,63.1
+E02002129,Short Heath West,Male,62.9
+E02002129,Short Heath West,Female,65.4
+E02002130,Leamore,Male,56.8
+E02002130,Leamore,Female,57.2
+E02002131,Aldridge South,Male,67.1
+E02002131,Aldridge South,Female,70.8
+E02002132,Bentley,Male,58.4
+E02002132,Bentley,Female,58.2
+E02002133,Walsall North East,Male,61.0
+E02002133,Walsall North East,Female,63.0
+E02002134,Willenhall Park,Male,59.9
+E02002134,Willenhall Park,Female,58.8
+E02002135,Walsall West,Male,57.7
+E02002135,Walsall West,Female,55.9
+E02002136,Willenhall Town,Male,59.5
+E02002136,Willenhall Town,Female,60.9
+E02002137,Streetly North,Male,70.7
+E02002137,Streetly North,Female,72.0
+E02002138,Walsall East,Male,64.6
+E02002138,Walsall East,Female,65.8
+E02002139,Walsall Central,Male,56.0
+E02002139,Walsall Central,Female,58.1
+E02002140,Pleck,Male,58.0
+E02002140,Pleck,Female,57.8
+E02002141,Streetly South,Male,71.0
+E02002141,Streetly South,Female,72.3
+E02002142,Darlaston East,Male,56.7
+E02002142,Darlaston East,Female,57.7
+E02002143,Palfrey,Male,57.7
+E02002143,Palfrey,Female,55.6
+E02002144,Walsall South East,Male,69.5
+E02002144,Walsall South East,Female,70.7
+E02002145,Darlaston Central,Male,59.1
+E02002145,Darlaston Central,Female,57.0
+E02002146,The Delves,Male,59.3
+E02002146,The Delves,Female,60.2
+E02002147,Darlaston West,Male,57.0
+E02002147,Darlaston West,Female,57.7
+E02002148,Pheasey,Male,67.2
+E02002148,Pheasey,Female,68.3
+E02002149,Bushbury,Male,62.3
+E02002149,Bushbury,Female,63.0
+E02002150,Fordhouses,Male,60.9
+E02002150,Fordhouses,Female,61.2
+E02002151,Pendeford,Male,58.6
+E02002151,Pendeford,Female,60.0
+E02002152,Bushbury Hill,Male,56.6
+E02002152,Bushbury Hill,Female,55.6
+E02002153,Ashmore Park,Male,60.2
+E02002153,Ashmore Park,Female,61.2
+E02002154,Oxley Park,Male,60.2
+E02002154,Oxley Park,Female,61.3
+E02002155,Low Hill,Male,56.9
+E02002155,Low Hill,Female,55.5
+E02002156,Wood End,Male,62.8
+E02002156,Wood End,Female,61.9
+E02002157,Tettenhall North,Male,67.4
+E02002157,Tettenhall North,Female,69.2
+E02002158,Wednesfield North East,Male,60.3
+E02002158,Wednesfield North East,Female,61.2
+E02002159,Park Lane,Male,58.6
+E02002159,Park Lane,Female,60.0
+E02002160,Wednesfield Town,Male,63.7
+E02002160,Wednesfield Town,Female,62.4
+E02002161,Whitmore Reans,Male,59.8
+E02002161,Whitmore Reans,Female,58.7
+E02002162,Tettenhall South,Male,66.7
+E02002162,Tettenhall South,Female,68.5
+E02002163,Heath Town,Male,57.9
+E02002163,Heath Town,Female,58.7
+E02002164,Waterloo Road,Male,57.1
+E02002164,Waterloo Road,Female,57.9
+E02002165,West Park,Male,60.4
+E02002165,West Park,Female,60.5
+E02002166,East Park,Male,56.5
+E02002166,East Park,Female,56.1
+E02002167,Castlecroft,Male,66.7
+E02002167,Castlecroft,Female,66.8
+E02002168,Wolverhampton Central,Male,57.4
+E02002168,Wolverhampton Central,Female,58.4
+E02002169,Compton,Male,66.9
+E02002169,Compton,Female,68.7
+E02002170,Bilston North West,Male,60.8
+E02002170,Bilston North West,Female,60.4
+E02002171,Bilston North East,Male,58.5
+E02002171,Bilston North East,Female,59.8
+E02002174,Bradmore,Male,62.8
+E02002174,Bradmore,Female,65.3
+E02002175,Bilston Lunt,Male,57.4
+E02002175,Bilston Lunt,Female,58.5
+E02002176,Merryhill South,Male,64.1
+E02002176,Merryhill South,Female,64.1
+E02002177,Ettingshall,Male,59.5
+E02002177,Ettingshall,Female,59.6
+E02002178,Goldthorn Park,Male,64.4
+E02002178,Goldthorn Park,Female,64.0
+E02002179,Upper Penn,Male,67.9
+E02002179,Upper Penn,Female,66.5
+E02002180,Ettingshall Park,Male,61.6
+E02002180,Ettingshall Park,Female,62.7
+E02002181,Bradley,Male,57.8
+E02002181,Bradley,Female,58.9
+E02002182,Woodcross,Male,60.1
+E02002182,Woodcross,Female,59.2
+E02002809,Spondon South,Male,61.5
+E02002809,Spondon South,Female,61.7
+E02002812,Littleover East,Male,63.9
+E02002812,Littleover East,Female,63.9
+E02002813,Rose Hill,Male,55.5
+E02002813,Rose Hill,Female,54.5
+E02002814,Mickleover South,Male,67.5
+E02002814,Mickleover South,Female,68.7
+E02002815,Normanton North,Male,61.0
+E02002815,Normanton North,Female,56.9
+E02002816,Littleover West,Male,71.1
+E02002816,Littleover West,Female,70.5
+E02002817,Normanton West,Male,67.3
+E02002817,Normanton West,Female,67.2
+E02002818,Normanton South,Male,57.4
+E02002818,Normanton South,Female,57.3
+E02002819,Wilmorton,Male,58.5
+E02002819,Wilmorton,Female,58.9
+E02002820,Alvaston,Male,59.4
+E02002820,Alvaston,Female,58.9
+E02002821,Allenton,Male,55.9
+E02002821,Allenton,Female,56.7
+E02002822,Sunny Hill,Male,63.9
+E02002822,Sunny Hill,Female,63.5
+E02002823,Boulton,Male,60.6
+E02002823,Boulton,Female,60.4
+E02002824,Sinfin,Male,61.1
+E02002824,Sinfin,Female,60.0
+E02002825,Chellaston West,Male,63.5
+E02002825,Chellaston West,Female,65.3
+E02002826,Chellaston East,Male,67.2
+E02002826,Chellaston East,Female,68.9
+E02002905,Wigmore,Male,68.8
+E02002905,Wigmore,Female,67.8
+E02002908,Shobdon,Male,69.0
+E02002908,Shobdon,Female,72.1
+E02002909,Bromyard,Male,66.6
+E02002909,Bromyard,Female,67.9
+E02002928,Newport North,Male,67.4
+E02002928,Newport North,Female,68.2
+E02002929,Edgmond,Male,69.2
+E02002929,Edgmond,Female,69.7
+E02002930,Newport South,Male,65.6
+E02002930,Newport South,Female,67.6
+E02002931,Muxton,Male,69.7
+E02002931,Muxton,Female,70.2
+E02002932,Donnington,Male,59.0
+E02002932,Donnington,Female,58.7
+E02002933,Dothill,Male,65.2
+E02002933,Dothill,Female,66.2
+E02002934,Apley,Male,63.8
+E02002934,Apley,Female,64.6
+E02002935,Wrockwardine Wood,Male,62.9
+E02002935,Wrockwardine Wood,Female,62.9
+E02002936,Hadley,Male,61.3
+E02002936,Hadley,Female,61.9
+E02002937,Ironbridge,Male,67.7
+E02002937,Ironbridge,Female,68.3
+E02002938,Wellington East,Male,61.0
+E02002938,Wellington East,Female,61.9
+E02002939,Wellington West,Male,61.8
+E02002939,Wellington West,Female,64.3
+E02002940,St George's,Male,62.1
+E02002940,St George's,Female,62.5
+E02002941,Oakengates,Male,61.1
+E02002941,Oakengates,Female,61.2
+E02002942,Priorslee,Male,69.0
+E02002942,Priorslee,Female,68.9
+E02002944,Malinslee,Male,56.6
+E02002944,Malinslee,Female,56.5
+E02002945,Hollinswood,Male,60.2
+E02002945,Hollinswood,Female,62.5
+E02002946,Dawley,Male,59.8
+E02002946,Dawley,Female,62.1
+E02002947,Brookside,Male,59.2
+E02002947,Brookside,Female,61.0
+E02002948,Woodside,Male,55.6
+E02002948,Woodside,Female,55.2
+E02002949,Madeley,Male,60.3
+E02002949,Madeley,Female,63.1
+E02002950,Sutton Hill,Male,56.4
+E02002950,Sutton Hill,Female,58.1
+E02004077,Doveridge,Male,71.1
+E02004077,Doveridge,Female,73.3
+E02004086,Borrowash,Male,67.1
+E02004086,Borrowash,Female,68.4
+E02004088,Long Eaton West,Male,69.3
+E02004088,Long Eaton West,Female,70.9
+E02004090,Breaston,Male,66.4
+E02004090,Breaston,Female,66.7
+E02004091,Long Eaton South,Male,66.6
+E02004091,Long Eaton South,Female,68.2
+E02004092,Sawley,Male,63.8
+E02004092,Sawley,Female,64.3
+E02004118,Hatton,Male,68.3
+E02004118,Hatton,Female,68.6
+E02004119,Hilton,Male,69.4
+E02004119,Hilton,Female,69.3
+E02004120,Willington North,Male,67.2
+E02004120,Willington North,Female,67.9
+E02004121,Aston-on-Trent,Male,69.4
+E02004121,Aston-on-Trent,Female,70.5
+E02004122,Willington South,Male,69.7
+E02004122,Willington South,Female,71.7
+E02004123,Melbourne,Male,69.1
+E02004123,Melbourne,Female,71.2
+E02004124,Swadlincote North,Male,63.6
+E02004124,Swadlincote North,Female,65.1
+E02004125,Swadlincote West,Male,61.1
+E02004125,Swadlincote West,Female,63.0
+E02004126,Swadlincote Central,Male,61.0
+E02004126,Swadlincote Central,Female,62.1
+E02004128,Castle Gresley,Male,65.1
+E02004128,Castle Gresley,Female,66.8
+E02005335,Kirby Muxloe,Male,69.0
+E02005335,Kirby Muxloe,Female,70.8
+E02005342,Cosby,Male,68.1
+E02005342,Cosby,Female,70.2
+E02005344,Stoney Stanton,Male,69.3
+E02005344,Stoney Stanton,Female,68.9
+E02005349,Shepshed West,Male,66.3
+E02005349,Shepshed West,Female,66.4
+E02005350,Shepshed East,Male,63.6
+E02005350,Shepshed East,Female,66.1
+E02005372,Dunton Bassett,Male,70.9
+E02005372,Dunton Bassett,Female,73.8
+E02005377,Markfield,Male,67.8
+E02005377,Markfield,Female,69.4
+E02005380,Market Bosworth,Male,69.9
+E02005380,Market Bosworth,Female,70.2
+E02005381,Desford,Male,67.7
+E02005381,Desford,Female,67.8
+E02005382,Earl Shilton,Male,62.9
+E02005382,Earl Shilton,Female,65.1
+E02005383,Barwell,Male,63.7
+E02005383,Barwell,Female,63.5
+E02005384,Stoke Golding,Male,68.9
+E02005384,Stoke Golding,Female,71.4
+E02005385,Hinckley East,Male,68.8
+E02005385,Hinckley East,Female,71.0
+E02005386,Hinckley Central,Male,61.2
+E02005386,Hinckley Central,Female,63.3
+E02005387,Hinckley West,Male,64.6
+E02005387,Hinckley West,Female,67.3
+E02005388,Hinckley Clarendon Park,Male,64.2
+E02005388,Hinckley Clarendon Park,Female,66.3
+E02005389,Burbage St Catherines,Male,64.8
+E02005389,Burbage St Catherines,Female,65.7
+E02005390,Burbage Sketchley,Male,70.9
+E02005390,Burbage Sketchley,Female,72.6
+E02005397,Castle Donington,Male,67.2
+E02005397,Castle Donington,Female,67.9
+E02005398,Kegworth,Male,69.7
+E02005398,Kegworth,Female,70.9
+E02005399,Ashby de la Zouch North,Male,68.6
+E02005399,Ashby de la Zouch North,Female,68.7
+E02005400,Thringstone,Male,66.7
+E02005400,Thringstone,Female,66.0
+E02005401,Packington,Male,70.3
+E02005401,Packington,Female,71.7
+E02005402,Ashby de la Zouch South,Male,67.5
+E02005402,Ashby de la Zouch South,Female,67.6
+E02005403,Whitwick,Male,64.9
+E02005403,Whitwick,Female,65.4
+E02005404,Donisthope,Male,65.8
+E02005404,Donisthope,Female,65.9
+E02005405,Agar Nook,Male,62.0
+E02005405,Agar Nook,Female,61.8
+E02005406,Coalville,Male,60.5
+E02005406,Coalville,Female,62.1
+E02005407,Hugglescote,Male,66.6
+E02005407,Hugglescote,Female,67.4
+E02005408,Measham,Male,65.2
+E02005408,Measham,Female,68.4
+E02005409,Ibstock,Male,64.6
+E02005409,Ibstock,Female,66.2
+E02006008,Shifnal,Male,68.0
+E02006008,Shifnal,Female,69.0
+E02006009,Cosford,Male,69.4
+E02006009,Cosford,Female,68.2
+E02006010,Much Wenlock,Male,67.7
+E02006010,Much Wenlock,Female,68.4
+E02006011,Bridgnorth West,Male,67.2
+E02006011,Bridgnorth West,Female,68.9
+E02006012,Bridgnorth East,Male,66.7
+E02006012,Bridgnorth East,Female,67.8
+E02006013,Alveley,Male,68.4
+E02006013,Alveley,Female,70.4
+E02006014,Highley,Male,68.6
+E02006014,Highley,Female,70.0
+E02006016,Woore,Male,68.8
+E02006016,Woore,Female,69.8
+E02006018,Market Drayton,Male,65.8
+E02006018,Market Drayton,Female,67.1
+E02006020,Hinstock,Male,64.5
+E02006020,Hinstock,Female,67.2
+E02006022,Shawbury,Male,67.6
+E02006022,Shawbury,Female,69.8
+E02006038,Bayston Hill,Male,68.7
+E02006038,Bayston Hill,Female,69.7
+E02006040,Cressage,Male,70.6
+E02006040,Cressage,Female,73.1
+E02006043,Craven Arms,Male,66.6
+E02006043,Craven Arms,Female,69.2
+E02006046,Cleobury Mortimer,Male,66.9
+E02006046,Cleobury Mortimer,Female,71.1
+E02006118,Rugeley North,Male,68.8
+E02006118,Rugeley North,Female,68.8
+E02006119,Rugeley Town,Male,59.7
+E02006119,Rugeley Town,Female,60.5
+E02006120,Rugeley South,Male,61.5
+E02006120,Rugeley South,Female,62.1
+E02006121,Hednesford Pye Green,Male,62.7
+E02006121,Hednesford Pye Green,Female,64.2
+E02006122,Hednesford Central,Male,64.6
+E02006122,Hednesford Central,Female,63.6
+E02006123,Wimblebury,Male,63.2
+E02006123,Wimblebury,Female,63.7
+E02006124,Cannock North,Male,57.2
+E02006124,Cannock North,Female,57.0
+E02006125,Cannock North East,Male,59.5
+E02006125,Cannock North East,Female,61.3
+E02006126,Hednesford South,Male,64.1
+E02006126,Hednesford South,Female,64.5
+E02006127,Hawks Green,Male,66.2
+E02006127,Hawks Green,Female,68.2
+E02006128,Cannock West,Male,65.6
+E02006128,Cannock West,Female,66.3
+E02006129,Cannock South,Male,58.3
+E02006129,Cannock South,Female,60.7
+E02006130,Norton Canes,Male,63.5
+E02006130,Norton Canes,Female,65.1
+E02006131,Mayfield,Male,68.2
+E02006131,Mayfield,Female,68.0
+E02006132,Uttoxeter Heath,Male,65.1
+E02006132,Uttoxeter Heath,Female,65.1
+E02006133,Uttoxeter Town,Male,65.8
+E02006133,Uttoxeter Town,Female,67.2
+E02006134,Rolleston-on-Dove,Male,69.1
+E02006134,Rolleston-on-Dove,Female,71.1
+E02006135,Burton Stretton,Male,67.0
+E02006135,Burton Stretton,Female,70.9
+E02006136,Abbots Bromley,Male,66.6
+E02006136,Abbots Bromley,Female,73.2
+E02006137,Burton Horninglow,Male,61.1
+E02006137,Burton Horninglow,Female,60.8
+E02006138,Burton Eton Park,Male,60.2
+E02006138,Burton Eton Park,Female,61.0
+E02006139,Burton Shobnall,Male,60.8
+E02006139,Burton Shobnall,Female,60.2
+E02006140,Burton Winshill,Male,62.3
+E02006140,Burton Winshill,Female,63.6
+E02006141,Burton Central,Male,59.2
+E02006141,Burton Central,Female,60.4
+E02006142,Burton Brizlincote,Male,69.1
+E02006142,Burton Brizlincote,Female,71.0
+E02006143,Branston,Male,66.1
+E02006143,Branston,Female,68.0
+E02006144,Burton Stapenhill,Male,58.1
+E02006144,Burton Stapenhill,Female,58.5
+E02006145,Barton-under-Needwood,Male,71.2
+E02006145,Barton-under-Needwood,Female,71.3
+E02006146,Armitage,Male,64.6
+E02006146,Armitage,Female,65.8
+E02006147,Alrewas,Male,69.0
+E02006147,Alrewas,Female,71.5
+E02006148,Burntwood North East,Male,71.6
+E02006148,Burntwood North East,Female,71.5
+E02006149,Lichfield Central,Male,63.1
+E02006149,Lichfield Central,Female,65.5
+E02006150,Lichfield East,Male,68.4
+E02006150,Lichfield East,Female,70.1
+E02006151,Burntwood West,Male,64.8
+E02006151,Burntwood West,Female,65.2
+E02006152,Lichfield West,Male,69.6
+E02006152,Lichfield West,Female,71.1
+E02006153,Whittington,Male,69.5
+E02006153,Whittington,Female,71.5
+E02006154,Burntwood Chase Terrace,Male,67.5
+E02006154,Burntwood Chase Terrace,Female,67.9
+E02006155,Burntwood Chasetown,Male,60.7
+E02006155,Burntwood Chasetown,Female,59.4
+E02006156,Shenstone,Male,71.9
+E02006156,Shenstone,Female,72.2
+E02006157,Fazeley,Male,65.4
+E02006157,Fazeley,Female,67.6
+E02006173,Loggerheads,Male,68.6
+E02006173,Loggerheads,Female,71.6
+E02006174,Penkridge,Male,68.3
+E02006174,Penkridge,Female,69.7
+E02006175,Huntington,Male,64.7
+E02006175,Huntington,Female,65.8
+E02006176,Brewood,Male,69.0
+E02006176,Brewood,Female,71.1
+E02006177,Cheslyn Hay,Male,66.2
+E02006177,Cheslyn Hay,Female,67.9
+E02006178,Great Wyrley,Male,63.0
+E02006178,Great Wyrley,Female,65.2
+E02006179,Featherstone West,Male,62.0
+E02006179,Featherstone West,Female,68.1
+E02006180,Featherstone East,Male,61.5
+E02006180,Featherstone East,Female,64.0
+E02006181,Bilbrook,Male,63.7
+E02006181,Bilbrook,Female,65.1
+E02006182,Codsall,Male,68.8
+E02006182,Codsall,Female,72.6
+E02006185,Wombourne Inner,Male,65.1
+E02006185,Wombourne Inner,Female,66.9
+E02006186,Wombourne Outer,Male,69.5
+E02006186,Wombourne Outer,Female,70.5
+E02006187,Kinver,Male,68.8
+E02006187,Kinver,Female,70.9
+E02006189,Barlaston,Male,67.6
+E02006189,Barlaston,Female,70.4
+E02006190,Stone Town,Male,65.0
+E02006190,Stone Town,Female,65.6
+E02006191,Little Stoke,Male,70.7
+E02006191,Little Stoke,Female,72.3
+E02006192,Eccleshall,Male,70.9
+E02006192,Eccleshall,Female,70.0
+E02006193,Stafford Common,Male,68.4
+E02006193,Stafford Common,Female,70.6
+E02006194,Doxey,Male,63.2
+E02006194,Doxey,Female,64.1
+E02006195,Weston,Male,68.5
+E02006195,Weston,Female,71.7
+E02006196,Stafford North East,Male,58.6
+E02006196,Stafford North East,Female,62.6
+E02006197,Central Stafford,Male,60.3
+E02006197,Central Stafford,Female,61.3
+E02006198,Littleworth,Male,69.4
+E02006198,Littleworth,Female,69.7
+E02006199,Rowley,Male,68.0
+E02006199,Rowley,Female,70.0
+E02006200,Highfields,Male,58.8
+E02006200,Highfields,Female,59.8
+E02006201,Weeping Cross,Male,72.2
+E02006201,Weeping Cross,Female,73.4
+E02006202,Gnosall,Male,70.6
+E02006202,Gnosall,Female,71.5
+E02006203,Mosspit,Male,60.9
+E02006203,Mosspit,Female,63.2
+E02006217,Coton Farm,Male,67.3
+E02006217,Coton Farm,Female,67.7
+E02006218,Central Tamworth,Male,59.5
+E02006218,Central Tamworth,Female,61.1
+E02006219,Amington,Male,64.1
+E02006219,Amington,Female,64.9
+E02006220,Bolehall,Male,63.8
+E02006220,Bolehall,Female,65.5
+E02006221,Kettlebrook,Male,65.8
+E02006221,Kettlebrook,Female,66.2
+E02006222,Belgrave,Male,61.3
+E02006222,Belgrave,Female,62.6
+E02006223,Glascote Heath,Male,54.6
+E02006223,Glascote Heath,Female,55.6
+E02006224,Wilnecote East,Male,67.1
+E02006224,Wilnecote East,Female,65.8
+E02006225,Dosthill,Male,66.9
+E02006225,Dosthill,Female,68.0
+E02006226,Wilnecote West,Male,62.9
+E02006226,Wilnecote West,Female,65.6
+E02006468,Polesworth,Male,65.5
+E02006468,Polesworth,Female,66.6
+E02006469,Dordon,Male,62.9
+E02006469,Dordon,Female,61.9
+E02006470,Atherstone,Male,60.8
+E02006470,Atherstone,Female,61.8
+E02006471,Kingsbury,Male,68.8
+E02006471,Kingsbury,Female,70.0
+E02006472,Hartshill,Male,63.0
+E02006472,Hartshill,Female,65.8
+E02006473,Coleshill,Male,66.5
+E02006473,Coleshill,Female,69.0
+E02006474,New Arley,Male,66.2
+E02006474,New Arley,Female,67.3
+E02006475,Weddington,Male,68.4
+E02006475,Weddington,Female,69.2
+E02006476,Camp Hill,Male,58.5
+E02006476,Camp Hill,Female,59.1
+E02006477,Horeston Grange,Male,69.6
+E02006477,Horeston Grange,Female,69.7
+E02006478,Galley Common,Male,63.7
+E02006478,Galley Common,Female,65.2
+E02006479,Nuneaton Town Centre,Male,57.9
+E02006479,Nuneaton Town Centre,Female,61.2
+E02006480,Tomkinson Road,Male,60.0
+E02006480,Tomkinson Road,Female,61.0
+E02006481,Stockingford,Male,60.1
+E02006481,Stockingford,Female,60.7
+E02006482,Bermuda,Male,63.6
+E02006482,Bermuda,Female,65.9
+E02006483,Caldwell,Male,58.1
+E02006483,Caldwell,Female,58.3
+E02006484,Attleborough,Male,62.4
+E02006484,Attleborough,Female,62.8
+E02006485,Whitestone,Male,71.1
+E02006485,Whitestone,Female,72.6
+E02006486,Bedworth Woodlands,Male,63.9
+E02006486,Bedworth Woodlands,Female,64.8
+E02006487,Bedworth Town,Male,57.5
+E02006487,Bedworth Town,Female,59.8
+E02006488,Bulkington,Male,66.1
+E02006488,Bulkington,Female,68.7
+E02006489,Bedworth Coalpit Field,Male,61.6
+E02006489,Bedworth Coalpit Field,Female,60.9
+E02006490,Bedworth Heath,Male,61.4
+E02006490,Bedworth Heath,Female,62.8
+E02006494,Town North,Male,59.1
+E02006494,Town North,Female,59.1
+E02006495,Wolston,Male,68.0
+E02006495,Wolston,Female,70.3
+E02006497,New Bilton,Male,62.9
+E02006497,New Bilton,Female,64.5
+E02006498,Cawston,Male,67.8
+E02006498,Cawston,Female,68.0
+E02006503,Dunchurch,Male,71.4
+E02006503,Dunchurch,Female,73.3
+E02006504,Earlswood,Male,72.9
+E02006504,Earlswood,Female,73.9
+E02006505,Henley-in-Arden,Male,70.1
+E02006505,Henley-in-Arden,Female,71.2
+E02006506,Studley,Male,65.3
+E02006506,Studley,Female,68.4
+E02006507,Southam,Male,68.3
+E02006507,Southam,Female,69.3
+E02006508,Harbury,Male,70.2
+E02006508,Harbury,Female,73.0
+E02006509,Alcester,Male,65.0
+E02006509,Alcester,Female,68.0
+E02006510,Wilmcote,Male,71.2
+E02006510,Wilmcote,Female,72.0
+E02006511,Wellesbourne,Male,68.9
+E02006511,Wellesbourne,Female,72.4
+E02006512,Stratford North,Male,66.9
+E02006512,Stratford North,Female,68.5
+E02006513,Stratford South East,Male,72.6
+E02006513,Stratford South East,Female,74.3
+E02006514,Stratford South West,Male,70.8
+E02006514,Stratford South West,Female,71.8
+E02006516,Kineton,Male,71.3
+E02006516,Kineton,Female,70.5
+E02006519,Kenilworth West,Male,69.7
+E02006519,Kenilworth West,Female,73.1
+E02006520,Kenilworth East,Male,70.6
+E02006520,Kenilworth East,Female,72.8
+E02006521,Kenilworth South,Male,70.4
+E02006521,Kenilworth South,Female,73.1
+E02006522,Kingswood,Male,74.8
+E02006522,Kingswood,Female,76.6
+E02006523,Cubbington,Male,70.7
+E02006523,Cubbington,Female,70.6
+E02006524,Lillington,Male,62.6
+E02006524,Lillington,Female,64.4
+E02006525,Leamington Central,Male,68.9
+E02006525,Leamington Central,Female,71.8
+E02006526,Warwick North,Male,65.5
+E02006526,Warwick North,Female,65.9
+E02006527,Leamington West,Male,68.6
+E02006527,Leamington West,Female,71.2
+E02006528,Leamington East,Male,64.3
+E02006528,Leamington East,Female,65.2
+E02006529,Warwick South West,Male,67.4
+E02006529,Warwick South West,Female,66.7
+E02006530,Warwick South East,Male,70.1
+E02006530,Warwick South East,Female,72.1
+E02006531,Leamington Brunswick,Male,60.3
+E02006531,Leamington Brunswick,Female,62.1
+E02006532,Bishops Tachbrook,Male,71.3
+E02006532,Bishops Tachbrook,Female,71.6
+E02006533,Whitnash,Male,66.5
+E02006533,Whitnash,Female,67.8
+E02006696,Hagley,Male,72.1
+E02006696,Hagley,Female,74.4
+E02006697,Dodford,Male,70.2
+E02006697,Dodford,Female,71.7
+E02006698,Rubery West,Male,66.8
+E02006698,Rubery West,Female,68.4
+E02006699,Hollywood,Male,68.5
+E02006699,Hollywood,Female,71.0
+E02006700,Wythall,Male,69.0
+E02006700,Wythall,Female,69.7
+E02006701,Barnt Green,Male,72.7
+E02006701,Barnt Green,Female,74.5
+E02006702,Catshill,Male,64.1
+E02006702,Catshill,Female,66.6
+E02006703,Marlbrook,Male,69.1
+E02006703,Marlbrook,Female,71.3
+E02006704,Alvechurch,Male,69.8
+E02006704,Alvechurch,Female,72.4
+E02006705,Bromsgrove Sidemoor,Male,64.6
+E02006705,Bromsgrove Sidemoor,Female,65.6
+E02006706,Bromsgrove Central,Male,64.8
+E02006706,Bromsgrove Central,Female,67.9
+E02006707,Bromsgrove Stoney Hill,Male,73.5
+E02006707,Bromsgrove Stoney Hill,Female,72.7
+E02006708,Bromsgrove Charford,Male,63.2
+E02006708,Bromsgrove Charford,Female,64.9
+E02006709,Stoke Heath,Male,66.2
+E02006709,Stoke Heath,Female,70.8
+E02006710,Tenbury Wells,Male,68.5
+E02006710,Tenbury Wells,Female,70.2
+E02006711,Abberley,Male,71.0
+E02006711,Abberley,Female,71.7
+E02006712,Broadheath,Male,70.0
+E02006712,Broadheath,Female,71.6
+E02006721,Riverside,Male,68.1
+E02006721,Riverside,Female,68.2
+E02006722,Church Hill South,Male,59.4
+E02006722,Church Hill South,Female,59.9
+E02006723,Batchley,Male,62.0
+E02006723,Batchley,Female,61.7
+E02006724,Redditch Town,Male,58.9
+E02006724,Redditch Town,Female,59.0
+E02006725,Winyates Green,Male,61.6
+E02006725,Winyates Green,Female,63.2
+E02006726,Southcrest,Male,64.1
+E02006726,Southcrest,Female,63.8
+E02006727,Arrow Valley,Male,66.6
+E02006727,Arrow Valley,Female,66.9
+E02006728,Webheath,Male,67.1
+E02006728,Webheath,Female,69.9
+E02006729,Matchborough,Male,65.1
+E02006729,Matchborough,Female,65.9
+E02006730,Greenlands,Male,59.5
+E02006730,Greenlands,Female,58.4
+E02006731,Oakenshaw,Male,64.7
+E02006731,Oakenshaw,Female,65.1
+E02006732,Crabbs Cross,Male,68.6
+E02006732,Crabbs Cross,Female,70.3
+E02006733,Hunt End,Male,70.8
+E02006733,Hunt End,Female,73.3
+E02006734,Northwick,Male,69.3
+E02006734,Northwick,Female,72.1
+E02006735,Warndon West,Male,54.7
+E02006735,Warndon West,Female,55.9
+E02006736,Warndon East,Male,68.2
+E02006736,Warndon East,Female,70.7
+E02006737,Barbourne,Male,65.2
+E02006737,Barbourne,Female,67.3
+E02006738,King George's Field,Male,59.1
+E02006738,King George's Field,Female,59.3
+E02006739,Henwick,Male,69.5
+E02006739,Henwick,Female,67.5
+E02006740,Worcester Town North,Male,62.4
+E02006740,Worcester Town North,Female,66.2
+E02006741,Lyppard Grange,Male,67.4
+E02006741,Lyppard Grange,Female,67.6
+E02006748,Hartlebury,Male,68.4
+E02006748,Hartlebury,Female,70.8
+E02006749,Droitwich Spa West,Male,59.4
+E02006749,Droitwich Spa West,Female,60.4
+E02006750,Droitwich Spa East,Male,64.7
+E02006750,Droitwich Spa East,Female,67.7
+E02006751,Droitwich Spa Central,Male,62.9
+E02006751,Droitwich Spa Central,Female,65.5
+E02006752,Droitwich Spa South,Male,71.4
+E02006752,Droitwich Spa South,Female,73.1
+E02006753,Fernhill Heath,Male,70.1
+E02006753,Fernhill Heath,Female,71.4
+E02006754,Crowle,Male,71.0
+E02006754,Crowle,Female,74.2
+E02006755,Inkberrow,Male,72.6
+E02006755,Inkberrow,Female,72.5
+E02006767,Wolverley,Male,68.0
+E02006767,Wolverley,Female,69.2
+E02006768,Franche,Male,65.7
+E02006768,Franche,Female,66.6
+E02006769,Greenhill,Male,65.5
+E02006769,Greenhill,Female,68.4
+E02006770,Kidderminster Town,Male,57.7
+E02006770,Kidderminster Town,Female,60.0
+E02006771,Bewdley East,Male,66.6
+E02006771,Bewdley East,Female,67.6
+E02006772,Habberley,Male,63.0
+E02006772,Habberley,Female,65.0
+E02006773,Comberton,Male,62.1
+E02006773,Comberton,Female,64.0
+E02006774,Foley Park,Male,63.3
+E02006774,Foley Park,Female,64.8
+E02006775,Birchen Coppice,Male,56.4
+E02006775,Birchen Coppice,Female,57.8
+E02006776,Spennells,Male,67.7
+E02006776,Spennells,Female,68.2
+E02006777,Bewdley West,Male,68.7
+E02006777,Bewdley West,Female,69.6
+E02006778,Stourport Lickhill,Male,66.4
+E02006778,Stourport Lickhill,Female,65.1
+E02006779,Stourport Mitton,Male,63.9
+E02006779,Stourport Mitton,Female,67.2
+E02006780,Stourport Areley Kings,Male,63.7
+E02006780,Stourport Areley Kings,Female,64.3
+E02006805,Holbrooks,Male,59.4
+E02006805,Holbrooks,Female,60.2
+E02006806,Ash Green,Male,62.1
+E02006806,Ash Green,Female,63.5
+E02006807,Yardley Wood East,Male,65.9
+E02006807,Yardley Wood East,Female,68.2
+E02006808,Shirley West,Male,67.6
+E02006808,Shirley West,Female,68.4
+E02006809,Handsworth Wood,Male,64.7
+E02006809,Handsworth Wood,Female,62.5
+E02006810,Charlemont,Male,63.6
+E02006810,Charlemont,Female,63.5
+E02006894,Blakenhall,Male,59.4
+E02006894,Blakenhall,Female,59.3
+E02006895,Attwood Green,Male,58.1
+E02006895,Attwood Green,Female,58.0
+E02006896,Digbeth,Male,57.7
+E02006896,Digbeth,Female,57.0
+E02006897,Five Ways North,Male,58.7
+E02006897,Five Ways North,Female,58.6
+E02006898,Ladywood Summer Hill,Male,62.5
+E02006898,Ladywood Summer Hill,Female,60.7
+E02006899,Birmingham city centre,Male,59.8
+E02006899,Birmingham city centre,Female,67.3
+E02006900,Bordesley,Male,58.2
+E02006900,Bordesley,Female,55.0
+E02006919,Swadlincote South,Male,61.6
+E02006919,Swadlincote South,Female,63.5
+E02006920,Swadlincote East,Male,62.4
+E02006920,Swadlincote East,Female,64.4
+E02006943,Smethwick East,Male,57.8
+E02006943,Smethwick East,Female,56.8
+E02006944,Smethwick South East,Male,58.4
+E02006944,Smethwick South East,Female,56.6
+E02006982,Perton,Male,68.7
+E02006982,Perton,Female,69.8
+E02007038,Birches Green,Male,60.3
+E02007038,Birches Green,Female,60.7
+E02007039,Greet,Male,57.9
+E02007039,Greet,Female,55.4
+E02007040,Sparkhill South,Male,57.9
+E02007040,Sparkhill South,Female,57.3
+E02007048,Brinklow,Male,68.8
+E02007048,Brinklow,Female,70.2
+E02007050,Town Centre,Male,62.5
+E02007050,Town Centre,Female,64.9
+E02007051,Lawley,Male,63.9
+E02007051,Lawley,Female,64.6

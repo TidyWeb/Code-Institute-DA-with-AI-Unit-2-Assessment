@@ -1,0 +1,13 @@
+{
+  "source": "https://houseofcommonslibrary.github.io/msoanames/MSOA-Names-Latest2.csv",
+  "source_name": "House of Commons Library MSOA Names 2021",
+  "version": "2.3",
+  "publication_date": "2026-02-13",
+  "retrieved_utc": "2026-10-04T13:12:24.987612+00:00",
+  "sha256": "87a409877889a9b750f713c240706191fb34fe326233405df9c7da1b64305b63",
+  "licence": "Open Parliament Licence",
+  "licence_url": "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/",
+  "matched_area_codes": 660,
+  "rule": "Use a single broad locality; split composite settlement lists; separate trailing local qualifier; retain original published name only in statistical details. All choices provisional. Birmingham 138 labelled Birmingham city centre.",
+  "local_review_complete": false
+}

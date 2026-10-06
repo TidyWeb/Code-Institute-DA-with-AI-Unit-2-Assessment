@@ -1,0 +1,20 @@
+feature,source_field,unit
+asian_bangladeshi_pct,"Ethnic group: Asian, Asian British or Asian Welsh: Bangladeshi",percent of all usual residents
+asian_chinese_pct,"Ethnic group: Asian, Asian British or Asian Welsh: Chinese",percent of all usual residents
+asian_indian_pct,"Ethnic group: Asian, Asian British or Asian Welsh: Indian",percent of all usual residents
+asian_pakistani_pct,"Ethnic group: Asian, Asian British or Asian Welsh: Pakistani",percent of all usual residents
+asian_other_pct,"Ethnic group: Asian, Asian British or Asian Welsh: Other Asian",percent of all usual residents
+black_african_pct,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: African",percent of all usual residents
+black_caribbean_pct,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: Caribbean",percent of all usual residents
+black_other_pct,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: Other Black",percent of all usual residents
+mixed_white_asian_pct,Ethnic group: Mixed or Multiple ethnic groups: White and Asian,percent of all usual residents
+mixed_white_black_african_pct,Ethnic group: Mixed or Multiple ethnic groups: White and Black African,percent of all usual residents
+mixed_white_black_caribbean_pct,Ethnic group: Mixed or Multiple ethnic groups: White and Black Caribbean,percent of all usual residents
+mixed_other_pct,Ethnic group: Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,percent of all usual residents
+white_british_pct,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British",percent of all usual residents
+white_irish_pct,Ethnic group: White: Irish,percent of all usual residents
+white_gypsy_irish_traveller_pct,Ethnic group: White: Gypsy or Irish Traveller,percent of all usual residents
+white_roma_pct,Ethnic group: White: Roma,percent of all usual residents
+white_other_pct,Ethnic group: White: Other White,percent of all usual residents
+other_arab_pct,Ethnic group: Other ethnic group: Arab,percent of all usual residents
+other_ethnic_group_pct,Ethnic group: Other ethnic group: Any other ethnic group,percent of all usual residents
