@@ -1,0 +1,8 @@
+{
+  "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts021.zip",
+  "retrieved": "2026-10-06",
+  "sha256": "ca2301d72a2de7e91c495695b6dceddb4dd318b580ae530b61582f851144fc78",
+  "licence": "Open Government Licence v3.0",
+  "geography": "Published Census 2021 geography; use MSOA file",
+  "reference_date": "2021-03-21"
+}

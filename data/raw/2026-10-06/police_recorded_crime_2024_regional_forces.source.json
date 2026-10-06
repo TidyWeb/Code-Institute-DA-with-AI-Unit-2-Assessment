@@ -1,0 +1,22 @@
+{
+  "download_url": "https://policeuk-data.s3.amazonaws.com/download/f6153aa41b67a063f7864a1f2c3929517524aed0.zip",
+  "request_url": "https://data.police.uk/data/fetch/c40471ba-4e6a-4840-981c-b783e7780a45/",
+  "retrieved": "2026-10-06",
+  "period": "2024-01 to 2024-12",
+  "forces": [
+    "west-midlands",
+    "west-mercia",
+    "staffordshire",
+    "warwickshire",
+    "derbyshire",
+    "leicestershire",
+    "btp"
+  ],
+  "dataset": "crime and anti-social behaviour; no separate outcomes or stop and search files",
+  "licence": "Open Government Licence v3.0",
+  "geography": "Published 2021 LSOA codes based on anonymised locations",
+  "sha256": "1b115be49a3d8a8942b2ff393e5c14da62f8ef4e463dc1e943ec311ffbef76d5",
+  "bytes": 40240227,
+  "csv_count": 84,
+  "caveat": "Later than HLE 2019-2023; no geographical filtering or feature selection applied"
+}
