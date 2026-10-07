@@ -2,23 +2,26 @@
 
 I am exploring differences in healthy life expectancy across Birmingham and its surrounding areas. HLE is my entry point: I map the variation, then investigate which social, economic, cultural and environmental characteristics might help me understand it.
 
-## Exploration and data preparation
+## Source exploration and data preparation
 
-My [first notebook](notebooks/data-preparation/01_Data_Preparation.ipynb) explains the source data, geographical selection, field choices and checks. It includes saved outputs so I can read the preparation without running it first.
+1. [Notebook 01 — Source Exploration](notebooks/A%20%E2%80%94%20Source%20Exploration/01_Source_Exploration.ipynb) explores HLE first: the national profile, the 660-area coverage, male/female differences, confidence intervals, imputation and neighbouring-area contrasts. Saved outputs, profiling charts and the [interactive HLE profile](reports/ydata/hle---msoa-rows.html) accompany it. Download the HTML report and open it in a browser to use its interactive controls.
+2. [Notebook 02 — Data Preparation](notebooks/B%20%E2%80%94%20Data%20Preparation/02_Data_Preparation.ipynb) prepares HLE, household deprivation, overcrowding, fuel poverty, pollution, economic activity, qualifications, income, ethnicity and recorded crime. It records source fields, calculations, checks and saved outputs.
 
-I have prepared HLE, household deprivation, overcrowding, fuel poverty, pollution, economic activity, qualifications, income, ethnicity and recorded crime. My [cleaned tables](data/cleaned/) use the same 660 MSOA codes and familiar local names. Supporting files retain counts, uncertainty and calculation evidence. This coverage is a starting envelope, not a settled final study boundary. I have not tested associations or fitted models yet.
+My [cleaned tables](data/cleaned/) use the same 660 MSOA codes and familiar local names. Supporting files retain counts and calculation evidence. This coverage is a starting envelope, not a settled final study boundary.
 
-Crime remains provisional: repeated identifiers need review, and the 2024 records use a Census 2021 population denominator. HLE covers 2019–2023; the notebook explains timing differences for supplementary sources.
+The [saved modelling flags](data/cleaned/Modelling%20Flags/modelling_flags_msoa.csv) identify six visitor hubs for exclusion from crime analysis only. Student areas remain in every dataset with a caveat; no area is removed from the source tables. Crime remains provisional: repeated identifiers and the Census 2021 population denominator need care. HLE covers 2019–2023; supplementary measures use different periods.
 
-## Run the notebook
+Notebook 03 has been run locally and awaits review before publication. These two published notebooks cover source exploration and preparation; they do not fit a model or establish causal relationships.
 
-I prepared and checked the notebook with Python 3.14.7. To reproduce it, install the packages in `requirements.txt` into a virtual environment and select that environment as the Jupyter kernel:
+## Run the notebooks
+
+I prepared and checked these notebooks with Python 3.14.7. To reproduce them, install the packages in `requirements.txt` into a virtual environment and select that environment as the Jupyter kernel:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Open `notebooks/data-preparation/01_Data_Preparation.ipynb` and run its cells in order. The notebook finds the repository’s data folder using relative paths. Reruns retain backups before replacing existing generated tables.
+Open either notebook from its own A or B folder and run its cells in order. Both locate the repository's data folder using relative paths. Notebook 01 reads the supplied profiling report and charts; generating that report again is not required. Notebook 02 retains backups before replacing existing generated tables.
 
 ## Data and sources
 
