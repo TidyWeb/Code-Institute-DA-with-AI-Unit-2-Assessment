@@ -91,8 +91,8 @@ E02001874,Washwood Heath,Male,56.0
 E02001874,Washwood Heath,Female,54.6
 E02001875,Hockley,Male,57.4
 E02001875,Hockley,Female,56.2
-E02001876,North Central,Male,56.2
-E02001876,North Central,Female,57.2
+E02001876,Birmingham Dartmouth Circus,Male,56.2
+E02001876,Birmingham Dartmouth Circus,Female,57.2
 E02001877,Saltley East,Male,57.3
 E02001877,Saltley East,Female,54.9
 E02001878,Saltley West,Male,55.8
@@ -269,8 +269,8 @@ E02001971,Coundon,Male,65.7
 E02001971,Coundon,Female,67.5
 E02001972,Foleshill East,Male,57.2
 E02001972,Foleshill East,Female,55.9
-E02001973,Stoke Heath,Male,57.7
-E02001973,Stoke Heath,Female,59.1
+E02001973,Stoke Heath (CV2),Male,57.7
+E02001973,Stoke Heath (CV2),Female,59.1
 E02001974,Sherbourne,Male,67.9
 E02001974,Sherbourne,Female,69.2
 E02001975,Ravensdale,Male,64.0
@@ -1087,8 +1087,8 @@ E02006489,Bedworth Coalpit Field,Male,61.6
 E02006489,Bedworth Coalpit Field,Female,60.9
 E02006490,Bedworth Heath,Male,61.4
 E02006490,Bedworth Heath,Female,62.8
-E02006494,Town North,Male,59.1
-E02006494,Town North,Female,59.1
+E02006494,Rugby Town North,Male,59.1
+E02006494,Rugby Town North,Female,59.1
 E02006495,Wolston,Male,68.0
 E02006495,Wolston,Female,70.3
 E02006497,New Bilton,Male,62.9
@@ -1177,8 +1177,8 @@ E02006707,Bromsgrove Stoney Hill,Male,73.5
 E02006707,Bromsgrove Stoney Hill,Female,72.7
 E02006708,Bromsgrove Charford,Male,63.2
 E02006708,Bromsgrove Charford,Female,64.9
-E02006709,Stoke Heath,Male,66.2
-E02006709,Stoke Heath,Female,70.8
+E02006709,Stoke Heath (B60),Male,66.2
+E02006709,Stoke Heath (B60),Female,70.8
 E02006710,Tenbury Wells,Male,68.5
 E02006710,Tenbury Wells,Female,70.2
 E02006711,Abberley,Male,71.0
@@ -1315,7 +1315,7 @@ E02007040,Sparkhill South,Male,57.9
 E02007040,Sparkhill South,Female,57.3
 E02007048,Brinklow,Male,68.8
 E02007048,Brinklow,Female,70.2
-E02007050,Town Centre,Male,62.5
-E02007050,Town Centre,Female,64.9
+E02007050,Telford Town Centre,Male,62.5
+E02007050,Telford Town Centre,Female,64.9
 E02007051,Lawley,Male,63.9
 E02007051,Lawley,Female,64.6
