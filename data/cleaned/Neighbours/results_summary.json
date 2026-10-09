@@ -1,0 +1,42 @@
+{
+  "area_count": 660,
+  "pair_count": 1885,
+  "median_gap_years": 2.8500000000000014,
+  "p90_gap_years": 8.049999999999997,
+  "median_z": 3.77989537762385,
+  "observed_above_noise_count": 1316,
+  "observed_above_noise_share": 0.6981432360742705,
+  "noise_expected_share": 0.04987623342175066,
+  "noise_share_reference_lower": 0.0350132625994695,
+  "noise_share_reference_upper": 0.06631299734748011,
+  "noise_median_gap_years": 0.5025943552501073,
+  "noise_median_reference_lower": 0.4639641918433494,
+  "noise_median_reference_upper": 0.54220426446065,
+  "noise_runs": 10000,
+  "noise_seed": 20261008,
+  "moran_i": 0.5764898710961035,
+  "moran_permutation_mean": -0.0005138469085120691,
+  "moran_positive_permutation_reference": 0.001,
+  "moran_permutations": 999,
+  "moran_seed": 20261009,
+  "gap_quantile": 0.95,
+  "gap_threshold_years": 9.589999999999995,
+  "z_cutoff": 1.96,
+  "big_gap_pair_count": 95,
+  "largest_gap_years": 15.849999999999987,
+  "largest_pair_names": [
+    "New Oscott",
+    "Perry Common College Road"
+  ],
+  "big_gap_flag_counts": {
+    "Student-dominated member": 2,
+    "Visitor-hub member": 3,
+    "Imputed estimate": 3,
+    "City-centre caveat": 0
+  },
+  "birmingham_big_gap_pair_count": 30,
+  "same_sex_direction_count": 1302,
+  "sex_check_pair_count": 1316,
+  "output_folder": "data/cleaned/Neighbours",
+  "outcome": "Derived mean of male and female HLE; approximate interval assumes independent sex errors"
+}

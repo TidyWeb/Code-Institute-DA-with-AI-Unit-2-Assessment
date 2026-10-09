@@ -1,0 +1,33 @@
+column,unit,definition,source
+area_a,text,MSOA21 code of pair member; area_a is alphabetically before area_b,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+area_b,text,MSOA21 code of pair member; area_a is alphabetically before area_b,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+name_a,text,Familiar local label of pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_a,years,"Derived average of male and female HLE, not an ONS statistic",Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_lci_a,years,Lower bound of approximate average-HLE interval; independent sex-error assumption,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_uci_a,years,Upper bound of approximate average-HLE interval; independent sex-error assumption,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+se_average_a,years,Area standard error from its average-HLE interval width divided by twice the z cutoff,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+student_dominated_a,boolean,Saved student-dominated flag; area retained; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+visitor_hub_a,boolean,Saved visitor-hub flag; no pair removed; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+city_centre_caveat_a,boolean,Saved Birmingham city-centre caveat; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_male_imputed_a,boolean,Saved male estimate imputation flag; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_female_imputed_a,boolean,Saved female estimate imputation flag; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+name_b,text,Familiar local label of pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_b,years,"Derived average of male and female HLE, not an ONS statistic",Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_lci_b,years,Lower bound of approximate average-HLE interval; independent sex-error assumption,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_average_uci_b,years,Upper bound of approximate average-HLE interval; independent sex-error assumption,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+se_average_b,years,Area standard error from its average-HLE interval width divided by twice the z cutoff,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+student_dominated_b,boolean,Saved student-dominated flag; area retained; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+visitor_hub_b,boolean,Saved visitor-hub flag; no pair removed; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+city_centre_caveat_b,boolean,Saved Birmingham city-centre caveat; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_male_imputed_b,boolean,Saved male estimate imputation flag; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+hle_female_imputed_b,boolean,Saved female estimate imputation flag; named pair member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+signed_gap_years,years,Average HLE of area_a minus average HLE of area_b,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+gap_years,years,Absolute difference in derived average HLE,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+se_gap_years,years,Square root of summed squared area standard errors; assumes independent errors between areas,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+z,standard errors (dimensionless),Absolute average-HLE gap divided by its approximate standard error,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+above_noise_cutoff,boolean,"z strictly exceeds the fixed cutoff; a pair marker, not an independent pair test",Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+big_gap_pair,boolean,Gap at or above the empirical 95th percentile and z above the fixed cutoff; threshold ties retained,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+student_dominated_either,boolean,Saved student-dominated flag; area retained; either member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+visitor_hub_either,boolean,Saved visitor-hub flag; no pair removed; either member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+city_centre_caveat_either,boolean,Saved Birmingham city-centre caveat; either member,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
+imputed_either,boolean,Either area has a male or female estimate with a saved imputation flag,Saved joined table and MSOA21 boundary neighbours; calculated in this notebook
