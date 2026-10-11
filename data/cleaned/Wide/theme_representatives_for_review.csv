@@ -1,0 +1,14 @@
+theme,measure,label,decision,reason
+Socioeconomic,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,Provisional representative,Socioeconomic anchor; no health component
+Housing,overcrowded_households_pct,Overcrowded households,Alternative,High overlap with Household income after housing costs (rho -0.88)
+Labour market,unemployment_rate_active_pct,Unemployment rate,Alternative,High overlap with Household income after housing costs (rho -0.88)
+Education,no_qualifications_pct,No qualifications,Alternative,High overlap with Household income after housing costs (rho -0.85)
+Education,level4plus_pct,Level 4+ qualifications,Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Safety,crime_for_analysis,Recorded crime (visitor hubs omitted),Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Housing,fuel_poor_households_pct,Fuel-poor households,Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Environment,no2_area_mean_ug_m3,NO₂ area mean,Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Environment,pm25_area_mean_ug_m3,PM2.5 area mean,Alternative,High overlap with NO₂ area mean (rho 0.97)
+Labour market,employed_residents_16plus_pct,Employed residents aged 16+,Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Safety,asb_rows_per_1000_residents,Anti-social behaviour rate,Provisional representative,Not redundant with any already chosen measure (all |rho| < 0.80)
+Socioeconomic,households_deprived_2plus_pct,Households deprived in ≥2 dimensions,Excluded from regression,"Includes a health/disability dimension that overlaps HLE; keep for description, exclude from regression"
+Education,level2_qualifications_pct,Level 2 qualifications,Not shortlisted,Middle qualification band with very weak HLE link (rho about -0.17); not shortlisted

@@ -1,0 +1,10 @@
+outcome,measure,label,rho,n
+hle_average,households_deprived_2plus_pct,Households deprived in ≥2 dimensions,-0.9534152397890838,660
+hle_average,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,0.940959595062843,660
+hle_average,overcrowded_households_pct,Overcrowded households,-0.8864899137700021,660
+hle_male,households_deprived_2plus_pct,Households deprived in ≥2 dimensions,-0.9442001248376009,660
+hle_male,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,0.9292613006318674,660
+hle_male,overcrowded_households_pct,Overcrowded households,-0.869544884435845,660
+hle_female,households_deprived_2plus_pct,Households deprived in ≥2 dimensions,-0.9478700860184649,660
+hle_female,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,0.9378382069166284,660
+hle_female,overcrowded_households_pct,Overcrowded households,-0.8878360920382292,660

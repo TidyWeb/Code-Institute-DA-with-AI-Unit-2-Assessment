@@ -1,0 +1,199 @@
+{
+  "rows": 660,
+  "columns": 55,
+  "measure_count": 32,
+  "student_areas": 6,
+  "visitor_hubs": 6,
+  "missing_cells": 6,
+  "output_run": "data/cleaned/Wide",
+  "hle_statistics": {
+    "hle_average": {
+      "mean": 63.88636363636363,
+      "median": 64.075,
+      "std": 5.058417056245204,
+      "var": 25.5875831149124,
+      "min": 53.7,
+      "max": 75.69999999999999
+    },
+    "hle_male": {
+      "mean": 63.36060606060606,
+      "median": 63.5,
+      "std": 4.8956293036306535,
+      "var": 23.96718627856716,
+      "min": 52.4,
+      "max": 75.4
+    },
+    "hle_female": {
+      "mean": 64.4121212121212,
+      "median": 64.85,
+      "std": 5.309090184695556,
+      "var": 28.186438589230697,
+      "min": 52.9,
+      "max": 76.6
+    }
+  },
+  "interval_median": {
+    "Average": 2.0642777368341285,
+    "Male": 3.0,
+    "Female": 2.799999999999997
+  },
+  "strongest": [
+    {
+      "outcome": "hle_average",
+      "measure": "households_deprived_2plus_pct",
+      "label": "Households deprived in \u22652 dimensions",
+      "rho": -0.9534152397890838,
+      "n": 660
+    },
+    {
+      "outcome": "hle_average",
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "rho": 0.940959595062843,
+      "n": 660
+    },
+    {
+      "outcome": "hle_average",
+      "measure": "overcrowded_households_pct",
+      "label": "Overcrowded households",
+      "rho": -0.8864899137700021,
+      "n": 660
+    },
+    {
+      "outcome": "hle_male",
+      "measure": "households_deprived_2plus_pct",
+      "label": "Households deprived in \u22652 dimensions",
+      "rho": -0.9442001248376009,
+      "n": 660
+    },
+    {
+      "outcome": "hle_male",
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "rho": 0.9292613006318674,
+      "n": 660
+    },
+    {
+      "outcome": "hle_male",
+      "measure": "overcrowded_households_pct",
+      "label": "Overcrowded households",
+      "rho": -0.869544884435845,
+      "n": 660
+    },
+    {
+      "outcome": "hle_female",
+      "measure": "households_deprived_2plus_pct",
+      "label": "Households deprived in \u22652 dimensions",
+      "rho": -0.9478700860184649,
+      "n": 660
+    },
+    {
+      "outcome": "hle_female",
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "rho": 0.9378382069166284,
+      "n": 660
+    },
+    {
+      "outcome": "hle_female",
+      "measure": "overcrowded_households_pct",
+      "label": "Overcrowded households",
+      "rho": -0.8878360920382292,
+      "n": 660
+    }
+  ],
+  "pollution_overlap": 0.9680745155730176,
+  "representatives": [
+    {
+      "theme": "Socioeconomic",
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "decision": "Provisional representative",
+      "reason": "Socioeconomic anchor; no health component"
+    },
+    {
+      "theme": "Housing",
+      "measure": "overcrowded_households_pct",
+      "label": "Overcrowded households",
+      "decision": "Alternative",
+      "reason": "High overlap with Household income after housing costs (rho -0.88)"
+    },
+    {
+      "theme": "Labour market",
+      "measure": "unemployment_rate_active_pct",
+      "label": "Unemployment rate",
+      "decision": "Alternative",
+      "reason": "High overlap with Household income after housing costs (rho -0.88)"
+    },
+    {
+      "theme": "Education",
+      "measure": "no_qualifications_pct",
+      "label": "No qualifications",
+      "decision": "Alternative",
+      "reason": "High overlap with Household income after housing costs (rho -0.85)"
+    },
+    {
+      "theme": "Education",
+      "measure": "level4plus_pct",
+      "label": "Level 4+ qualifications",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Safety",
+      "measure": "crime_for_analysis",
+      "label": "Recorded crime (visitor hubs omitted)",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Housing",
+      "measure": "fuel_poor_households_pct",
+      "label": "Fuel-poor households",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Environment",
+      "measure": "no2_area_mean_ug_m3",
+      "label": "NO\u2082 area mean",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Environment",
+      "measure": "pm25_area_mean_ug_m3",
+      "label": "PM2.5 area mean",
+      "decision": "Alternative",
+      "reason": "High overlap with NO\u2082 area mean (rho 0.97)"
+    },
+    {
+      "theme": "Labour market",
+      "measure": "employed_residents_16plus_pct",
+      "label": "Employed residents aged 16+",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Safety",
+      "measure": "asb_rows_per_1000_residents",
+      "label": "Anti-social behaviour rate",
+      "decision": "Provisional representative",
+      "reason": "Not redundant with any already chosen measure (all |rho| < 0.80)"
+    },
+    {
+      "theme": "Socioeconomic",
+      "measure": "households_deprived_2plus_pct",
+      "label": "Households deprived in \u22652 dimensions",
+      "decision": "Excluded from regression",
+      "reason": "Includes a health/disability dimension that overlaps HLE; keep for description, exclude from regression"
+    },
+    {
+      "theme": "Education",
+      "measure": "level2_qualifications_pct",
+      "label": "Level 2 qualifications",
+      "decision": "Not shortlisted",
+      "reason": "Middle qualification band with very weak HLE link (rho about -0.17); not shortlisted"
+    }
+  ]
+}
