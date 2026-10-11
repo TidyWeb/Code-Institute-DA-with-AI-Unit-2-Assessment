@@ -1,0 +1,661 @@
+area_code,local_area_name,authority_code,authority_name,cluster_id,cluster_label,out_of_fold_prediction,residual
+E02001827,Hill Hook,E08000025,Birmingham,4.0,Higher income / More qualifications,70.40660635860331,-2.056606358603318
+E02001828,Four Oaks,E08000025,Birmingham,4.0,Higher income / More qualifications,69.76714630166165,1.282853698338343
+E02001829,Little Sutton,E08000025,Birmingham,4.0,Higher income / More qualifications,71.26802566014612,2.0319743398538748
+E02001830,Sutton Coldfield North,E08000025,Birmingham,4.0,Higher income / More qualifications,75.06011474325956,-3.0101147432595496
+E02001831,Reddicap Heath,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,65.30485634549235,-1.5048563454923567
+E02001832,Rectory Park,E08000025,Birmingham,4.0,Higher income / More qualifications,70.02434158213322,0.6256584178667879
+E02001833,Kingstanding North,E08000025,Birmingham,4.0,Higher income / More qualifications,66.48702515787132,2.6629748421286905
+E02001834,Old Oscott,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,59.40722547839037,0.842774521609627
+E02001835,Sutton Coldfield South,E08000025,Birmingham,4.0,Higher income / More qualifications,68.39120327039223,-0.391203270392225
+E02001836,New Oscott,E08000025,Birmingham,4.0,Higher income / More qualifications,69.32106185655365,1.1289381434463337
+E02001837,Kingstanding South East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.252248802071094,-1.9522488020710966
+E02001838,Walmley,E08000025,Birmingham,4.0,Higher income / More qualifications,69.96130553290223,0.3886944670977641
+E02001839,Queslett,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.81187015858248,2.088129841417519
+E02001840,Perry Common College Road,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.3192431562058,-3.719243156205799
+E02001841,Wylde Green,E08000025,Birmingham,4.0,Higher income / More qualifications,73.36150841994524,-2.061508419945227
+E02001842,Perry Beeches West,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.79360203737513,2.1563979626248724
+E02001843,Kingstanding South West,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,61.605443390084005,2.194556609915992
+E02001844,Chester Road,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,66.49897585402468,-2.648975854024677
+E02001845,Perry Beeches East,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.498897453066576,2.7511025469334243
+E02001846,Short Heath,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,59.80463912605288,-1.9046391260528779
+E02001847,Minworth,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,66.82606741548888,0.42393258451112104
+E02001848,Upper Witton,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.7756625982493,-1.8256625982492949
+E02001849,Erdington Town,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,58.89205755148156,0.5579424485184461
+E02001850,Perry Barr,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.33522059957346,1.2647794004265407
+E02001851,Pype Hayes Park,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.465983623734786,-2.3659836237347847
+E02001852,Stockland Green Marsh Hill,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.504566368846675,0.19543363115332824
+E02001855,Castle Vale,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.663469024561564,-2.8634690245615673
+E02001856,Brookvale,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.186585044309666,1.4634149556903395
+E02001857,Gravelly Hill,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.559315156458865,-0.9093151564588595
+E02001858,Handsworth East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.71003132611997,1.0899686738800298
+E02001859,Birchfield East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.13864337342148,3.8613566265785195
+E02001860,Handsworth West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.020315084601656,2.2296849153983445
+E02001861,Birchfield West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.954280956578046,0.7957190434219541
+E02001862,Middlemore,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.763323323863574,1.8866766761364246
+E02001863,Aston Park,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.9485823217223,0.9014176782777028
+E02001865,Handsworth South,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.53351501737866,2.7664849826213356
+E02001866,Lozells West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.87904021314767,-0.9790402131476625
+E02001867,Lozells East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.001426776094696,0.7985732239053007
+E02001868,Hodge Hill,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.54046198432684,1.509538015673158
+E02001869,Nechells,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.276032150872936,0.7239678491270638
+E02001870,Ward End,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.80241467316479,2.297585326835211
+E02001871,Buckland End,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.054486385030515,-2.104486385030512
+E02001872,Shard End,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,59.498879738819184,-1.6488797388191827
+E02001873,Winson Green,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.0200775703889,0.6299224296110992
+E02001874,Washwood Heath,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.42866973896233,1.87133026103767
+E02001875,Hockley,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.037731724828355,-0.23773172482835747
+E02001876,Birmingham Dartmouth Circus,E08000025,Birmingham,,,,
+E02001877,Saltley East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.61602690991634,2.4839730900836585
+E02001878,Saltley West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.06101136183182,-0.6610113618318181
+E02001879,Summerfield,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.95312222420169,-1.4031222242016952
+E02001880,Glebe Farm,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.08590597730334,-2.585905977303341
+E02001881,Belchers Lane,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.87323542444185,0.8267645755581512
+E02001882,Stechford,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.17940273541116,-1.629402735411162
+E02001883,Kitts Green,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.486524888226285,-1.586524888226279
+E02001884,Bordesley Green North,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.67801697621191,1.62198302378809
+E02001886,Rotton Park,E08000025,Birmingham,1.0,More fuel poverty / Less employment,63.548460991730565,-2.098460991730562
+E02001888,Kent's Moat,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.066633500510314,-2.916633500510315
+E02001889,Little Bromwich,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.29708115909322,1.3029188409067842
+E02001890,Edgbaston North,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,62.33149544456014,3.91850455543986
+E02001892,Yardley Fields,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.51244818716954,-0.062448187169536595
+E02001893,Yardley,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,61.01148798078244,0.08851201921756058
+E02001895,Sheldon North,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,59.219545026926426,-1.6195450269264242
+E02001896,Small Heath Park,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.96096451567685,1.7890354843231506
+E02001897,Sparkbrook North,E08000025,Birmingham,1.0,More fuel poverty / Less employment,52.866023697164,0.8339763028359997
+E02001898,Lyndon Green,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.0021188471968,2.847881152803197
+E02001899,Harborne West,E08000025,Birmingham,4.0,Higher income / More qualifications,71.04054392591352,-0.7405439259135278
+E02001900,Five Ways South,E08000025,Birmingham,1.0,More fuel poverty / Less employment,62.249805513886926,-1.1498055138869248
+E02001901,Harborne East,E08000025,Birmingham,4.0,Higher income / More qualifications,72.97519413308292,-2.3751941330829283
+E02001902,Yardley South,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,61.82468969699017,2.125310303009833
+E02001903,Sparkbrook South,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.210276290046444,0.13972370995355732
+E02001904,Hay Mills,E08000025,Birmingham,1.0,More fuel poverty / Less employment,56.51187461064417,1.088125389355831
+E02001905,Edgbaston South,E08000025,Birmingham,1.0,More fuel poverty / Less employment,65.3555586536371,4.4444413463629076
+E02001906,Quinton Ridgacre,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.57326486990912,1.3767351300908786
+E02001907,Sheldon South,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,61.31692442386451,3.4330755761354865
+E02001908,Sparkhill North,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.94185008292335,1.108149917076645
+E02001909,Balsall Heath East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.29349127675211,-0.6934912767521055
+E02001910,Balsall Heath West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.52741368949013,0.5725863105098696
+E02001911,Quinton East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,60.87739101808848,-1.7773910180884798
+E02001913,Metchley,E08000025,Birmingham,1.0,More fuel poverty / Less employment,62.47641911168699,-1.5264191116869839
+E02001914,Moor Green,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.16491059931633,-3.0649105993163275
+E02001915,Acocks Green East,E08000025,Birmingham,1.0,More fuel poverty / Less employment,60.384382735510364,-0.5343827355103627
+E02001916,Acocks Green West,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.26178718019603,1.9882128198039695
+E02001918,Moseley Village,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.55420053029847,-3.5042005302984762
+E02001919,Moseley,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.20999742552748,0.540002574472517
+E02001920,Woodgate Valley,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.691994239555434,-2.1919942395554344
+E02001921,California,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.07473856764732,-1.4247385676473172
+E02001922,Selly Oak,E08000025,Birmingham,1.0,More fuel poverty / Less employment,60.12267388280573,-2.372673882805728
+E02001923,Springfield,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.7036818395469,0.7463181604531002
+E02001924,Hall Green East,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.17064979796941,-0.4206497979694106
+E02001925,Selly Oak Park,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,65.31700452075914,1.23299547924087
+E02001926,Stirchley North,E08000025,Birmingham,1.0,More fuel poverty / Less employment,64.68441983296943,-1.5344198329694194
+E02001927,Weoley Castle,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.92699967230626,-2.8269996723062576
+E02001928,Woodgate,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.662860732280635,-0.7128607322806317
+E02001929,Fox Hollies,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.010806600151945,-2.6608066001519433
+E02001930,Kings Heath,E08000025,Birmingham,4.0,Higher income / More qualifications,68.63750368322582,-3.7375036832258104
+E02001931,Wake Green East,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,65.04704722178646,-0.09704722178645397
+E02001932,Bartley Green,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,61.063287415447796,-2.863287415447793
+E02001933,Kings Heath Park,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.91166751995786,-3.2116675199578566
+E02001934,Hall Green Central,E08000025,Birmingham,4.0,Higher income / More qualifications,65.3354154738651,0.3645845261349052
+E02001935,Shenley Lane,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,65.27163006487473,0.9783699351252721
+E02001936,Brandwood North,E08000025,Birmingham,4.0,Higher income / More qualifications,70.60462712870984,-2.7046271287098307
+E02001937,Billesley Common,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.0920341110194,-1.4920341110194002
+E02001938,Bournville East,E08000025,Birmingham,4.0,Higher income / More qualifications,67.48026541626913,-3.930265416269137
+E02001939,Bournville West,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.44085877040845,-0.740858770408451
+E02001941,Yardley Wood West,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.4121681898212,-3.6121681898212046
+E02001942,Cotteridge,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,65.08238146224122,-0.9823814622412215
+E02001943,Brandwood East,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.5174809393264,-0.8674809393263985
+E02001944,Brandwood End,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.09150214339083,-2.441502143390821
+E02001945,Allens Cross,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,60.4862785747622,-2.8862785747622013
+E02001946,Northfield Victoria Common,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,66.12636524136688,-0.22636524136687797
+E02001947,Druids Heath,E08000025,Birmingham,1.0,More fuel poverty / Less employment,57.971555235631314,-3.771555235631311
+E02001948,Highter's Heath,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.50642811407324,-1.4564281140732405
+E02001949,Lifford,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.962949453669964,-1.1629494536699667
+E02001950,Longbridge North,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.0681687647138,1.3818312352861852
+E02001951,Frankley,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,59.608183357101076,-3.808183357101079
+E02001952,Turves Green,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.80890611436804,-2.2589061143680453
+E02001953,King's Norton,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,67.15678996964401,-1.9067899696440094
+E02001954,Hawkesley,E08000025,Birmingham,1.0,More fuel poverty / Less employment,59.42065727595021,-3.0206572759502137
+E02001955,Longbridge South,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,62.00807501062312,-0.608075010623125
+E02001956,Rubery East,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,63.87514755523712,0.22485244476287392
+E02001957,West Heath,E08000025,Birmingham,3.0,Fewer qualifications / Lower income,64.46751745312062,0.1824825468793847
+E02001958,Longford,E08000026,Coventry,3.0,Fewer qualifications / Lower income,61.0100643098766,-0.4100643098765957
+E02001959,Keresley,E08000026,Coventry,3.0,Fewer qualifications / Lower income,65.8837015124118,-1.7337015124117983
+E02001961,Bell Green,E08000026,Coventry,2.0,Higher ASB / Higher recorded crime,58.026157415086175,-0.12615741508616907
+E02001962,Little Heath,E08000026,Coventry,3.0,Fewer qualifications / Lower income,60.06670765746194,0.4332923425380599
+E02001963,Whitmore Park,E08000026,Coventry,3.0,Fewer qualifications / Lower income,63.98858972584023,-0.23858972584022808
+E02001964,Henley Green,E08000026,Coventry,3.0,Fewer qualifications / Lower income,59.71614868801673,-3.8161486880167246
+E02001965,Walsgrave,E08000026,Coventry,3.0,Fewer qualifications / Lower income,63.997738939809146,1.4522610601908426
+E02001966,Foleshill West,E08000026,Coventry,1.0,More fuel poverty / Less employment,56.148136279692004,0.15186372030799333
+E02001967,Brownshill Green,E08000026,Coventry,4.0,Higher income / More qualifications,69.34911117679005,0.250888823209948
+E02001968,Radford East,E08000026,Coventry,3.0,Fewer qualifications / Lower income,60.61081467910663,2.339185320893371
+E02001969,Radford West,E08000026,Coventry,3.0,Fewer qualifications / Lower income,61.39798023252508,-2.8479802325250816
+E02001970,Wyken Croft,E08000026,Coventry,3.0,Fewer qualifications / Lower income,64.38845168180126,-0.23845168180125142
+E02001971,Coundon,E08000026,Coventry,3.0,Fewer qualifications / Lower income,64.49549055539582,2.104509444604176
+E02001972,Foleshill East,E08000026,Coventry,1.0,More fuel poverty / Less employment,56.18581944310976,0.36418055689023987
+E02001973,Stoke Heath (CV2),E08000026,Coventry,3.0,Fewer qualifications / Lower income,58.79612568138395,-0.39612568138394266
+E02001974,Sherbourne,E08000026,Coventry,4.0,Higher income / More qualifications,68.08357058692049,0.4664294130795241
+E02001975,Ravensdale,E08000026,Coventry,3.0,Fewer qualifications / Lower income,64.64886088038276,-0.19886088038275318
+E02001976,Clifford Park,E08000026,Coventry,2.0,Higher ASB / Higher recorded crime,61.4975875335269,1.2524124664731033
+E02001977,Naul's Mill,E08000026,Coventry,1.0,More fuel poverty / Less employment,58.81682304976721,-2.1668230497672027
+E02001978,Barras Heath,E08000026,Coventry,3.0,Fewer qualifications / Lower income,64.50718587817016,-0.457185878170165
+E02001979,Allesley Park,E08000026,Coventry,4.0,Higher income / More qualifications,67.01022633236263,1.5897736676373597
+E02001980,Allesley Green,E08000026,Coventry,4.0,Higher income / More qualifications,69.8875352076778,-0.1875352076778114
+E02001981,Hillfields,E08000026,Coventry,1.0,More fuel poverty / Less employment,55.91903170309356,0.9809682969064397
+E02001982,Eastern Green,E08000026,Coventry,4.0,Higher income / More qualifications,67.439845615586,1.0601543844140053
+E02001983,Whoberley,E08000026,Coventry,4.0,Higher income / More qualifications,66.76358921249516,-1.963589212495151
+E02001984,Copsewood,E08000026,Coventry,3.0,Fewer qualifications / Lower income,65.16993914158678,-1.6199391415867836
+E02001985,Lower Stoke,E08000026,Coventry,1.0,More fuel poverty / Less employment,56.19764961939561,2.2523503806043905
+E02001986,Tile Hill,E08000026,Coventry,3.0,Fewer qualifications / Lower income,60.68921165128534,-2.1392116512853434
+E02001987,Chapelfields,E08000026,Coventry,1.0,More fuel poverty / Less employment,62.25023624691883,-0.05023624691882844
+E02001988,Central Coventry,E08000026,Coventry,,,,
+E02001989,Earl Place,E08000026,Coventry,4.0,Higher income / More qualifications,66.06528793140691,-0.26528793140690254
+E02001990,Binley,E08000026,Coventry,4.0,Higher income / More qualifications,66.80880548997474,1.891194510025258
+E02001991,Earlsdon,E08000026,Coventry,4.0,Higher income / More qualifications,70.62959977723283,-0.9295997772328235
+E02001992,Ernesford Grange,E08000026,Coventry,3.0,Fewer qualifications / Lower income,60.9769840126191,-2.126984012619097
+E02001993,Canley,E08000026,Coventry,3.0,Fewer qualifications / Lower income,63.3783403040488,-1.6283403040487983
+E02001994,Cheylesmore Daventry Road,E08000026,Coventry,4.0,Higher income / More qualifications,65.66122287965995,-0.011222879659939622
+E02001995,Whitley,E08000026,Coventry,3.0,Fewer qualifications / Lower income,62.779974080216284,0.02002591978371271
+E02001996,Willenhall,E08000026,Coventry,2.0,Higher ASB / Higher recorded crime,58.70835455410333,-3.4583545541033303
+E02001997,Stivichall,E08000026,Coventry,4.0,Higher income / More qualifications,70.71450155881683,-0.21450155881683486
+E02001998,Finham Park,E08000026,Coventry,4.0,Higher income / More qualifications,70.36822575901965,0.03177424098035431
+E02001999,Cannon Park,E08000026,Coventry,3.0,Fewer qualifications / Lower income,67.93909613152127,1.4109038684787265
+E02002000,Coseley Wallbrook,E08000027,Dudley,3.0,Fewer qualifications / Lower income,60.684414490190974,0.8155855098090257
+E02002001,Sedgley East,E08000027,Dudley,3.0,Fewer qualifications / Lower income,60.56270726928557,3.4372927307144323
+E02002002,Sedgley West,E08000027,Dudley,4.0,Higher income / More qualifications,68.37003349892751,0.7799665010724937
+E02002003,West Coseley,E08000027,Dudley,3.0,Fewer qualifications / Lower income,61.59263728396115,1.457362716038844
+E02002004,Woodsetton,E08000027,Dudley,3.0,Fewer qualifications / Lower income,61.16541989051277,-0.16541989051277284
+E02002005,Dudley Priory,E08000027,Dudley,1.0,More fuel poverty / Less employment,58.577517692642004,-0.5275176926420073
+E02002006,Upper Gornal,E08000027,Dudley,3.0,Fewer qualifications / Lower income,60.77289388669652,0.47710611330347774
+E02002007,Lower Gornal,E08000027,Dudley,3.0,Fewer qualifications / Lower income,63.89310349884761,1.2568965011523971
+E02002008,Dibdale,E08000027,Dudley,4.0,Higher income / More qualifications,66.54793165564685,0.3520683443531567
+E02002009,Kates Hill,E08000027,Dudley,1.0,More fuel poverty / Less employment,57.097739913064785,1.502260086935216
+E02002010,New Dock,E08000027,Dudley,1.0,More fuel poverty / Less employment,57.92928831867202,-0.02928831867201609
+E02002011,Kingswinford North,E08000027,Dudley,3.0,Fewer qualifications / Lower income,66.07470272760067,2.675297272399334
+E02002012,Russell's Hall,E08000027,Dudley,1.0,More fuel poverty / Less employment,58.92115511020225,-2.271155110202251
+E02002013,Wall Heath,E08000027,Dudley,4.0,Higher income / More qualifications,68.22284204097652,-0.12284204097652207
+E02002014,Dixons Green,E08000027,Dudley,1.0,More fuel poverty / Less employment,60.07647402708258,-1.5264740270825854
+E02002015,Pensett,E08000027,Dudley,3.0,Fewer qualifications / Lower income,64.13482389961038,0.015176100389624025
+E02002016,Brockmoor,E08000027,Dudley,1.0,More fuel poverty / Less employment,58.66609777961148,-2.016097779611478
+E02002017,Netherton,E08000027,Dudley,3.0,Fewer qualifications / Lower income,59.617258005038465,-0.8672580050384653
+E02002018,Kingswinford South,E08000027,Dudley,4.0,Higher income / More qualifications,67.7690311250069,0.6809688749930842
+E02002019,Dudley Wood,E08000027,Dudley,3.0,Fewer qualifications / Lower income,59.036324394253754,0.7636756057462435
+E02002020,Wordsley,E08000027,Dudley,4.0,Higher income / More qualifications,65.92715673871531,0.6228432612846859
+E02002021,Brierley Hill,E08000027,Dudley,2.0,Higher ASB / Higher recorded crime,56.12783161930552,0.6221683806944824
+E02002022,Hawbush,E08000027,Dudley,3.0,Fewer qualifications / Lower income,61.15733571136629,-0.5073357113662809
+E02002023,Ashwood,E08000027,Dudley,3.0,Fewer qualifications / Lower income,63.64614161827884,3.2038583817211546
+E02002024,Quarry Bank,E08000027,Dudley,3.0,Fewer qualifications / Lower income,62.66833252612572,-0.1683325261257167
+E02002025,Shell Corner,E08000027,Dudley,3.0,Fewer qualifications / Lower income,62.859591438825966,0.6904085611740314
+E02002026,Amblecote East,E08000027,Dudley,3.0,Fewer qualifications / Lower income,63.24248675183092,3.707513248169086
+E02002027,Withymoor Village,E08000027,Dudley,4.0,Higher income / More qualifications,67.02630206060095,3.923697939399034
+E02002028,Wollaston,E08000027,Dudley,4.0,Higher income / More qualifications,66.62440793985198,0.17559206014803408
+E02002029,Quinton West,E08000027,Dudley,4.0,Higher income / More qualifications,67.07793706273468,-0.07793706273467649
+E02002030,Amblecote West,E08000027,Dudley,3.0,Fewer qualifications / Lower income,61.936304102485146,-0.08630410248514409
+E02002031,Cradley West,E08000027,Dudley,3.0,Fewer qualifications / Lower income,60.35104030786658,2.198959692133414
+E02002032,Cradley East,E08000027,Dudley,3.0,Fewer qualifications / Lower income,61.83658176666455,-0.7365817666645498
+E02002033,Hawne,E08000027,Dudley,3.0,Fewer qualifications / Lower income,63.906971389231,2.693028610768991
+E02002034,Stourbridge Town,E08000027,Dudley,3.0,Fewer qualifications / Lower income,65.2294799686434,-0.7294799686434033
+E02002035,Halesowen East,E08000027,Dudley,4.0,Higher income / More qualifications,69.69981685485874,0.9001831451412556
+E02002036,Lye,E08000027,Dudley,2.0,Higher ASB / Higher recorded crime,58.4405172723275,0.4594827276725013
+E02002037,Norton North,E08000027,Dudley,4.0,Higher income / More qualifications,65.54759713833683,1.0024028616631853
+E02002038,Halesowen Town,E08000027,Dudley,3.0,Fewer qualifications / Lower income,63.04411191896435,0.7558880810356499
+E02002039,Oldswinford,E08000027,Dudley,4.0,Higher income / More qualifications,68.44404109525303,0.20595890474697853
+E02002040,Norton South,E08000027,Dudley,4.0,Higher income / More qualifications,71.62125351012533,-0.7712535101253337
+E02002041,Pedmore Fields,E08000027,Dudley,4.0,Higher income / More qualifications,68.54142678324705,1.7085732167529528
+E02002042,Hayley Green,E08000027,Dudley,4.0,Higher income / More qualifications,68.47826895784905,0.42173104215095236
+E02002043,Wood Green,E08000028,Sandwell,1.0,More fuel poverty / Less employment,59.462886427293796,-1.0628864272937975
+E02002044,Yew Tree,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,61.19626246277171,0.8537375372282838
+E02002045,Woods,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.47974087070427,0.9202591292957294
+E02002046,Friar Park,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.05599220009537,-1.905992200095369
+E02002047,Wednesbury,E08000028,Sandwell,1.0,More fuel poverty / Less employment,58.08190645290964,-0.33190645290964227
+E02002048,Great Barr,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,66.6470621897821,1.3529378102178953
+E02002049,Princes End,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.62259960565797,2.3774003943420325
+E02002051,Ocker Hill,E08000028,Sandwell,1.0,More fuel poverty / Less employment,58.080159311772825,-1.5301593117728274
+E02002052,Stone Cross,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,60.00210039093223,-1.152100390932226
+E02002053,Hamstead East,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,62.932121733407264,2.0678782665927358
+E02002054,Hamstead West,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,64.89097680038525,-0.9909768003852406
+E02002055,Wednesbury South,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.739244679914826,-0.6392446799148246
+E02002056,Tibbington,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.93920916894348,-2.289209168943472
+E02002057,Tipton,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.10088054287254,-2.2008805428725395
+E02002058,Great Bridge,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.96851776012292,-0.4185177601229242
+E02002059,West Bromwich North,E08000028,Sandwell,1.0,More fuel poverty / Less employment,58.804383363917935,0.9456166360820646
+E02002060,Greets Green West,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.2674399767394,0.3825600232606092
+E02002061,Greets Green East,E08000028,Sandwell,1.0,More fuel poverty / Less employment,54.64959251953341,2.1504074804665905
+E02002062,West Bromwich East,E08000028,Sandwell,1.0,More fuel poverty / Less employment,56.50818417513817,0.29181582486182833
+E02002063,North Tividale,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,61.14753281811573,-0.04753281811572663
+E02002064,Tividale,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,60.79482248388721,0.45517751611279067
+E02002065,Smethwick North,E08000028,Sandwell,1.0,More fuel poverty / Less employment,58.077379099339026,0.07262090066097215
+E02002066,Oldbury,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.41374714986185,0.8362528501381519
+E02002067,Rowley West,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,62.18946864121246,2.160531358787537
+E02002069,Whiteheath,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.639275646500195,-0.5392756465001938
+E02002070,Smethwick South,E08000028,Sandwell,1.0,More fuel poverty / Less employment,58.70235276082822,-1.4523527608282194
+E02002071,Rowley East,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.9349251828802,-0.9849251828801968
+E02002072,Langley Green,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,62.89606714603119,-0.04606714603119144
+E02002073,Warley East,E08000028,Sandwell,1.0,More fuel poverty / Less employment,59.49392658525862,-1.6939265852586232
+E02002074,Warley West,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,61.2410597056173,-0.5410597056173003
+E02002075,Blackheath,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,59.56714591491527,0.18285408508472756
+E02002076,Bearwood,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,65.51578834908705,-1.1657883490870518
+E02002077,Old Hill,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,60.79699518627979,-1.49699518627979
+E02002078,Warley South,E08000028,Sandwell,4.0,Higher income / More qualifications,66.80611769283874,1.093882307161266
+E02002079,Brandhall,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,61.44357648534925,0.7564235146507556
+E02002080,Cradley Heath,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,61.348958868520555,-1.198958868520556
+E02002081,Castle Bromwich West,E08000029,Solihull,3.0,Fewer qualifications / Lower income,64.64688449438688,1.803115505613107
+E02002082,Smith's Wood North,E08000029,Solihull,3.0,Fewer qualifications / Lower income,58.535261749124615,-1.285261749124615
+E02002083,Castle Bromwich East,E08000029,Solihull,3.0,Fewer qualifications / Lower income,64.74098170195198,4.809018298048031
+E02002084,Smith's Wood South,E08000029,Solihull,3.0,Fewer qualifications / Lower income,59.821429738755654,-1.7214297387556527
+E02002085,Kingshurst,E08000029,Solihull,3.0,Fewer qualifications / Lower income,59.973699806660136,1.476300193339867
+E02002086,Chelmsley Wood West,E08000029,Solihull,2.0,Higher ASB / Higher recorded crime,55.91684846495758,1.483151535042417
+E02002087,Fordbridge,E08000029,Solihull,3.0,Fewer qualifications / Lower income,58.711609551437434,-3.011609551437431
+E02002088,Chelmsley Wood East,E08000029,Solihull,1.0,More fuel poverty / Less employment,58.67757320921252,-3.127573209212521
+E02002089,Marston Green,E08000029,Solihull,2.0,Higher ASB / Higher recorded crime,61.89629468859405,3.503705311405959
+E02002090,Lyndon North,E08000029,Solihull,4.0,Higher income / More qualifications,65.74508357084757,0.8549164291524249
+E02002091,Elmdon Park,E08000029,Solihull,3.0,Fewer qualifications / Lower income,64.72044255035054,3.2795574496494595
+E02002092,Lyndon South,E08000029,Solihull,3.0,Fewer qualifications / Lower income,63.75558177467363,0.14441822532636905
+E02002093,Olton,E08000029,Solihull,3.0,Fewer qualifications / Lower income,64.77963370364795,-0.22963370364794855
+E02002094,Ulverley Green,E08000029,Solihull,4.0,Higher income / More qualifications,71.63286901162537,0.3671309883746261
+E02002095,Elmdon Heath,E08000029,Solihull,4.0,Higher income / More qualifications,67.42895039483363,1.8710496051663625
+E02002096,Lode Heath,E08000029,Solihull,4.0,Higher income / More qualifications,69.07059526945454,0.8794047305454598
+E02002097,Meriden,E08000029,Solihull,4.0,Higher income / More qualifications,70.16464551794881,0.3353544820511871
+E02002098,Shirley East,E08000029,Solihull,4.0,Higher income / More qualifications,68.2708024372146,-0.07080243721459567
+E02002099,Central Solihull,E08000029,Solihull,2.0,Higher ASB / Higher recorded crime,68.30178148662084,6.9982185133791575
+E02002101,Solihull Lodge,E08000029,Solihull,4.0,Higher income / More qualifications,66.49340491522595,0.45659508477403676
+E02002102,Blossomfield,E08000029,Solihull,4.0,Higher income / More qualifications,67.10686301314043,1.1431369868595738
+E02002103,Shirley Heath,E08000029,Solihull,4.0,Higher income / More qualifications,69.885209858825,-0.7352098588249874
+E02002104,Monkspath North,E08000029,Solihull,4.0,Higher income / More qualifications,75.69265624513999,-1.0926562451399917
+E02002105,Balsall Common,E08000029,Solihull,4.0,Higher income / More qualifications,73.58242525703466,-0.982425257034663
+E02002106,Knowle,E08000029,Solihull,4.0,Higher income / More qualifications,74.02823079785247,-1.7282307978524756
+E02002107,Monkspath South,E08000029,Solihull,4.0,Higher income / More qualifications,73.88676603460553,-0.036766034605534514
+E02002108,Dorridge,E08000029,Solihull,4.0,Higher income / More qualifications,74.64412540487594,-0.29412540487594185
+E02002109,Dickens Heath,E08000029,Solihull,4.0,Higher income / More qualifications,71.12679529989938,1.3732047001006151
+E02002110,Brownhills West,E08000030,Walsall,2.0,Higher ASB / Higher recorded crime,61.34122688032348,1.8087731196765233
+E02002111,Brownhills,E08000030,Walsall,3.0,Fewer qualifications / Lower income,59.88914739863253,-0.43914739863252805
+E02002112,Pelsall North,E08000030,Walsall,3.0,Fewer qualifications / Lower income,63.4975807250964,1.302419274903599
+E02002113,Walsall Wood,E08000030,Walsall,3.0,Fewer qualifications / Lower income,60.532142489787816,2.1178575102121826
+E02002114,Pelsall South,E08000030,Walsall,3.0,Fewer qualifications / Lower income,64.23930316841185,0.7106968315881517
+E02002115,Little Bloxwich,E08000030,Walsall,3.0,Fewer qualifications / Lower income,60.72698851935016,-0.3269885193501594
+E02002116,Aldridge North,E08000030,Walsall,4.0,Higher income / More qualifications,67.09664377335113,-0.8466437733511327
+E02002117,Bloxwich Central,E08000030,Walsall,2.0,Higher ASB / Higher recorded crime,60.82964643255648,1.6703535674435201
+E02002118,Bloxwich North West,E08000030,Walsall,3.0,Fewer qualifications / Lower income,58.31152441846592,-0.2115244184659204
+E02002119,Shelfield,E08000030,Walsall,3.0,Fewer qualifications / Lower income,62.653724091314416,1.0462759086855868
+E02002120,Ashmore,E08000030,Walsall,3.0,Fewer qualifications / Lower income,62.31768711987823,3.982312880121782
+E02002121,Blakenall North,E08000030,Walsall,1.0,More fuel poverty / Less employment,57.37287636938851,-2.4228763693885043
+E02002122,Blakenall South,E08000030,Walsall,3.0,Fewer qualifications / Lower income,59.36028901259456,-1.710289012594565
+E02002123,New Invention,E08000030,Walsall,3.0,Fewer qualifications / Lower income,60.796501816904026,0.7534981830959708
+E02002124,Aldridge Central,E08000030,Walsall,3.0,Fewer qualifications / Lower income,61.7678035352862,2.532196464713799
+E02002125,Rushall,E08000030,Walsall,3.0,Fewer qualifications / Lower income,61.19864693309792,-1.5486469330979205
+E02002126,Bloxwich South,E08000030,Walsall,1.0,More fuel poverty / Less employment,56.483680458511586,-2.533680458511583
+E02002127,Walsall Ryecroft,E08000030,Walsall,1.0,More fuel poverty / Less employment,58.79356898918507,-2.0435689891850686
+E02002128,Short Heath East,E08000030,Walsall,3.0,Fewer qualifications / Lower income,60.95796545097844,1.9420345490215638
+E02002129,Short Heath West,E08000030,Walsall,3.0,Fewer qualifications / Lower income,61.87641491425953,2.2735850857404785
+E02002130,Leamore,E08000030,Walsall,1.0,More fuel poverty / Less employment,56.96942256075874,0.030577439241262994
+E02002131,Aldridge South,E08000030,Walsall,4.0,Higher income / More qualifications,68.0649338022303,0.8850661977696888
+E02002132,Bentley,E08000030,Walsall,3.0,Fewer qualifications / Lower income,58.701111131633205,-0.40111113163320766
+E02002133,Walsall North East,E08000030,Walsall,2.0,Higher ASB / Higher recorded crime,62.39104989437721,-0.39104989437721116
+E02002134,Willenhall Park,E08000030,Walsall,3.0,Fewer qualifications / Lower income,58.963658471786026,0.3863415282139755
+E02002135,Walsall West,E08000030,Walsall,1.0,More fuel poverty / Less employment,56.483990655135926,0.31600934486407084
+E02002136,Willenhall Town,E08000030,Walsall,2.0,Higher ASB / Higher recorded crime,57.9225858412571,2.2774141587429
+E02002137,Streetly North,E08000030,Walsall,4.0,Higher income / More qualifications,70.62171215424685,0.7282878457531439
+E02002138,Walsall East,E08000030,Walsall,3.0,Fewer qualifications / Lower income,64.23823071566312,0.9617692843368673
+E02002139,Walsall Central,E08000030,Walsall,,,,
+E02002140,Pleck,E08000030,Walsall,1.0,More fuel poverty / Less employment,56.28772622548717,1.612273774512829
+E02002141,Streetly South,E08000030,Walsall,4.0,Higher income / More qualifications,69.32387008348988,2.3261299165101263
+E02002142,Darlaston East,E08000030,Walsall,1.0,More fuel poverty / Less employment,57.38712071908508,-0.18712071908507966
+E02002143,Palfrey,E08000030,Walsall,1.0,More fuel poverty / Less employment,55.28724341227281,1.3627565877271977
+E02002144,Walsall South East,E08000030,Walsall,4.0,Higher income / More qualifications,69.60135503313344,0.49864496686655
+E02002145,Darlaston Central,E08000030,Walsall,3.0,Fewer qualifications / Lower income,58.640289542741584,-0.5902895427415871
+E02002146,The Delves,E08000030,Walsall,1.0,More fuel poverty / Less employment,60.0296663089145,-0.27966630891449995
+E02002147,Darlaston West,E08000030,Walsall,3.0,Fewer qualifications / Lower income,58.661122480903714,-1.3111224809037125
+E02002148,Pheasey,E08000030,Walsall,3.0,Fewer qualifications / Lower income,65.21789923417552,2.532100765824481
+E02002149,Bushbury,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,61.86556262658878,0.7844373734112153
+E02002150,Fordhouses,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,61.42279440987967,-0.37279440987967405
+E02002151,Pendeford,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,60.70140805169756,-1.4014080516975653
+E02002152,Bushbury Hill,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,59.637447580342744,-3.537447580342743
+E02002153,Ashmore Park,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,60.8578852021194,-0.15788520211939527
+E02002154,Oxley Park,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,63.57742197083958,-2.8274219708395805
+E02002155,Low Hill,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,58.512176700629,-2.3121767006289957
+E02002156,Wood End,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,61.88447261394326,0.46552738605674193
+E02002157,Tettenhall North,E08000031,Wolverhampton,4.0,Higher income / More qualifications,66.98547538707922,1.314524612920792
+E02002158,Wednesfield North East,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,61.2692994394966,-0.5192994394965993
+E02002159,Park Lane,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,58.72884725382656,0.5711527461734391
+E02002160,Wednesfield Town,E08000031,Wolverhampton,2.0,Higher ASB / Higher recorded crime,60.99240741574605,2.057592584253946
+E02002161,Whitmore Reans,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,59.76310884789177,-0.5131088478917718
+E02002162,Tettenhall South,E08000031,Wolverhampton,4.0,Higher income / More qualifications,68.90027404874091,-1.300274048740917
+E02002163,Heath Town,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,58.3800938159859,-0.08009381598590437
+E02002164,Waterloo Road,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,56.55995718675718,0.9400428132428189
+E02002165,West Park,E08000031,Wolverhampton,2.0,Higher ASB / Higher recorded crime,60.37772891833758,0.07227108166242147
+E02002166,East Park,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,58.180004232990356,-1.880004232990359
+E02002167,Castlecroft,E08000031,Wolverhampton,4.0,Higher income / More qualifications,65.33283435133829,1.4171656486617081
+E02002168,Wolverhampton Central,E08000031,Wolverhampton,,,,
+E02002169,Compton,E08000031,Wolverhampton,4.0,Higher income / More qualifications,71.22255333796748,-3.4225533379674715
+E02002170,Bilston North West,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,59.6544692016929,0.9455307983071037
+E02002171,Bilston North East,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,59.454410154458294,-0.3044101544582958
+E02002174,Bradmore,E08000031,Wolverhampton,4.0,Higher income / More qualifications,68.16110030495663,-4.111100304956636
+E02002175,Bilston Lunt,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,57.40074761129821,0.5492523887017953
+E02002176,Merryhill South,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,63.692314029094405,0.40768597090558956
+E02002177,Ettingshall,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,59.79826213538679,-0.24826213538679553
+E02002178,Goldthorn Park,E08000031,Wolverhampton,4.0,Higher income / More qualifications,68.03423929288971,-3.8342392928897056
+E02002179,Upper Penn,E08000031,Wolverhampton,4.0,Higher income / More qualifications,68.1365506449476,-0.9365506449476015
+E02002180,Ettingshall Park,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,61.90211868651154,0.2478813134884632
+E02002181,Bradley,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,58.78058652228025,-0.43058652228025096
+E02002182,Woodcross,E08000031,Wolverhampton,3.0,Fewer qualifications / Lower income,60.857086245003735,-1.2070862450037296
+E02002809,Spondon South,E06000015,Derby,3.0,Fewer qualifications / Lower income,62.81845418227661,-1.2184541822766093
+E02002812,Littleover East,E06000015,Derby,2.0,Higher ASB / Higher recorded crime,65.99046160698039,-2.0904616069803907
+E02002813,Rose Hill,E06000015,Derby,2.0,Higher ASB / Higher recorded crime,54.81356795408361,0.18643204591639062
+E02002814,Mickleover South,E06000015,Derby,4.0,Higher income / More qualifications,69.15146193263318,-1.0514619326331882
+E02002815,Normanton North,E06000015,Derby,1.0,More fuel poverty / Less employment,57.31973451223837,1.6302654877616334
+E02002816,Littleover West,E06000015,Derby,4.0,Higher income / More qualifications,71.10086251181153,-0.30086251181153045
+E02002817,Normanton West,E06000015,Derby,4.0,Higher income / More qualifications,67.23652629340715,0.013473706592847634
+E02002818,Normanton South,E06000015,Derby,1.0,More fuel poverty / Less employment,58.38284831527774,-1.0328483152777395
+E02002819,Wilmorton,E06000015,Derby,2.0,Higher ASB / Higher recorded crime,60.96007985735592,-2.260079857355919
+E02002820,Alvaston,E06000015,Derby,2.0,Higher ASB / Higher recorded crime,59.862627883366244,-0.7126278833662454
+E02002821,Allenton,E06000015,Derby,2.0,Higher ASB / Higher recorded crime,57.699196693841635,-1.3991966938416383
+E02002822,Sunny Hill,E06000015,Derby,3.0,Fewer qualifications / Lower income,64.0721622097953,-0.3721622097952917
+E02002823,Boulton,E06000015,Derby,3.0,Fewer qualifications / Lower income,61.17795965952062,-0.6779596595206172
+E02002824,Sinfin,E06000015,Derby,3.0,Fewer qualifications / Lower income,60.758214835328374,-0.20821483532837703
+E02002825,Chellaston West,E06000015,Derby,4.0,Higher income / More qualifications,65.57980141638585,-1.1798014163858426
+E02002826,Chellaston East,E06000015,Derby,4.0,Higher income / More qualifications,66.84920439292176,1.2007956070782484
+E02002905,Wigmore,E06000019,Herefordshire,4.0,Higher income / More qualifications,68.95792328856103,-0.6579232885610367
+E02002908,Shobdon,E06000019,Herefordshire,4.0,Higher income / More qualifications,69.43293475143702,1.1170652485629802
+E02002909,Bromyard,E06000019,Herefordshire,4.0,Higher income / More qualifications,66.5905811985538,0.6594188014461935
+E02002928,Newport North,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,67.53656892562952,0.2634310743704873
+E02002929,Edgmond,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,68.17227512785139,1.2777248721486103
+E02002930,Newport South,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,66.78061644262851,-0.18061644262851928
+E02002931,Muxton,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,67.9269766363435,2.023023363656506
+E02002932,Donnington,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,60.8290591890434,-1.9790591890433973
+E02002933,Dothill,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,65.85061881327655,-0.15061881327655158
+E02002934,Apley,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,65.6598683031162,-1.4598683031162096
+E02002935,Wrockwardine Wood,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,61.42398387793822,1.476016122061779
+E02002936,Hadley,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,62.193822624705966,-0.5938226247059646
+E02002937,Ironbridge,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,68.70038821975588,-0.7003882197558795
+E02002938,Wellington East,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,62.50354171734086,-1.053541717340856
+E02002939,Wellington West,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,64.26113862929877,-1.2111386292987731
+E02002940,St George's,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,61.561407276093185,0.7385927239068124
+E02002941,Oakengates,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,61.9787732141433,-0.8287732141432969
+E02002942,Priorslee,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,69.25306466157987,-0.30306466157986733
+E02002944,Malinslee,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,57.66228842486593,-1.1122884248659304
+E02002945,Hollinswood,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,60.4264720560804,0.923527943919602
+E02002946,Dawley,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,61.74862452424373,-0.7986245242437278
+E02002947,Brookside,E06000020,Telford and Wrekin,3.0,Fewer qualifications / Lower income,59.96158381933946,0.13841618066054195
+E02002948,Woodside,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,58.205662988263924,-2.8056629882639186
+E02002949,Madeley,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,61.431192556152446,0.2688074438475567
+E02002950,Sutton Hill,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,58.01998606993498,-0.7699860699349799
+E02004077,Doveridge,E07000035,Derbyshire Dales,4.0,Higher income / More qualifications,71.73079540839521,0.4692045916047789
+E02004086,Borrowash,E07000036,Erewash,4.0,Higher income / More qualifications,68.23832638490363,-0.4883263849036297
+E02004088,Long Eaton West,E07000036,Erewash,4.0,Higher income / More qualifications,71.9618965616594,-1.8618965616594068
+E02004090,Breaston,E07000036,Erewash,4.0,Higher income / More qualifications,66.74784754027601,-0.19784754027600115
+E02004091,Long Eaton South,E07000036,Erewash,4.0,Higher income / More qualifications,67.99504701296529,-0.5950470129652814
+E02004092,Sawley,E07000036,Erewash,3.0,Fewer qualifications / Lower income,64.20328940016118,-0.15328940016118509
+E02004118,Hatton,E07000039,South Derbyshire,4.0,Higher income / More qualifications,69.47216541375168,-1.0221654137516936
+E02004119,Hilton,E07000039,South Derbyshire,4.0,Higher income / More qualifications,70.3515700855366,-1.0015700855365992
+E02004120,Willington North,E07000039,South Derbyshire,4.0,Higher income / More qualifications,68.55121458271569,-1.0012145827156758
+E02004121,Aston-on-Trent,E07000039,South Derbyshire,4.0,Higher income / More qualifications,71.13776783119152,-1.1877678311915219
+E02004122,Willington South,E07000039,South Derbyshire,4.0,Higher income / More qualifications,72.21377235841486,-1.5137723584148546
+E02004123,Melbourne,E07000039,South Derbyshire,4.0,Higher income / More qualifications,70.47282555827094,-0.3228255582709352
+E02004124,Swadlincote North,E07000039,South Derbyshire,3.0,Fewer qualifications / Lower income,65.25383507504905,-0.9038350750490594
+E02004125,Swadlincote West,E07000039,South Derbyshire,3.0,Fewer qualifications / Lower income,64.05357890873225,-2.0035789087322513
+E02004126,Swadlincote Central,E07000039,South Derbyshire,2.0,Higher ASB / Higher recorded crime,62.095165371064034,-0.5451653710640372
+E02004128,Castle Gresley,E07000039,South Derbyshire,4.0,Higher income / More qualifications,67.7805937366824,-1.8305937366824168
+E02005335,Kirby Muxloe,E07000129,Blaby,4.0,Higher income / More qualifications,71.30826717972053,-1.408267179720525
+E02005342,Cosby,E07000129,Blaby,4.0,Higher income / More qualifications,67.80665916910426,1.343340830895741
+E02005344,Stoney Stanton,E07000129,Blaby,4.0,Higher income / More qualifications,68.8084063060418,0.2915936939581911
+E02005349,Shepshed West,E07000130,Charnwood,4.0,Higher income / More qualifications,66.44972555597053,-0.09972555597053656
+E02005350,Shepshed East,E07000130,Charnwood,4.0,Higher income / More qualifications,66.64622778300301,-1.7962277830030189
+E02005372,Dunton Bassett,E07000131,Harborough,4.0,Higher income / More qualifications,70.747390990658,1.6026090093419896
+E02005377,Markfield,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,67.42506603652974,1.1749339634702523
+E02005380,Market Bosworth,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,69.46532287015864,0.5846771298413671
+E02005381,Desford,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,69.00044377410232,-1.2504437741023224
+E02005382,Earl Shilton,E07000132,Hinckley and Bosworth,3.0,Fewer qualifications / Lower income,65.35274695942536,-1.3527469594253603
+E02005383,Barwell,E07000132,Hinckley and Bosworth,3.0,Fewer qualifications / Lower income,64.80417299736439,-1.2041729973643882
+E02005384,Stoke Golding,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,69.03273764350055,1.1172623564994524
+E02005385,Hinckley East,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,69.3699194493902,0.5300805506098101
+E02005386,Hinckley Central,E07000132,Hinckley and Bosworth,3.0,Fewer qualifications / Lower income,63.1064708695289,-0.8564708695288985
+E02005387,Hinckley West,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,66.86574028343848,-0.9157402834384953
+E02005388,Hinckley Clarendon Park,E07000132,Hinckley and Bosworth,3.0,Fewer qualifications / Lower income,63.228018041204336,2.0219819587956636
+E02005389,Burbage St Catherines,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,67.70937729181162,-2.45937729181162
+E02005390,Burbage Sketchley,E07000132,Hinckley and Bosworth,4.0,Higher income / More qualifications,70.36696220207683,1.3830377979231656
+E02005397,Castle Donington,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,68.32396566563914,-0.7739656656391247
+E02005398,Kegworth,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,68.31708140205265,1.9829185979473607
+E02005399,Ashby de la Zouch North,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,68.99606407436008,-0.346064074360072
+E02005400,Thringstone,E07000134,North West Leicestershire,3.0,Fewer qualifications / Lower income,66.3916074607034,-0.041607460703403376
+E02005401,Packington,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,70.13582107090733,0.8641789290926738
+E02005402,Ashby de la Zouch South,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,70.29923056098606,-2.7492305609860637
+E02005403,Whitwick,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,66.8858261294481,-1.7358261294480997
+E02005404,Donisthope,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,67.11414487464619,-1.2641448746461919
+E02005405,Agar Nook,E07000134,North West Leicestershire,3.0,Fewer qualifications / Lower income,63.97833586589753,-2.078335865897529
+E02005406,Coalville,E07000134,North West Leicestershire,2.0,Higher ASB / Higher recorded crime,61.66944240714036,-0.3694424071403617
+E02005407,Hugglescote,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,67.63780916210229,-0.6378091621022861
+E02005408,Measham,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,66.56968093115513,0.23031906884487796
+E02005409,Ibstock,E07000134,North West Leicestershire,4.0,Higher income / More qualifications,66.94469283734945,-1.5446928373494444
+E02006008,Shifnal,E06000051,Shropshire,4.0,Higher income / More qualifications,68.09957335559984,0.40042664440015585
+E02006009,Cosford,E06000051,Shropshire,4.0,Higher income / More qualifications,67.8816875270887,0.9183124729113104
+E02006010,Much Wenlock,E06000051,Shropshire,4.0,Higher income / More qualifications,66.4919716905441,1.5580283094559064
+E02006011,Bridgnorth West,E06000051,Shropshire,4.0,Higher income / More qualifications,66.52197495389785,1.528025046102158
+E02006012,Bridgnorth East,E06000051,Shropshire,4.0,Higher income / More qualifications,65.6707275129355,1.5792724870645003
+E02006013,Alveley,E06000051,Shropshire,4.0,Higher income / More qualifications,67.68850661092954,1.711493389070469
+E02006014,Highley,E06000051,Shropshire,4.0,Higher income / More qualifications,65.93532490724652,3.3646750927534725
+E02006016,Woore,E06000051,Shropshire,4.0,Higher income / More qualifications,67.63831504306934,1.6616849569306567
+E02006018,Market Drayton,E06000051,Shropshire,3.0,Fewer qualifications / Lower income,63.72761412989077,2.722385870109221
+E02006020,Hinstock,E06000051,Shropshire,4.0,Higher income / More qualifications,68.11556257199207,-2.265562571992078
+E02006022,Shawbury,E06000051,Shropshire,4.0,Higher income / More qualifications,69.51561443686818,-0.8156144368681879
+E02006038,Bayston Hill,E06000051,Shropshire,4.0,Higher income / More qualifications,68.30754285337,0.892457146630008
+E02006040,Cressage,E06000051,Shropshire,4.0,Higher income / More qualifications,68.97203403294935,2.877965967050642
+E02006043,Craven Arms,E06000051,Shropshire,4.0,Higher income / More qualifications,65.72530196626622,2.1746980337337902
+E02006046,Cleobury Mortimer,E06000051,Shropshire,4.0,Higher income / More qualifications,66.5772366845481,2.4227633154519026
+E02006118,Rugeley North,E07000192,Cannock Chase,4.0,Higher income / More qualifications,67.26639621612088,1.5336037838791157
+E02006119,Rugeley Town,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,60.48413213993392,-0.3841321399339179
+E02006120,Rugeley South,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,62.935717266087806,-1.1357172660878092
+E02006121,Hednesford Pye Green,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,63.998029925567344,-0.5480299255673415
+E02006122,Hednesford Central,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,65.07106397220173,-0.9710639722017333
+E02006123,Wimblebury,E07000192,Cannock Chase,4.0,Higher income / More qualifications,65.32844513243019,-1.878445132430187
+E02006124,Cannock North,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,60.07224175685442,-2.972241756854416
+E02006125,Cannock North East,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,60.801303117588574,-0.40130311758857573
+E02006126,Hednesford South,E07000192,Cannock Chase,4.0,Higher income / More qualifications,65.09515967779268,-0.7951596777926824
+E02006127,Hawks Green,E07000192,Cannock Chase,4.0,Higher income / More qualifications,66.83891149453811,0.3610885054618933
+E02006128,Cannock West,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,64.36557800226056,1.584421997739426
+E02006129,Cannock South,E07000192,Cannock Chase,2.0,Higher ASB / Higher recorded crime,59.237218529990685,0.2627814700093154
+E02006130,Norton Canes,E07000192,Cannock Chase,3.0,Fewer qualifications / Lower income,63.67558827632494,0.6244117236750597
+E02006131,Mayfield,E07000193,East Staffordshire,4.0,Higher income / More qualifications,69.16171524103653,-1.0617152410365378
+E02006132,Uttoxeter Heath,E07000193,East Staffordshire,4.0,Higher income / More qualifications,64.51871567456548,0.5812843254345097
+E02006133,Uttoxeter Town,E07000193,East Staffordshire,4.0,Higher income / More qualifications,65.84111346619426,0.6588865338057417
+E02006134,Rolleston-on-Dove,E07000193,East Staffordshire,4.0,Higher income / More qualifications,69.11767748529587,0.9823225147041228
+E02006135,Burton Stretton,E07000193,East Staffordshire,4.0,Higher income / More qualifications,66.7378452716013,2.2121547283987013
+E02006136,Abbots Bromley,E07000193,East Staffordshire,4.0,Higher income / More qualifications,70.87090907901289,-0.970909079012884
+E02006137,Burton Horninglow,E07000193,East Staffordshire,3.0,Fewer qualifications / Lower income,61.48184204651577,-0.53184204651577
+E02006138,Burton Eton Park,E07000193,East Staffordshire,3.0,Fewer qualifications / Lower income,59.795341675594614,0.8046583244053878
+E02006139,Burton Shobnall,E07000193,East Staffordshire,3.0,Fewer qualifications / Lower income,60.16019265619723,0.339807343802768
+E02006140,Burton Winshill,E07000193,East Staffordshire,3.0,Fewer qualifications / Lower income,63.761255737656505,-0.8112557376565022
+E02006141,Burton Central,E07000193,East Staffordshire,2.0,Higher ASB / Higher recorded crime,58.09720737134367,1.7027926286563257
+E02006142,Burton Brizlincote,E07000193,East Staffordshire,4.0,Higher income / More qualifications,68.40262119962199,1.6473788003780072
+E02006143,Branston,E07000193,East Staffordshire,4.0,Higher income / More qualifications,66.75558025900904,0.2944197409909606
+E02006144,Burton Stapenhill,E07000193,East Staffordshire,3.0,Fewer qualifications / Lower income,59.9935323802242,-1.6935323802242053
+E02006145,Barton-under-Needwood,E07000193,East Staffordshire,4.0,Higher income / More qualifications,68.84881314402651,2.401186855973492
+E02006146,Armitage,E07000194,Lichfield,4.0,Higher income / More qualifications,66.44332669477134,-1.2433266947713548
+E02006147,Alrewas,E07000194,Lichfield,4.0,Higher income / More qualifications,70.01502238534195,0.23497761465804956
+E02006148,Burntwood North East,E07000194,Lichfield,4.0,Higher income / More qualifications,68.82371398223599,2.7262860177640107
+E02006149,Lichfield Central,E07000194,Lichfield,2.0,Higher ASB / Higher recorded crime,63.27745816281832,1.0225418371816772
+E02006150,Lichfield East,E07000194,Lichfield,4.0,Higher income / More qualifications,71.73179896227126,-2.481798962271256
+E02006151,Burntwood West,E07000194,Lichfield,3.0,Fewer qualifications / Lower income,65.15430776945612,-0.1543077694561248
+E02006152,Lichfield West,E07000194,Lichfield,4.0,Higher income / More qualifications,70.25240394639275,0.09759605360724777
+E02006153,Whittington,E07000194,Lichfield,4.0,Higher income / More qualifications,73.30263272579981,-2.8026327257998105
+E02006154,Burntwood Chase Terrace,E07000194,Lichfield,4.0,Higher income / More qualifications,66.31821140475503,1.38178859524497
+E02006155,Burntwood Chasetown,E07000194,Lichfield,3.0,Fewer qualifications / Lower income,60.60534101584228,-0.5553410158422807
+E02006156,Shenstone,E07000194,Lichfield,4.0,Higher income / More qualifications,71.62112118820752,0.42887881179248666
+E02006157,Fazeley,E07000194,Lichfield,3.0,Fewer qualifications / Lower income,64.1019412726341,2.398058727365907
+E02006173,Loggerheads,E07000195,Newcastle-under-Lyme,4.0,Higher income / More qualifications,69.44736345490459,0.6526365450954046
+E02006174,Penkridge,E07000196,South Staffordshire,4.0,Higher income / More qualifications,67.14729373577924,1.8527062642207568
+E02006175,Huntington,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,63.69688846249686,1.553111537503142
+E02006176,Brewood,E07000196,South Staffordshire,4.0,Higher income / More qualifications,67.75019321294906,2.29980678705094
+E02006177,Cheslyn Hay,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,64.40570018431674,2.6442998156832687
+E02006178,Great Wyrley,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,62.65221665923945,1.4477833407605445
+E02006179,Featherstone West,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,66.78573003174763,-1.7357300317476358
+E02006180,Featherstone East,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,64.33276288109782,-1.5827628810978212
+E02006181,Bilbrook,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,63.632059983227165,0.7679400167728403
+E02006182,Codsall,E07000196,South Staffordshire,4.0,Higher income / More qualifications,70.8690051819673,-0.1690051819673073
+E02006185,Wombourne Inner,E07000196,South Staffordshire,3.0,Fewer qualifications / Lower income,64.39143713436714,1.6085628656328623
+E02006186,Wombourne Outer,E07000196,South Staffordshire,4.0,Higher income / More qualifications,69.20556706578415,0.7944329342158483
+E02006187,Kinver,E07000196,South Staffordshire,4.0,Higher income / More qualifications,69.98958638458704,-0.13958638458704797
+E02006189,Barlaston,E07000197,Stafford,4.0,Higher income / More qualifications,70.2067818016729,-1.2067818016729035
+E02006190,Stone Town,E07000197,Stafford,4.0,Higher income / More qualifications,66.47480794498375,-1.1748079449837547
+E02006191,Little Stoke,E07000197,Stafford,4.0,Higher income / More qualifications,70.29024610549588,1.209753894504118
+E02006192,Eccleshall,E07000197,Stafford,4.0,Higher income / More qualifications,69.26890381111332,1.1810961888866842
+E02006193,Stafford Common,E07000197,Stafford,4.0,Higher income / More qualifications,67.7579521344065,1.7420478655935057
+E02006194,Doxey,E07000197,Stafford,4.0,Higher income / More qualifications,64.43666138622496,-0.7866613862249565
+E02006195,Weston,E07000197,Stafford,4.0,Higher income / More qualifications,70.64645319171288,-0.5464531917128852
+E02006196,Stafford North East,E07000197,Stafford,3.0,Fewer qualifications / Lower income,63.158881259926254,-2.5588812599262525
+E02006197,Central Stafford,E07000197,Stafford,2.0,Higher ASB / Higher recorded crime,59.95606397512189,0.8439360248781043
+E02006198,Littleworth,E07000197,Stafford,4.0,Higher income / More qualifications,69.8817671307365,-0.33176713073649466
+E02006199,Rowley,E07000197,Stafford,4.0,Higher income / More qualifications,69.85610151905381,-0.8561015190538086
+E02006200,Highfields,E07000197,Stafford,3.0,Fewer qualifications / Lower income,59.70865691419753,-0.408656914197536
+E02006201,Weeping Cross,E07000197,Stafford,4.0,Higher income / More qualifications,70.48579312027243,2.3142068797275783
+E02006202,Gnosall,E07000197,Stafford,4.0,Higher income / More qualifications,68.27739546154761,2.7726045384523843
+E02006203,Mosspit,E07000197,Stafford,3.0,Fewer qualifications / Lower income,62.64966958806465,-0.5996695880646499
+E02006217,Coton Farm,E07000199,Tamworth,4.0,Higher income / More qualifications,66.66782360380247,0.832176396197525
+E02006218,Central Tamworth,E07000199,Tamworth,2.0,Higher ASB / Higher recorded crime,60.71422258109995,-0.41422258109995624
+E02006219,Amington,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,65.2249936513059,-0.7249936513058941
+E02006220,Bolehall,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,62.826705280734906,1.8232947192650997
+E02006221,Kettlebrook,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,63.72350855433725,2.2764914456627494
+E02006222,Belgrave,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,62.134176808410416,-0.18417680841041317
+E02006223,Glascote Heath,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,58.650551245955995,-3.550551245955994
+E02006224,Wilnecote East,E07000199,Tamworth,4.0,Higher income / More qualifications,65.21581875738953,1.234181242610461
+E02006225,Dosthill,E07000199,Tamworth,4.0,Higher income / More qualifications,66.49311254345079,0.9568874565492109
+E02006226,Wilnecote West,E07000199,Tamworth,3.0,Fewer qualifications / Lower income,63.46215921315265,0.7878407868473474
+E02006468,Polesworth,E07000218,North Warwickshire,4.0,Higher income / More qualifications,66.09112509074838,-0.041125090748380444
+E02006469,Dordon,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,62.21235779711823,0.18764220288176858
+E02006470,Atherstone,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,62.000680491374595,-0.7006804913745981
+E02006471,Kingsbury,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,65.95885508400781,3.441144915992197
+E02006472,Hartshill,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,64.26407181295824,0.13592818704177034
+E02006473,Coleshill,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,66.15101173590041,1.5989882640995887
+E02006474,New Arley,E07000218,North Warwickshire,3.0,Fewer qualifications / Lower income,66.7545355786188,-0.004535578618799718
+E02006475,Weddington,E07000219,Nuneaton and Bedworth,4.0,Higher income / More qualifications,67.68569605189019,1.1143039481098214
+E02006476,Camp Hill,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,60.99305078824434,-2.193050788244342
+E02006477,Horeston Grange,E07000219,Nuneaton and Bedworth,4.0,Higher income / More qualifications,71.39779425004188,-1.7477942500418777
+E02006478,Galley Common,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,65.05026089464653,-0.6002608946465244
+E02006479,Nuneaton Town Centre,E07000219,Nuneaton and Bedworth,2.0,Higher ASB / Higher recorded crime,57.18216749766094,2.3678325023390556
+E02006480,Tomkinson Road,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,59.68595490538402,0.8140450946159774
+E02006481,Stockingford,E07000219,Nuneaton and Bedworth,2.0,Higher ASB / Higher recorded crime,60.97129425329933,-0.571294253299321
+E02006482,Bermuda,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,64.96828028363439,-0.21828028363438534
+E02006483,Caldwell,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,59.92592573470474,-1.725925734704738
+E02006484,Attleborough,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,62.7181435958127,-0.11814359581269684
+E02006485,Whitestone,E07000219,Nuneaton and Bedworth,4.0,Higher income / More qualifications,69.75669323326126,2.093306766738735
+E02006486,Bedworth Woodlands,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,63.23991828852679,1.1100817114732067
+E02006487,Bedworth Town,E07000219,Nuneaton and Bedworth,2.0,Higher ASB / Higher recorded crime,59.73451018222451,-1.0845101822245127
+E02006488,Bulkington,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,66.22399149249078,1.1760085075092235
+E02006489,Bedworth Coalpit Field,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,61.07025253164279,0.17974746835721334
+E02006490,Bedworth Heath,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,63.976587452364654,-1.876587452364653
+E02006494,Rugby Town North,E07000220,Rugby,2.0,Higher ASB / Higher recorded crime,61.09462718995206,-1.9946271899520553
+E02006495,Wolston,E07000220,Rugby,4.0,Higher income / More qualifications,68.71134857142862,0.43865142857139006
+E02006497,New Bilton,E07000220,Rugby,3.0,Fewer qualifications / Lower income,64.27462425996642,-0.5746242599664129
+E02006498,Cawston,E07000220,Rugby,4.0,Higher income / More qualifications,66.82285955038725,1.077140449612756
+E02006503,Dunchurch,E07000220,Rugby,4.0,Higher income / More qualifications,71.46587627385416,0.8841237261458303
+E02006504,Earlswood,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,73.79182049458798,-0.3918204945879751
+E02006505,Henley-in-Arden,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,71.37202441572444,-0.7220244157244338
+E02006506,Studley,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,66.429038530222,0.42096146977799265
+E02006507,Southam,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,68.75976478452478,0.0402352154752208
+E02006508,Harbury,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,70.06777256264448,1.532227437355516
+E02006509,Alcester,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,67.26714979093889,-0.7671497909388876
+E02006510,Wilmcote,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,70.72924884155665,0.8707511584433405
+E02006511,Wellesbourne,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,70.15180765391503,0.4981923460849771
+E02006512,Stratford North,E07000221,Stratford-on-Avon,2.0,Higher ASB / Higher recorded crime,66.23151591750504,1.4684840824949674
+E02006513,Stratford South East,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,72.62843410527563,0.8215658947243583
+E02006514,Stratford South West,E07000221,Stratford-on-Avon,2.0,Higher ASB / Higher recorded crime,68.54093736527142,2.759062634728579
+E02006516,Kineton,E07000221,Stratford-on-Avon,4.0,Higher income / More qualifications,71.21528868484482,-0.3152886848448162
+E02006519,Kenilworth West,E07000222,Warwick,4.0,Higher income / More qualifications,71.89141079863815,-0.4914107986381424
+E02006520,Kenilworth East,E07000222,Warwick,4.0,Higher income / More qualifications,73.21832012459494,-1.5183201245949505
+E02006521,Kenilworth South,E07000222,Warwick,4.0,Higher income / More qualifications,74.35835702757835,-2.60835702757835
+E02006522,Kingswood,E07000222,Warwick,4.0,Higher income / More qualifications,73.19884979185817,2.501150208141823
+E02006523,Cubbington,E07000222,Warwick,4.0,Higher income / More qualifications,72.60629783277656,-1.9562978327765563
+E02006524,Lillington,E07000222,Warwick,4.0,Higher income / More qualifications,66.03158909199972,-2.53158909199972
+E02006525,Leamington Central,E07000222,Warwick,4.0,Higher income / More qualifications,71.56464021265303,-1.2146402126530376
+E02006526,Warwick North,E07000222,Warwick,4.0,Higher income / More qualifications,68.03425523910668,-2.3342552391066818
+E02006527,Leamington West,E07000222,Warwick,4.0,Higher income / More qualifications,71.59426042916421,-1.6942604291642027
+E02006528,Leamington East,E07000222,Warwick,4.0,Higher income / More qualifications,66.6835319530284,-1.9335319530284067
+E02006529,Warwick South West,E07000222,Warwick,4.0,Higher income / More qualifications,68.2244731430628,-1.1744731430627837
+E02006530,Warwick South East,E07000222,Warwick,4.0,Higher income / More qualifications,70.81770778570055,0.28229221429944573
+E02006531,Leamington Brunswick,E07000222,Warwick,3.0,Fewer qualifications / Lower income,61.402568085162905,-0.20256808516290192
+E02006532,Bishops Tachbrook,E07000222,Warwick,4.0,Higher income / More qualifications,70.90846804435505,0.5415319556449418
+E02006533,Whitnash,E07000222,Warwick,4.0,Higher income / More qualifications,70.3192704282245,-3.1692704282244932
+E02006696,Hagley,E07000234,Bromsgrove,4.0,Higher income / More qualifications,73.34317075866966,-0.09317075866965752
+E02006697,Dodford,E07000234,Bromsgrove,4.0,Higher income / More qualifications,70.37843797081025,0.5715620291897494
+E02006698,Rubery West,E07000234,Bromsgrove,4.0,Higher income / More qualifications,66.72442145115888,0.8755785488411192
+E02006699,Hollywood,E07000234,Bromsgrove,4.0,Higher income / More qualifications,68.34782880369214,1.4021711963078616
+E02006700,Wythall,E07000234,Bromsgrove,4.0,Higher income / More qualifications,70.12513126419483,-0.7751312641948402
+E02006701,Barnt Green,E07000234,Bromsgrove,4.0,Higher income / More qualifications,75.50480966396609,-1.9048096639660912
+E02006702,Catshill,E07000234,Bromsgrove,3.0,Fewer qualifications / Lower income,65.34004754377693,0.00995245622306129
+E02006703,Marlbrook,E07000234,Bromsgrove,4.0,Higher income / More qualifications,72.94739832176353,-2.7473983217635407
+E02006704,Alvechurch,E07000234,Bromsgrove,4.0,Higher income / More qualifications,70.42130504212368,0.6786949578763171
+E02006705,Bromsgrove Sidemoor,E07000234,Bromsgrove,4.0,Higher income / More qualifications,66.20693543539171,-1.1069354353917191
+E02006706,Bromsgrove Central,E07000234,Bromsgrove,2.0,Higher ASB / Higher recorded crime,64.89495896592311,1.455041034076885
+E02006707,Bromsgrove Stoney Hill,E07000234,Bromsgrove,4.0,Higher income / More qualifications,70.6219672217251,2.478032778274894
+E02006708,Bromsgrove Charford,E07000234,Bromsgrove,3.0,Fewer qualifications / Lower income,63.065155334980815,0.984844665019196
+E02006709,Stoke Heath (B60),E07000234,Bromsgrove,4.0,Higher income / More qualifications,70.26420283931644,-1.7642028393164395
+E02006710,Tenbury Wells,E07000235,Malvern Hills,4.0,Higher income / More qualifications,67.75900739137327,1.5909926086267205
+E02006711,Abberley,E07000235,Malvern Hills,4.0,Higher income / More qualifications,69.5180290631696,1.8319709368303876
+E02006712,Broadheath,E07000235,Malvern Hills,4.0,Higher income / More qualifications,69.86977180872361,0.9302281912763846
+E02006721,Riverside,E07000236,Redditch,4.0,Higher income / More qualifications,66.34510251712028,1.8048974828797242
+E02006722,Church Hill South,E07000236,Redditch,3.0,Fewer qualifications / Lower income,60.439574744785844,-0.7895747447858454
+E02006723,Batchley,E07000236,Redditch,3.0,Fewer qualifications / Lower income,63.491501981099276,-1.6415019810992746
+E02006724,Redditch Town,E07000236,Redditch,2.0,Higher ASB / Higher recorded crime,57.54288129702464,1.4071187029753602
+E02006725,Winyates Green,E07000236,Redditch,3.0,Fewer qualifications / Lower income,62.293772788988335,0.10622721101167087
+E02006726,Southcrest,E07000236,Redditch,3.0,Fewer qualifications / Lower income,63.26921277959293,0.6807872204070762
+E02006727,Arrow Valley,E07000236,Redditch,3.0,Fewer qualifications / Lower income,64.70317983775105,2.046820162248949
+E02006728,Webheath,E07000236,Redditch,4.0,Higher income / More qualifications,69.08341916761269,-0.5834191676126892
+E02006729,Matchborough,E07000236,Redditch,3.0,Fewer qualifications / Lower income,64.56307482132445,0.9369251786755513
+E02006730,Greenlands,E07000236,Redditch,3.0,Fewer qualifications / Lower income,59.692769099712436,-0.742769099712433
+E02006731,Oakenshaw,E07000236,Redditch,3.0,Fewer qualifications / Lower income,64.34399229739985,0.5560077026001551
+E02006732,Crabbs Cross,E07000236,Redditch,4.0,Higher income / More qualifications,67.88635323372502,1.563646766274971
+E02006733,Hunt End,E07000236,Redditch,4.0,Higher income / More qualifications,69.09634478620771,2.9536552137922882
+E02006734,Northwick,E07000237,Worcester,4.0,Higher income / More qualifications,71.62462950658674,-0.9246295065867542
+E02006735,Warndon West,E07000237,Worcester,2.0,Higher ASB / Higher recorded crime,56.699497561565735,-1.3994975615657381
+E02006736,Warndon East,E07000237,Worcester,4.0,Higher income / More qualifications,68.74022301454734,0.7097769854526632
+E02006737,Barbourne,E07000237,Worcester,4.0,Higher income / More qualifications,65.64011435968706,0.6098856403129389
+E02006738,King George's Field,E07000237,Worcester,3.0,Fewer qualifications / Lower income,60.24492564083471,-1.0449256408347054
+E02006739,Henwick,E07000237,Worcester,4.0,Higher income / More qualifications,65.42537390752081,3.0746260924791926
+E02006740,Worcester Town North,E07000237,Worcester,2.0,Higher ASB / Higher recorded crime,60.88867203270017,3.411327967299826
+E02006741,Lyppard Grange,E07000237,Worcester,4.0,Higher income / More qualifications,69.63672646332599,-2.136726463325985
+E02006748,Hartlebury,E07000238,Wychavon,4.0,Higher income / More qualifications,68.38554801913018,1.2144519808698107
+E02006749,Droitwich Spa West,E07000238,Wychavon,3.0,Fewer qualifications / Lower income,61.11254410673173,-1.212544106731734
+E02006750,Droitwich Spa East,E07000238,Wychavon,3.0,Fewer qualifications / Lower income,64.51966021051021,1.6803397894897927
+E02006751,Droitwich Spa Central,E07000238,Wychavon,3.0,Fewer qualifications / Lower income,65.28615885031321,-1.0861588503132111
+E02006752,Droitwich Spa South,E07000238,Wychavon,4.0,Higher income / More qualifications,70.76897428557702,1.4810257144229837
+E02006753,Fernhill Heath,E07000238,Wychavon,4.0,Higher income / More qualifications,70.24990810254371,0.5000918974562865
+E02006754,Crowle,E07000238,Wychavon,4.0,Higher income / More qualifications,70.7263345704149,1.8736654295850883
+E02006755,Inkberrow,E07000238,Wychavon,4.0,Higher income / More qualifications,72.04478672741462,0.5052132725853795
+E02006767,Wolverley,E07000239,Wyre Forest,4.0,Higher income / More qualifications,66.78250273236111,1.8174972676388848
+E02006768,Franche,E07000239,Wyre Forest,3.0,Fewer qualifications / Lower income,64.5001439686309,1.6498560313691115
+E02006769,Greenhill,E07000239,Wyre Forest,4.0,Higher income / More qualifications,66.7793226020021,0.17067739799790616
+E02006770,Kidderminster Town,E07000239,Wyre Forest,2.0,Higher ASB / Higher recorded crime,58.86620067320481,-0.016200673204807003
+E02006771,Bewdley East,E07000239,Wyre Forest,4.0,Higher income / More qualifications,66.12458587243965,0.9754141275603416
+E02006772,Habberley,E07000239,Wyre Forest,2.0,Higher ASB / Higher recorded crime,63.544115059595306,0.45588494040469385
+E02006773,Comberton,E07000239,Wyre Forest,3.0,Fewer qualifications / Lower income,63.43620834054229,-0.38620834054228936
+E02006774,Foley Park,E07000239,Wyre Forest,3.0,Fewer qualifications / Lower income,61.60984620960011,2.44015379039989
+E02006775,Birchen Coppice,E07000239,Wyre Forest,2.0,Higher ASB / Higher recorded crime,59.317229970820165,-2.2172299708201635
+E02006776,Spennells,E07000239,Wyre Forest,4.0,Higher income / More qualifications,65.56285738322201,2.387142616777993
+E02006777,Bewdley West,E07000239,Wyre Forest,4.0,Higher income / More qualifications,67.930731063243,1.219268936757004
+E02006778,Stourport Lickhill,E07000239,Wyre Forest,4.0,Higher income / More qualifications,66.05680563252739,-0.3068056325273858
+E02006779,Stourport Mitton,E07000239,Wyre Forest,2.0,Higher ASB / Higher recorded crime,63.5804556228216,1.9695443771783943
+E02006780,Stourport Areley Kings,E07000239,Wyre Forest,3.0,Fewer qualifications / Lower income,63.400313794050476,0.5996862059495243
+E02006805,Holbrooks,E08000026,Coventry,3.0,Fewer qualifications / Lower income,60.770854888273654,-0.9708548882736565
+E02006806,Ash Green,E07000219,Nuneaton and Bedworth,3.0,Fewer qualifications / Lower income,63.315557173071014,-0.5155571730710165
+E02006807,Yardley Wood East,E08000025,Birmingham,4.0,Higher income / More qualifications,67.97535925240298,-0.9253592524029699
+E02006808,Shirley West,E08000029,Solihull,4.0,Higher income / More qualifications,66.73646241469913,1.2635375853008668
+E02006809,Handsworth Wood,E08000025,Birmingham,4.0,Higher income / More qualifications,66.34603184680917,-2.746031846809167
+E02006810,Charlemont,E08000028,Sandwell,3.0,Fewer qualifications / Lower income,62.36917592292723,1.1808240770727707
+E02006894,Blakenhall,E08000031,Wolverhampton,1.0,More fuel poverty / Less employment,58.82377896273974,0.5262210372602638
+E02006895,Attwood Green,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,62.23764223927426,-4.187642239274261
+E02006896,Digbeth,E08000025,Birmingham,,,,
+E02006897,Five Ways North,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,59.502419988713186,-0.85241998871318
+E02006898,Ladywood Summer Hill,E08000025,Birmingham,2.0,Higher ASB / Higher recorded crime,64.76772938268478,-3.167729382684776
+E02006899,Birmingham city centre,E08000025,Birmingham,,,,
+E02006900,Bordesley,E08000025,Birmingham,1.0,More fuel poverty / Less employment,53.09526588914059,3.5047341108594097
+E02006919,Swadlincote South,E07000039,South Derbyshire,4.0,Higher income / More qualifications,65.7300385102095,-3.1800385102094992
+E02006920,Swadlincote East,E07000039,South Derbyshire,3.0,Fewer qualifications / Lower income,64.8770227643005,-1.4770227643005
+E02006943,Smethwick East,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.8299876803508,-0.5299876803507999
+E02006944,Smethwick South East,E08000028,Sandwell,1.0,More fuel poverty / Less employment,57.44392945180652,0.056070548193481784
+E02006982,Perton,E07000196,South Staffordshire,4.0,Higher income / More qualifications,67.41575790308774,1.8342420969122628
+E02007038,Birches Green,E08000025,Birmingham,1.0,More fuel poverty / Less employment,58.7010634573589,1.7989365426411013
+E02007039,Greet,E08000025,Birmingham,1.0,More fuel poverty / Less employment,54.24154896775866,2.408451032241338
+E02007040,Sparkhill South,E08000025,Birmingham,1.0,More fuel poverty / Less employment,55.56958627499828,2.030413725001722
+E02007048,Brinklow,E07000220,Rugby,4.0,Higher income / More qualifications,69.82661696239802,-0.3266169623980204
+E02007050,Telford Town Centre,E06000020,Telford and Wrekin,2.0,Higher ASB / Higher recorded crime,64.03164036439732,-0.33164036439731603
+E02007051,Lawley,E06000020,Telford and Wrekin,4.0,Higher income / More qualifications,68.40822233916543,-4.158222339165434

@@ -1,0 +1,4 @@
+model,validation,area_count,rmse_years,mae_years,r2
+Training-mean baseline,Grouped by local authority,654,5.192352891598287,4.426234678291149,-0.05894998915292016
+Linear regression,Grouped by local authority,654,1.644795911817645,1.3168409287295222,0.8937396887082472
+Linear regression,Random folds (comparison only),654,1.6181497891416354,1.2883530254156117,0.8971546903580851

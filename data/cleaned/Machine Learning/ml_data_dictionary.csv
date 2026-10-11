@@ -1,0 +1,37 @@
+file,column,unit,definition,missing_rule
+area_ml_results.csv,area_code,identifier,Unique MSOA21 code retained from the joined table,No missing values
+area_ml_results.csv,local_area_name,text,Saved familiar area name; no renaming,No missing values
+area_ml_results.csv,authority_code,identifier,LAD22 code from the LSOA21-to-MSOA21-to-LAD22 lookup,No missing values
+area_ml_results.csv,authority_name,text,Local authority name from the geography lookup,No missing values
+area_ml_results.csv,cluster_id,identifier,K-means group numbered by mean income; HLE excluded from grouping,Blank for the six excluded city and town centres
+area_ml_results.csv,cluster_label,text,Description of the two largest predictor-mean departures; HLE excluded from labelling,Blank for the six excluded city and town centres
+area_ml_results.csv,out_of_fold_prediction,years,Linear prediction from the fold that holds out this area's whole local authority,Blank for the six excluded city and town centres
+area_ml_results.csv,residual,years,Observed derived average HLE minus the grouped out-of-fold prediction,Blank for the six excluded city and town centres
+cluster_profiles.csv,cluster_id,identifier,K-means group numbered by mean income; HLE excluded from grouping,No missing values
+cluster_profiles.csv,cluster_label,text,Description of the two largest predictor-mean departures; HLE excluded from labelling,No missing values
+cluster_profiles.csv,area_count,areas,Number of included areas in the group or modelling population,No missing values
+cluster_profiles.csv,measure,column name,Predictor column from the saved provisional representatives,No missing values
+cluster_profiles.csv,measure_label,text,Saved readable predictor label,No missing values
+cluster_profiles.csv,unit,text,Unit of the original measure or HLE summary,No missing values
+cluster_profiles.csv,mean,See unit,Arithmetic mean in original units; group HLE means are descriptive,No missing values
+cluster_profiles.csv,standardised_mean,standard deviations,"Group predictor mean minus overall included-area mean, divided by overall predictor standard deviation",No missing values
+cluster_hle_summary.csv,cluster_id,identifier,K-means group numbered by mean income; HLE excluded from grouping,No missing values
+cluster_hle_summary.csv,cluster_label,text,Description of the two largest predictor-mean departures; HLE excluded from labelling,No missing values
+cluster_hle_summary.csv,count,areas,Number of areas in the HLE group summary,No missing values
+cluster_hle_summary.csv,mean,See unit,Arithmetic mean in original units; group HLE means are descriptive,No missing values
+cluster_hle_summary.csv,median,years,Median derived average HLE in the group,No missing values
+cluster_hle_summary.csv,minimum,years,Lowest observed derived average HLE in the group,No missing values
+cluster_hle_summary.csv,maximum,years,Highest observed derived average HLE in the group,No missing values
+cluster_hle_summary.csv,unit,text,Unit of the original measure or HLE summary,No missing values
+model_comparison.csv,model,text,Training-mean baseline or plain linear regression,No missing values
+model_comparison.csv,validation,text,Grouped authority validation or the random-fold comparison,No missing values
+model_comparison.csv,area_count,areas,Number of included areas in the group or modelling population,No missing values
+model_comparison.csv,rmse_years,years,Root mean squared error over pooled out-of-fold predictions,No missing values
+model_comparison.csv,mae_years,years,Mean absolute error over pooled out-of-fold predictions,No missing values
+model_comparison.csv,r2,dimensionless,Pooled out-of-fold R² against the overall observed mean; may be negative,No missing values
+coefficients.csv,measure,column name,Predictor column from the saved provisional representatives,No missing values
+coefficients.csv,label,text,Saved readable predictor label,No missing values
+coefficients.csv,standardised_coefficient_years,years per predictor standard deviation,Full-data linear coefficient with all other selected predictors held fixed; HLE is not standardised,No missing values
+coefficients.csv,predictor_standard_deviation,See predictor_unit,Population standard deviation used by the full-data predictor scaler,No missing values
+coefficients.csv,predictor_unit,text,Original predictor unit,No missing values
+coefficients.csv,area_count,areas,Number of included areas in the group or modelling population,No missing values

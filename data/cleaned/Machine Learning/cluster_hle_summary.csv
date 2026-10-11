@@ -1,0 +1,5 @@
+cluster_id,cluster_label,count,mean,median,minimum,maximum,unit
+1,More fuel poverty / Less employment,105,57.32095238095238,56.8,53.7,69.80000000000001,years
+2,Higher ASB / Higher recorded crime,53,61.1188679245283,60.400000000000006,55.0,75.3,years
+3,Fewer qualifications / Lower income,247,62.35404858299596,62.4,55.1,69.55000000000001,years
+4,Higher income / More qualifications,249,68.8949799196787,69.0,62.55,75.69999999999999,years

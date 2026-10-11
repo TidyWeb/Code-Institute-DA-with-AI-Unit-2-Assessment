@@ -1,0 +1,29 @@
+cluster_id,cluster_label,area_count,measure,measure_label,unit,mean,standardised_mean
+1,More fuel poverty / Less employment,105,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,£ per year,24204.980952380953,-1.3732671893753685
+1,More fuel poverty / Less employment,105,level4plus_pct,Level 4+ qualifications,% residents aged 16+,22.915005669782783,-0.7013352396262339
+1,More fuel poverty / Less employment,105,crime_for_analysis,Recorded crime (visitor hubs omitted),"published rows / 1,000 residents",126.05039490258518,0.9531807994661707
+1,More fuel poverty / Less employment,105,fuel_poor_households_pct,Fuel-poor households,% households,17.250319025984098,1.4737010106546473
+1,More fuel poverty / Less employment,105,no2_area_mean_ug_m3,NO₂ area mean,µg/m³,15.02064286349873,1.2904905536905265
+1,More fuel poverty / Less employment,105,employed_residents_16plus_pct,Employed residents aged 16+,% residents aged 16+,46.70281746464165,-1.4559502643476938
+1,More fuel poverty / Less employment,105,asb_rows_per_1000_residents,Anti-social behaviour rate,"published rows / 1,000 residents",11.021233694310062,0.18395773230292514
+2,Higher ASB / Higher recorded crime,53,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,£ per year,28485.22641509434,-0.5229419445074315
+2,Higher ASB / Higher recorded crime,53,level4plus_pct,Level 4+ qualifications,% residents aged 16+,27.514825674613682,-0.17634135320391703
+2,Higher ASB / Higher recorded crime,53,crime_for_analysis,Recorded crime (visitor hubs omitted),"published rows / 1,000 residents",165.49146916525757,1.8469300418737904
+2,Higher ASB / Higher recorded crime,53,fuel_poor_households_pct,Fuel-poor households,% households,12.765810992962844,0.26970903278246355
+2,Higher ASB / Higher recorded crime,53,no2_area_mean_ug_m3,NO₂ area mean,µg/m³,10.527842139401628,0.05745218214937318
+2,Higher ASB / Higher recorded crime,53,employed_residents_16plus_pct,Employed residents aged 16+,% residents aged 16+,56.12314209230468,0.1460158323747029
+2,Higher ASB / Higher recorded crime,53,asb_rows_per_1000_residents,Anti-social behaviour rate,"published rows / 1,000 residents",24.604946462992462,2.173377695487115
+3,Fewer qualifications / Lower income,247,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,£ per year,29666.287449392712,-0.28830913619248655
+3,Fewer qualifications / Lower income,247,level4plus_pct,Level 4+ qualifications,% residents aged 16+,24.67524982122749,-0.5004322875218978
+3,Fewer qualifications / Lower income,247,crime_for_analysis,Recorded crime (visitor hubs omitted),"published rows / 1,000 residents",82.30539418011611,-0.03809699876128624
+3,Fewer qualifications / Lower income,247,fuel_poor_households_pct,Fuel-poor households,% households,11.411706215730444,-0.09383837910339342
+3,Fewer qualifications / Lower income,247,no2_area_mean_ug_m3,NO₂ area mean,µg/m³,10.929092210171486,0.16757430067317358
+3,Fewer qualifications / Lower income,247,employed_residents_16plus_pct,Employed residents aged 16+,% residents aged 16+,55.92265624594133,0.11192236517043506
+3,Fewer qualifications / Lower income,247,asb_rows_per_1000_residents,Anti-social behaviour rate,"published rows / 1,000 residents",9.30030017018522,-0.0680837799484395
+4,Higher income / More qualifications,249,annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,£ per year,36032.353413654615,0.9763909019391639
+4,Higher income / More qualifications,249,level4plus_pct,Level 4+ qualifications,% residents aged 16+,36.32934334684763,0.8296910317207657
+4,Higher income / More qualifications,249,crime_for_analysis,Recorded crime (visitor hubs omitted),"published rows / 1,000 residents",50.56816112134175,-0.7572743673462696
+4,Higher income / More qualifications,249,fuel_poor_households_pct,Fuel-poor households,% households,9.579433174294312,-0.5857634747697604
+4,Higher income / More qualifications,249,no2_area_mean_ug_m3,NO₂ area mean,µg/m³,7.685434158205683,-0.7226398636855258
+4,Higher income / More qualifications,249,employed_residents_16plus_pct,Employed residents aged 16+,% residents aged 16+,58.03921335699335,0.47185186523514644
+4,Higher income / More qualifications,249,asb_rows_per_1000_residents,Anti-social behaviour rate,"published rows / 1,000 residents",6.537985377773297,-0.4726421128729304

@@ -1,0 +1,636 @@
+{
+  "source_area_count": 660,
+  "modelling_area_count": 654,
+  "predictors": [
+    "annual_equivalised_income_after_housing_costs_gbp",
+    "level4plus_pct",
+    "crime_for_analysis",
+    "fuel_poor_households_pct",
+    "no2_area_mean_ug_m3",
+    "employed_residents_16plus_pct",
+    "asb_rows_per_1000_residents"
+  ],
+  "predictor_count": 7,
+  "excluded_areas": [
+    {
+      "area_code": "E02001876",
+      "local_area_name": "Birmingham Dartmouth Circus",
+      "authority_name": "Birmingham"
+    },
+    {
+      "area_code": "E02001988",
+      "local_area_name": "Central Coventry",
+      "authority_name": "Coventry"
+    },
+    {
+      "area_code": "E02002139",
+      "local_area_name": "Walsall Central",
+      "authority_name": "Walsall"
+    },
+    {
+      "area_code": "E02002168",
+      "local_area_name": "Wolverhampton Central",
+      "authority_name": "Wolverhampton"
+    },
+    {
+      "area_code": "E02006896",
+      "local_area_name": "Digbeth",
+      "authority_name": "Birmingham"
+    },
+    {
+      "area_code": "E02006899",
+      "local_area_name": "Birmingham city centre",
+      "authority_name": "Birmingham"
+    }
+  ],
+  "seed": 42,
+  "hle_period": "2019–2023",
+  "max_abs_spearman": 0.7594278955702555,
+  "max_vif": 5.621812869849628,
+  "vif": [
+    {
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "vif": 5.621812869849628
+    },
+    {
+      "measure": "level4plus_pct",
+      "label": "Level 4+ qualifications",
+      "vif": 2.445741404045528
+    },
+    {
+      "measure": "crime_for_analysis",
+      "label": "Recorded crime (visitor hubs omitted)",
+      "vif": 3.388692603406787
+    },
+    {
+      "measure": "fuel_poor_households_pct",
+      "label": "Fuel-poor households",
+      "vif": 2.3665436990138966
+    },
+    {
+      "measure": "no2_area_mean_ug_m3",
+      "label": "NO₂ area mean",
+      "vif": 2.220260554851989
+    },
+    {
+      "measure": "employed_residents_16plus_pct",
+      "label": "Employed residents aged 16+",
+      "vif": 1.8405586635889826
+    },
+    {
+      "measure": "asb_rows_per_1000_residents",
+      "label": "Anti-social behaviour rate",
+      "vif": 2.248533073588118
+    }
+  ],
+  "chosen_k": 4,
+  "chosen_silhouette": 0.2338516757994474,
+  "k3_k4_difference": 0.0021020072768266618,
+  "silhouette_scores": [
+    {
+      "k": 2,
+      "silhouette": 0.31700757325363277
+    },
+    {
+      "k": 3,
+      "silhouette": 0.23174966852262074
+    },
+    {
+      "k": 4,
+      "silhouette": 0.2338516757994474
+    },
+    {
+      "k": 5,
+      "silhouette": 0.18309761611483621
+    },
+    {
+      "k": 6,
+      "silhouette": 0.19404430505318698
+    },
+    {
+      "k": 7,
+      "silhouette": 0.19273964451124861
+    },
+    {
+      "k": 8,
+      "silhouette": 0.20282930442914385
+    }
+  ],
+  "cluster_comparison": [
+    {
+      "k": 2,
+      "silhouette": 0.31700757325363277,
+      "group_sizes_smallest_first": "272, 382",
+      "between_group_hle_share": 0.648875513004702,
+      "selected": false
+    },
+    {
+      "k": 3,
+      "silhouette": 0.23174966852262074,
+      "group_sizes_smallest_first": "126, 255, 273",
+      "between_group_hle_share": 0.7219572310666829,
+      "selected": false
+    },
+    {
+      "k": 4,
+      "silhouette": 0.2338516757994474,
+      "group_sizes_smallest_first": "53, 105, 247, 249",
+      "between_group_hle_share": 0.7060821797077793,
+      "selected": true
+    }
+  ],
+  "bootstrap_resamples": 50,
+  "bootstrap_mean_ari": 0.7956217372088361,
+  "bootstrap_min_ari": 0.5646452015151543,
+  "bootstrap_max_ari": 0.9572826223135481,
+  "cluster_hle_between_share": 0.7060821797077793,
+  "cluster_labels": {
+    "1": "More fuel poverty / Less employment",
+    "2": "Higher ASB / Higher recorded crime",
+    "3": "Fewer qualifications / Lower income",
+    "4": "Higher income / More qualifications"
+  },
+  "cluster_hle_summary": [
+    {
+      "cluster_id": 1,
+      "cluster_label": "More fuel poverty / Less employment",
+      "count": 105,
+      "mean": 57.32095238095238,
+      "median": 56.8,
+      "minimum": 53.7,
+      "maximum": 69.80000000000001,
+      "unit": "years"
+    },
+    {
+      "cluster_id": 2,
+      "cluster_label": "Higher ASB / Higher recorded crime",
+      "count": 53,
+      "mean": 61.1188679245283,
+      "median": 60.400000000000006,
+      "minimum": 55.0,
+      "maximum": 75.3,
+      "unit": "years"
+    },
+    {
+      "cluster_id": 3,
+      "cluster_label": "Fewer qualifications / Lower income",
+      "count": 247,
+      "mean": 62.35404858299596,
+      "median": 62.4,
+      "minimum": 55.1,
+      "maximum": 69.55000000000001,
+      "unit": "years"
+    },
+    {
+      "cluster_id": 4,
+      "cluster_label": "Higher income / More qualifications",
+      "count": 249,
+      "mean": 68.8949799196787,
+      "median": 69.0,
+      "minimum": 62.55,
+      "maximum": 75.69999999999999,
+      "unit": "years"
+    }
+  ],
+  "all_neighbour_pairs_cross_group_share": 0.41919739696312364,
+  "big_gap_eligible_pairs": 92,
+  "big_gap_different_cluster": 83,
+  "big_gap_same_cluster": 9,
+  "big_gap_unavailable_pairs": 3,
+  "big_gap_pair_check": [
+    {
+      "same_group": "Cross groups",
+      "pairs": 83,
+      "mean_actual_gap": 11.412650602409638,
+      "mean_predicted_gap": 9.20535084298856,
+      "mean_share_predicted": 0.809807909658221,
+      "share_widened": 0.6024096385542169
+    },
+    {
+      "same_group": "Same group",
+      "pairs": 9,
+      "mean_actual_gap": 10.983333333333336,
+      "mean_predicted_gap": 5.68372370420227,
+      "mean_share_predicted": 0.5206440215277808,
+      "share_widened": 1.0
+    }
+  ],
+  "grouped_baseline": {
+    "rmse_years": 5.192352891598287,
+    "mae_years": 4.426234678291149,
+    "r2": -0.05894998915292016
+  },
+  "grouped_linear": {
+    "rmse_years": 1.644795911817645,
+    "mae_years": 1.3168409287295222,
+    "r2": 0.8937396887082472
+  },
+  "random_linear": {
+    "rmse_years": 1.6181497891416354,
+    "mae_years": 1.2883530254156117,
+    "r2": 0.8971546903580851
+  },
+  "linear_beats_baseline": {
+    "rmse": true,
+    "mae": true,
+    "r2": true
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "training_areas": 523,
+      "test_areas": 131,
+      "test_authorities": "Birmingham; Charnwood"
+    },
+    {
+      "fold": 2,
+      "training_areas": 523,
+      "test_areas": 131,
+      "test_authorities": "Derby; Dudley; Erewash; Harborough; Lichfield; Newcastle-under-Lyme; Nuneaton and Bedworth; Shropshire; South Staffordshire; Wychavon"
+    },
+    {
+      "fold": 3,
+      "training_areas": 523,
+      "test_areas": 131,
+      "test_authorities": "Cannock Chase; Coventry; Derbyshire Dales; Hinckley and Bosworth; Malvern Hills; Telford and Wrekin; Warwick; Worcester; Wyre Forest"
+    },
+    {
+      "fold": 4,
+      "training_areas": 523,
+      "test_areas": 131,
+      "test_authorities": "Bromsgrove; Herefordshire; North West Leicestershire; Rugby; Sandwell; Solihull; South Derbyshire; Stafford"
+    },
+    {
+      "fold": 5,
+      "training_areas": 524,
+      "test_areas": 130,
+      "test_authorities": "Blaby; East Staffordshire; North Warwickshire; Redditch; Stratford-on-Avon; Tamworth; Walsall; Wolverhampton"
+    }
+  ],
+  "full_linear_intercept_years": 63.936238532110096,
+  "coefficients": [
+    {
+      "measure": "annual_equivalised_income_after_housing_costs_gbp",
+      "label": "Household income after housing costs",
+      "standardised_coefficient_years": 3.0994437135959023,
+      "predictor_standard_deviation": 5033.656813726784,
+      "predictor_unit": "£ per year",
+      "area_count": 654
+    },
+    {
+      "measure": "level4plus_pct",
+      "label": "Level 4+ qualifications",
+      "standardised_coefficient_years": 1.1119202536095176,
+      "predictor_standard_deviation": 8.761663942750562,
+      "predictor_unit": "% residents aged 16+",
+      "area_count": 654
+    },
+    {
+      "measure": "no2_area_mean_ug_m3",
+      "label": "NO₂ area mean",
+      "standardised_coefficient_years": -0.6143596301704857,
+      "predictor_standard_deviation": 3.6436828145758597,
+      "predictor_unit": "µg/m³",
+      "area_count": 654
+    },
+    {
+      "measure": "crime_for_analysis",
+      "label": "Recorded crime (visitor hubs omitted)",
+      "standardised_coefficient_years": -0.44530395219203234,
+      "predictor_standard_deviation": 44.1299107078674,
+      "predictor_unit": "published rows / 1,000 residents",
+      "area_count": 654
+    },
+    {
+      "measure": "fuel_poor_households_pct",
+      "label": "Fuel-poor households",
+      "standardised_coefficient_years": -0.30442926832522327,
+      "predictor_standard_deviation": 3.724699263317955,
+      "predictor_unit": "% households",
+      "area_count": 654
+    },
+    {
+      "measure": "asb_rows_per_1000_residents",
+      "label": "Anti-social behaviour rate",
+      "standardised_coefficient_years": -0.2025387833934097,
+      "predictor_standard_deviation": 6.827976505745335,
+      "predictor_unit": "published rows / 1,000 residents",
+      "area_count": 654
+    },
+    {
+      "measure": "employed_residents_16plus_pct",
+      "label": "Employed residents aged 16+",
+      "standardised_coefficient_years": -0.18805734853415368,
+      "predictor_standard_deviation": 5.880476900813882,
+      "predictor_unit": "% residents aged 16+",
+      "area_count": 654
+    }
+  ],
+  "largest_positive_residuals": [
+    {
+      "area_code": "E02002099",
+      "local_area_name": "Central Solihull",
+      "authority_name": "Solihull",
+      "hle_average": 75.3,
+      "out_of_fold_prediction": 68.30178148662084,
+      "residual": 6.9982185133791575
+    },
+    {
+      "area_code": "E02002083",
+      "local_area_name": "Castle Bromwich East",
+      "authority_name": "Solihull",
+      "hle_average": 69.55000000000001,
+      "out_of_fold_prediction": 64.74098170195198,
+      "residual": 4.809018298048031
+    },
+    {
+      "area_code": "E02001905",
+      "local_area_name": "Edgbaston South",
+      "authority_name": "Birmingham",
+      "hle_average": 69.80000000000001,
+      "out_of_fold_prediction": 65.3555586536371,
+      "residual": 4.4444413463629076
+    },
+    {
+      "area_code": "E02002120",
+      "local_area_name": "Ashmore",
+      "authority_name": "Walsall",
+      "hle_average": 66.30000000000001,
+      "out_of_fold_prediction": 62.31768711987823,
+      "residual": 3.982312880121782
+    },
+    {
+      "area_code": "E02002027",
+      "local_area_name": "Withymoor Village",
+      "authority_name": "Dudley",
+      "hle_average": 70.94999999999999,
+      "out_of_fold_prediction": 67.02630206060095,
+      "residual": 3.923697939399034
+    },
+    {
+      "area_code": "E02001890",
+      "local_area_name": "Edgbaston North",
+      "authority_name": "Birmingham",
+      "hle_average": 66.25,
+      "out_of_fold_prediction": 62.33149544456014,
+      "residual": 3.91850455543986
+    },
+    {
+      "area_code": "E02001859",
+      "local_area_name": "Birchfield East",
+      "authority_name": "Birmingham",
+      "hle_average": 57.0,
+      "out_of_fold_prediction": 53.13864337342148,
+      "residual": 3.8613566265785195
+    },
+    {
+      "area_code": "E02002026",
+      "local_area_name": "Amblecote East",
+      "authority_name": "Dudley",
+      "hle_average": 66.95,
+      "out_of_fold_prediction": 63.24248675183092,
+      "residual": 3.707513248169086
+    },
+    {
+      "area_code": "E02006900",
+      "local_area_name": "Bordesley",
+      "authority_name": "Birmingham",
+      "hle_average": 56.6,
+      "out_of_fold_prediction": 53.09526588914059,
+      "residual": 3.5047341108594097
+    },
+    {
+      "area_code": "E02002089",
+      "local_area_name": "Marston Green",
+      "authority_name": "Solihull",
+      "hle_average": 65.4,
+      "out_of_fold_prediction": 61.89629468859405,
+      "residual": 3.503705311405959
+    }
+  ],
+  "largest_negative_residuals": [
+    {
+      "area_code": "E02006895",
+      "local_area_name": "Attwood Green",
+      "authority_name": "Birmingham",
+      "hle_average": 58.05,
+      "out_of_fold_prediction": 62.23764223927426,
+      "residual": -4.187642239274261
+    },
+    {
+      "area_code": "E02007051",
+      "local_area_name": "Lawley",
+      "authority_name": "Telford and Wrekin",
+      "hle_average": 64.25,
+      "out_of_fold_prediction": 68.40822233916543,
+      "residual": -4.158222339165434
+    },
+    {
+      "area_code": "E02002174",
+      "local_area_name": "Bradmore",
+      "authority_name": "Wolverhampton",
+      "hle_average": 64.05,
+      "out_of_fold_prediction": 68.16110030495663,
+      "residual": -4.111100304956636
+    },
+    {
+      "area_code": "E02001938",
+      "local_area_name": "Bournville East",
+      "authority_name": "Birmingham",
+      "hle_average": 63.55,
+      "out_of_fold_prediction": 67.48026541626913,
+      "residual": -3.930265416269137
+    },
+    {
+      "area_code": "E02002178",
+      "local_area_name": "Goldthorn Park",
+      "authority_name": "Wolverhampton",
+      "hle_average": 64.2,
+      "out_of_fold_prediction": 68.03423929288971,
+      "residual": -3.8342392928897056
+    },
+    {
+      "area_code": "E02001964",
+      "local_area_name": "Henley Green",
+      "authority_name": "Coventry",
+      "hle_average": 55.900000000000006,
+      "out_of_fold_prediction": 59.71614868801673,
+      "residual": -3.8161486880167246
+    },
+    {
+      "area_code": "E02001951",
+      "local_area_name": "Frankley",
+      "authority_name": "Birmingham",
+      "hle_average": 55.8,
+      "out_of_fold_prediction": 59.608183357101076,
+      "residual": -3.808183357101079
+    },
+    {
+      "area_code": "E02001947",
+      "local_area_name": "Druids Heath",
+      "authority_name": "Birmingham",
+      "hle_average": 54.2,
+      "out_of_fold_prediction": 57.971555235631314,
+      "residual": -3.771555235631311
+    },
+    {
+      "area_code": "E02001930",
+      "local_area_name": "Kings Heath",
+      "authority_name": "Birmingham",
+      "hle_average": 64.9,
+      "out_of_fold_prediction": 68.63750368322582,
+      "residual": -3.7375036832258104
+    },
+    {
+      "area_code": "E02001840",
+      "local_area_name": "Perry Common College Road",
+      "authority_name": "Birmingham",
+      "hle_average": 54.6,
+      "out_of_fold_prediction": 58.3192431562058,
+      "residual": -3.719243156205799
+    }
+  ],
+  "authority_residuals": [
+    {
+      "authority_name": "South Derbyshire",
+      "areas": 12,
+      "mean_residual": -1.332462516326587
+    },
+    {
+      "authority_name": "Warwick",
+      "areas": 15,
+      "mean_residual": -1.1669333325269344
+    },
+    {
+      "authority_name": "North West Leicestershire",
+      "areas": 13,
+      "mean_residual": -0.6510540340298203
+    },
+    {
+      "authority_name": "Wolverhampton",
+      "areas": 32,
+      "mean_residual": -0.5967942869830529
+    },
+    {
+      "authority_name": "Derby",
+      "areas": 16,
+      "mean_residual": -0.5920727660765168
+    },
+    {
+      "authority_name": "Telford and Wrekin",
+      "areas": 24,
+      "mean_residual": -0.47199070004953025
+    },
+    {
+      "authority_name": "Cannock Chase",
+      "areas": 13,
+      "mean_residual": -0.3630604236686041
+    },
+    {
+      "authority_name": "Birmingham",
+      "areas": 129,
+      "mean_residual": -0.3497599278193691
+    },
+    {
+      "authority_name": "Coventry",
+      "areas": 41,
+      "mean_residual": -0.24740434156999289
+    },
+    {
+      "authority_name": "Nuneaton and Bedworth",
+      "areas": 17,
+      "mean_residual": -0.10565168287651971
+    },
+    {
+      "authority_name": "Sandwell",
+      "areas": 39,
+      "mean_residual": -0.10465367703852024
+    },
+    {
+      "authority_name": "Hinckley and Bosworth",
+      "areas": 12,
+      "mean_residual": -0.10224820154428116
+    },
+    {
+      "authority_name": "Bromsgrove",
+      "areas": 14,
+      "mean_residual": 0.004587813036199658
+    },
+    {
+      "authority_name": "Lichfield",
+      "areas": 12,
+      "mean_residual": 0.08772670745612683
+    },
+    {
+      "authority_name": "Stafford",
+      "areas": 15,
+      "mean_residual": 0.1062576436979422
+    },
+    {
+      "authority_name": "Tamworth",
+      "areas": 10,
+      "mean_residual": 0.30369277603601363
+    },
+    {
+      "authority_name": "East Staffordshire",
+      "areas": 15,
+      "mean_residual": 0.43704248747360785
+    },
+    {
+      "authority_name": "Walsall",
+      "areas": 38,
+      "mean_residual": 0.4950960325087782
+    },
+    {
+      "authority_name": "Stratford-on-Avon",
+      "areas": 12,
+      "mean_residual": 0.5179330710824033
+    },
+    {
+      "authority_name": "Solihull",
+      "areas": 29,
+      "mean_residual": 0.6112445391863159
+    },
+    {
+      "authority_name": "Dudley",
+      "areas": 43,
+      "mean_residual": 0.6256434641553608
+    },
+    {
+      "authority_name": "Redditch",
+      "areas": 13,
+      "mean_residual": 0.6383708190504234
+    },
+    {
+      "authority_name": "Wyre Forest",
+      "areas": 14,
+      "mean_residual": 0.768477219638507
+    },
+    {
+      "authority_name": "South Staffordshire",
+      "areas": 13,
+      "mean_residual": 0.859677013796358
+    },
+    {
+      "authority_name": "Shropshire",
+      "areas": 15,
+      "mean_residual": 1.3820674481869284
+    }
+  ],
+  "retained_neighbour_pairs": 1844,
+  "isolated_areas": 0,
+  "moran_permutations": 999,
+  "hle_moran": {
+    "moran_i": 0.574155918950949,
+    "permutation_mean": -0.00247493146624007,
+    "positive_permutation_reference": 0.001
+  },
+  "residual_moran": {
+    "moran_i": 0.1541263785483551,
+    "permutation_mean": -0.0016655073892266072,
+    "positive_permutation_reference": 0.001
+  },
+  "output_folder": "data/cleaned/Machine Learning",
+  "ethnicity_used": false
+}
