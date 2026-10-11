@@ -28,6 +28,6 @@ The download uses 2021 LSOA codes. I will check geographical coverage and report
 Source and licence: https://data.police.uk/about/
 Download service: https://data.police.uk/data/
 
-## Next step
+## What happened next
 
-I will apply the same preparation process to each dataset: inspect the source fields, keep the relevant geographical areas, select useful feature columns, and save a compact cleaned table. These raw downloads have not been cleaned or joined to HLE. All three sources are published under the Open Government Licence v3.0; provenance files retain download details and checksums.
+All three were prepared in Notebook 02, alongside the other datasets, and are part of the joined table in Notebook 03. Ethnic group is kept for description; income and crime are among the seven measures used in Notebook 05. All three are published under the Open Government Licence v3.0, and the `.source.json` files keep the download details and checksums.

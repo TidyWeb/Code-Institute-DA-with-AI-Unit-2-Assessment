@@ -64,6 +64,4 @@ ONS and Nomis for Census, HLE, income and geography data; DESNZ for fuel poverty
 
 My local area names adapt the House of Commons Library MSOA Names lookup under the [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/). They're labels only and don't change any boundary.
 
-Two files from the abandoned railway idea are still in `data/raw`, though no notebook uses them: the railway lines are © OpenStreetMap contributors under the [Open Database Licence](https://www.openstreetmap.org/copyright), and the station points come from DfT NaPTAN under the Open Government Licence.
-
 The project idea credits [*Lives on the Line*](https://jcheshire.com/featured-maps/lives-on-the-line/) by James Cheshire and Oliver O'Brien.
