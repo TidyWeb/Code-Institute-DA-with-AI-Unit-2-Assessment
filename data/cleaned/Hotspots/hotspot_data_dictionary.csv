@@ -1,0 +1,281 @@
+file,column,meaning,unit,missing_rule
+hotspots.csv,hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,No missing values
+hotspots.csv,working_name,Working place name of the hotspot,text,No missing values
+hotspots.csv,area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+hotspots.csv,pair_count,"Number of big-gap pairs in the hotspot, or eligible pairs in the measure table",pairs,No missing values
+hotspots.csv,largest_gap_years,Largest absolute average-HLE gap among pairs in the hotspot,years,No missing values
+hotspots.csv,authorities,"Alphabetically sorted authority names, separated by semicolons",text,No missing values
+hotspots.csv,centroid_longitude,Longitude of the area-weighted union centroid calculated in EPSG:27700 then reprojected,degrees east,No missing values
+hotspots.csv,centroid_latitude,Latitude of the area-weighted union centroid calculated in EPSG:27700 then reprojected,degrees north,No missing values
+hotspots.csv,bbox_west,Minimum longitude of the original hotspot area geometry in EPSG:4326,degrees east,No missing values
+hotspots.csv,bbox_south,Minimum latitude of the original hotspot area geometry in EPSG:4326,degrees north,No missing values
+hotspots.csv,bbox_east,Maximum longitude of the original hotspot area geometry in EPSG:4326,degrees east,No missing values
+hotspots.csv,bbox_north,Maximum latitude of the original hotspot area geometry in EPSG:4326,degrees north,No missing values
+hotspot_pairs.csv,hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,No missing values
+hotspot_pairs.csv,higher_area_code,MSOA21 code of the higher actual-HLE pair member,identifier,No missing values
+hotspot_pairs.csv,higher_area_name,Familiar name of the higher actual-HLE pair member,text,No missing values
+hotspot_pairs.csv,lower_area_code,MSOA21 code of the lower actual-HLE pair member,identifier,No missing values
+hotspot_pairs.csv,lower_area_name,Familiar name of the lower actual-HLE pair member,text,No missing values
+hotspot_pairs.csv,actual_gap_years,Higher-HLE side's actual HLE minus lower-HLE side's actual HLE,years,No missing values
+hotspot_pairs.csv,predicted_gap_years,Higher-HLE side's saved prediction minus lower-HLE side's prediction; signed,years,No missing values
+hotspot_pairs.csv,higher_residual_years,Saved actual-minus-predicted residual of the higher-HLE member,years,No missing values
+hotspot_pairs.csv,lower_residual_years,Saved actual-minus-predicted residual of the lower-HLE member,years,No missing values
+hotspot_pairs.csv,crosses_authority,True when the two pair members have different LAD22 codes,boolean,No missing values
+pair_measure_differences.csv,measure,Column name of the saved provisional representative measure,identifier,No missing values
+pair_measure_differences.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+pair_measure_differences.csv,better_direction,Higher or lower values count as better off for this measure,text,No missing values
+pair_measure_differences.csv,pair_count,"Number of big-gap pairs in the hotspot, or eligible pairs in the measure table",pairs,No missing values
+pair_measure_differences.csv,better_off_count,Eligible big-gap pairs whose higher-HLE member is strictly better off,pairs,No missing values
+pair_measure_differences.csv,better_off_share,Better-off count divided by all eligible big-gap pairs; ties remain in denominator,fraction 0–1,No missing values
+pair_measure_differences.csv,tied_count,Eligible big-gap pairs with equal values on this measure,pairs,No missing values
+pair_measure_differences.csv,median_better_off_difference_sd,"Median higher-minus-lower difference, signed towards better off and divided by population SD across 654 areas",predictor standard deviations,No missing values
+pair_measure_differences.csv,predictor_standard_deviation,Population standard deviation of the uncentred measure across 654 modelling areas,See predictor_unit,No missing values
+pair_measure_differences.csv,predictor_unit,Original unit of the measure,text,No missing values
+pair_measure_differences.csv,hotspot_pair_count,Eligible big-gap pairs inside the five hotspots,pairs,No missing values
+pair_measure_differences.csv,hotspot_better_off_count,Hotspot pairs whose higher-HLE side is strictly better off on the measure,pairs,No missing values
+pair_measure_differences.csv,hotspot_better_off_share,Hotspot better-off count divided by eligible hotspot pair count,fraction 0–1,No missing values
+within_authority_coefficients.csv,measure,Column name of the saved provisional representative measure,identifier,No missing values
+within_authority_coefficients.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+within_authority_coefficients.csv,within_authority_coefficient_years,Linear weight after authority means removed; other six measures held fixed; HLE stays in years,years per within-authority predictor SD,No missing values
+within_authority_coefficients.csv,within_predictor_standard_deviation,Population SD after each authority's mean has been removed from the measure,See predictor_unit,No missing values
+within_authority_coefficients.csv,predictor_unit,Original unit of the measure,text,No missing values
+within_authority_coefficients.csv,area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+within_authority_coefficients.csv,notebook_05_coefficient_years,Saved Notebook 05 full-data linear weight; other six measures held fixed,years per all-area predictor SD,No missing values
+within_authority_coefficients.csv,notebook_05_predictor_standard_deviation,Saved Notebook 05 population SD used to scale this measure,See predictor_unit,No missing values
+within_authority_coefficients.csv,coefficient_difference_years,Within-authority weight minus Notebook 05 weight; each uses its own predictor spread,years per respective predictor SD,No missing values
+within_authority_coefficients.csv,within_authority_r2,In-sample share of centred HLE variation accounted for by the within-authority fit,fraction,No missing values
+census_screen_variables.csv,variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,No missing values
+census_screen_variables.csv,table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,No missing values
+census_screen_variables.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+census_screen_variables.csv,category,"Full unshortened source category, including its hierarchy",text,No missing values
+census_screen_variables.csv,denominator,"First Total column of this topic, TS007A residents for takeaways, or no denominator for density",source column,No missing values
+census_screen_variables.csv,variable_unit,"Percent of this table's total, persons/km², or takeaways/1,000 residents",text,No missing values
+census_screen_variables.csv,study_median,Median of available variable values across all 660 study areas,See variable_unit,No missing values
+census_screen_variables.csv,nonmissing_count,"Study areas with this built variable available, before modelling exclusions",areas,No missing values
+census_screen_variables.csv,selection_status,Kept or dropped before the screen,text,No missing values
+census_screen_variables.csv,drop_reason,"Does not apply, health-related category, median below 1%, near-twin, or Not applicable when kept",text,No missing values
+census_screen_variables.csv,twin_of,Earlier retained variable with absolute Spearman >= 0.98; Not applicable otherwise,variable identifier,No missing values
+census_screen_variables.csv,is_top_level_ethnicity,True for the five first-level TS021 ethnic composition groups,boolean,No missing values
+census_screen_results.csv,variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,No missing values
+census_screen_results.csv,table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,No missing values
+census_screen_results.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+census_screen_results.csv,half_a_n,Nonmissing pairs of variable and residual used in finding half A,areas,No missing values
+census_screen_results.csv,half_a_rho,Rank correlation with the saved residual in finding half A,Spearman rho,Blank if constant or fewer than three nonmissing observations
+census_screen_results.csv,half_a_p,Unadjusted Spearman p-value in half A; 1 for an untestable constant variable,two-sided p-value,No missing values
+census_screen_results.csv,half_a_adjusted_p,Benjamini–Hochberg adjustment across all retained half-A tests,adjusted p-value,No missing values
+census_screen_results.csv,half_b_n,Nonmissing pairs used in confirming half B; only tested for A candidates,areas,Blank if not a half-A candidate; rho also blank if constant in B
+census_screen_results.csv,half_b_rho,Rank correlation with residual in half B; descriptive for noncandidate or dropped ethnic rows in the summary,Spearman rho,Blank if not a half-A candidate; rho also blank if constant in B
+census_screen_results.csv,half_b_p,Unadjusted half-B Spearman p-value for an A candidate,two-sided p-value,Blank if not a half-A candidate; rho also blank if constant in B
+census_screen_results.csv,half_b_adjusted_p,Benjamini–Hochberg adjustment across half-A candidates tested in B,adjusted p-value,Blank if not a half-A candidate; rho also blank if constant in B
+census_screen_results.csv,full_sample_n,Nonmissing pairs used across the 654 modelling areas,areas,No missing values
+census_screen_results.csv,full_sample_rho,Rank correlation of this area characteristic with the saved residual across all available modelling areas,Spearman rho,Blank if constant or fewer than three nonmissing observations
+census_screen_results.csv,status,"Not a candidate, candidate not confirmed, confirmed; dropped reason for descriptive ethnic summary rows",text,No missing values
+census_screen_model_check.csv,variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,No missing values
+census_screen_model_check.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+census_screen_model_check.csv,area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+census_screen_model_check.csv,added_variable,Whether this model adds one screened variable to the seven saved measures,boolean,No missing values
+census_screen_model_check.csv,rmse_years,Pooled grouped out-of-fold root mean squared HLE prediction error,years,No missing values
+census_screen_model_check.csv,r2,Pooled grouped out-of-fold R² against the overall observed mean,fraction,No missing values
+census_screen_model_check.csv,matched_baseline_rmse_years,Seven-measure grouped RMSE on exactly the same areas as this added-variable model,years,No missing values
+census_screen_model_check.csv,matched_baseline_r2,Seven-measure grouped R² on exactly the same areas as this added-variable model,fraction,No missing values
+census_screen_model_check.csv,rmse_change_years,Added-variable RMSE minus matched baseline RMSE; negative is better,years,No missing values
+census_screen_model_check.csv,r2_change,Added-variable R² minus matched baseline R²; positive is better,fraction,No missing values
+census_screen_model_check.csv,improves_grouped_prediction,"True only if RMSE decreases and R² increases against the matched baseline; this is a follow-up, not independent validation",boolean,No missing values
+hotspot_census_values.csv,hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,No missing values
+hotspot_census_values.csv,working_name,Working place name of the hotspot,text,No missing values
+hotspot_census_values.csv,area_code,ONS MSOA21 code; one row per unique area,identifier,No missing values
+hotspot_census_values.csv,name,Familiar local area name from the saved wide table,text,No missing values
+hotspot_census_values.csv,variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,No missing values
+hotspot_census_values.csv,label,"Readable original measure or screened category label, including its table code",text,No missing values
+hotspot_census_values.csv,variable_unit,"Percent of this table's total, persons/km², or takeaways/1,000 residents",text,No missing values
+hotspot_census_values.csv,value,Screened characteristic value for this hotspot area,See variable_unit,Blank for unavailable FEAT codes if takeaways enter the top five; no Census blanks
+hotspot_census_values.csv,study_median,Median of available variable values across all 660 study areas,See variable_unit,No missing values
+hotspot_census_values.csv,difference_from_median,Area value minus the 660-study-area median of this characteristic,See variable_unit,Blank for unavailable FEAT codes if takeaways enter the top five; no Census blanks
+../../Raw/Nomis/census_screen_sources.csv,table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,No missing values
+../../Raw/Nomis/census_screen_sources.csv,title,Official Nomis Census topic title,text,No missing values
+../../Raw/Nomis/census_screen_sources.csv,URL,Official Nomis bulk zip source,URL,No missing values
+../../Raw/Nomis/census_screen_sources.csv,date_retrieved,"First retrieval for this screen, including locally reused files; retained on reruns",ISO date,No missing values
+../../Raw/Nomis/census_screen_sources.csv,licence,Open Government Licence v3.0 for the Census source,text,No missing values
+../../Raw/Nomis/census_screen_sources.csv,reference_date,Census reference day: 21 March 2021,ISO date,No missing values
+hotspot_areas.geojson,area_code,ONS MSOA21 code; one row per unique area,identifier,No missing values
+hotspot_areas.geojson,name,Familiar local area name from the saved wide table,text,No missing values
+hotspot_areas.geojson,authority_name,Local authority name from the LSOA21–MSOA21–LAD22 lookup,text,No missing values
+hotspot_areas.geojson,hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,JSON null for context-only areas
+hotspot_areas.geojson,in_hotspot,True if the area belongs to one of the five hotspots; false for context only,boolean,No missing values
+hotspot_areas.geojson,hle_average,"Project-derived mean of male and female HLE, 2019–2023",years,No missing values
+hotspot_areas.geojson,hle_average_lci,Lower bound of approximate 95% average-HLE interval; assumes independent male and female errors,years,No missing values
+hotspot_areas.geojson,hle_average_uci,Upper bound of approximate 95% average-HLE interval; assumes independent male and female errors,years,No missing values
+hotspot_areas.geojson,hle_band,"Fixed bands: <55, 55–<60, 60–<65, 65–<70, >=70; darkest is lowest",ordered band 1–5,No missing values
+hotspot_areas.geojson,out_of_fold_prediction,Saved Notebook 05 prediction from a model trained without this area's authority,years,JSON null for excluded city and town centres
+hotspot_areas.geojson,residual,Actual average HLE minus saved out-of-fold prediction,years,JSON null for excluded city and town centres
+hotspot_areas.geojson,cluster_id,"Saved Notebook 05 group number, ordered by group mean income",identifier,JSON null for excluded city and town centres
+hotspot_areas.geojson,cluster_label,Saved description of the group's two largest profile departures from average,text,JSON null for excluded city and town centres
+hotspot_areas.geojson,annual_equivalised_income_after_housing_costs_gbp,ONS modelled annual equivalised disposable household income after housing costs.; period: FYE March 2023,£ per year,No missing values
+hotspot_areas.geojson,level4plus_pct,Highest qualification Level 4 or above / residents aged 16+ × 100.; period: 2021,% residents aged 16+,No missing values
+hotspot_areas.geojson,crime_for_analysis,"Published recorded-crime rate, set to missing for saved visitor hubs only; raw column retained.; period: 2024 / population 2021","published rows / 1,000 residents",JSON null for excluded city and town centres
+hotspot_areas.geojson,fuel_poor_households_pct,LSOA fuel-poor household counts summed to MSOA / summed households × 100.; period: 2024,% households,No missing values
+hotspot_areas.geojson,no2_area_mean_ug_m3,Area-weighted modelled grid concentration; not population-weighted exposure.; period: 2024,µg/m³,No missing values
+hotspot_areas.geojson,employed_residents_16plus_pct,Includes full-time students consistently in employment numerator and resident denominator.; period: 2021,% residents aged 16+,No missing values
+hotspot_areas.geojson,asb_rows_per_1000_residents,ASB rows are separate from recorded crime. Resident denominator can be distorted by visitor footfall; unchanged here.; period: 2024 / population 2021,"published rows / 1,000 residents",No missing values
+hotspot_areas.geojson,student_dominated,Unchanged student-dominated flag from the wide table; area retained,boolean,No missing values
+hotspot_areas.geojson,visitor_hub,Unchanged visitor-hub flag from the wide table,boolean,No missing values
+hotspot_areas.geojson,white_british_pct,White British; sum of saved Census 2021 shares: white_british_pct; place description,% residents,No missing values
+hotspot_areas.geojson,other_white_pct,"Other White; sum of saved Census 2021 shares: white_irish_pct, white_gypsy_irish_traveller_pct, white_roma_pct, white_other_pct; place description",% residents,No missing values
+hotspot_areas.geojson,asian_pct,"Asian; sum of saved Census 2021 shares: asian_bangladeshi_pct, asian_chinese_pct, asian_indian_pct, asian_pakistani_pct, asian_other_pct; place description",% residents,No missing values
+hotspot_areas.geojson,black_pct,"Black; sum of saved Census 2021 shares: black_african_pct, black_caribbean_pct, black_other_pct; place description",% residents,No missing values
+hotspot_areas.geojson,mixed_pct,"Mixed; sum of saved Census 2021 shares: mixed_white_asian_pct, mixed_white_black_african_pct, mixed_white_black_caribbean_pct, mixed_other_pct; place description",% residents,No missing values
+hotspot_areas.geojson,other_pct,"Other; sum of saved Census 2021 shares: other_arab_pct, other_ethnic_group_pct; place description",% residents,No missing values
+hotspot_areas.geojson,geometry,"Polygon or MultiPolygon in EPSG:4326; simplified at 10 m in EPSG:27700, coordinates rounded to six decimals",longitude/latitude degrees,No missing values
+results_summary.json,area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+results_summary.json,modelling_area_count,Areas with complete seven-measure profiles; six visitor centres excluded,areas,No missing values
+results_summary.json,patch_count,Connected components of all 95 big-gap links,patches,No missing values
+results_summary.json,single_pair_patch_count,Connected patches containing exactly one big-gap pair,patches,No missing values
+results_summary.json,hotspot_count,Number of highest-ranked patches retained,hotspots,No missing values
+results_summary.json,hotspot_area_count,"Unique members of the five hotspots, excluding context",areas,No missing values
+results_summary.json,hotspot_pair_count,Eligible big-gap pairs inside the five hotspots,pairs,No missing values
+results_summary.json,big_gap_pair_count,All saved big-gap pairs,pairs,No missing values
+results_summary.json,eligible_big_gap_pair_count,Big-gap pairs with both areas in the modelling set,pairs,No missing values
+results_summary.json,neighbour_pair_count,All saved shared-edge neighbour pairs,pairs,No missing values
+results_summary.json,predictors[],"Selected measure column, read from the saved review table",identifier,No missing values
+results_summary.json,hle_period,HLE source period,period,No missing values
+results_summary.json,seed,Fixed randomness setting; present calculations are deterministic,seed,No missing values
+results_summary.json,hotspots[].hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,No missing values
+results_summary.json,hotspots[].working_name,Working place name of the hotspot,text,No missing values
+results_summary.json,hotspots[].area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+results_summary.json,hotspots[].pair_count,"Number of big-gap pairs in the hotspot, or eligible pairs in the measure table",pairs,No missing values
+results_summary.json,hotspots[].largest_gap_years,Largest absolute average-HLE gap among pairs in the hotspot,years,No missing values
+results_summary.json,hotspots[].authorities,"Alphabetically sorted authority names, separated by semicolons",text,No missing values
+results_summary.json,hotspots[].centroid_longitude,Longitude of the area-weighted union centroid calculated in EPSG:27700 then reprojected,degrees east,No missing values
+results_summary.json,hotspots[].centroid_latitude,Latitude of the area-weighted union centroid calculated in EPSG:27700 then reprojected,degrees north,No missing values
+results_summary.json,hotspots[].bbox_west,Minimum longitude of the original hotspot area geometry in EPSG:4326,degrees east,No missing values
+results_summary.json,hotspots[].bbox_south,Minimum latitude of the original hotspot area geometry in EPSG:4326,degrees north,No missing values
+results_summary.json,hotspots[].bbox_east,Maximum longitude of the original hotspot area geometry in EPSG:4326,degrees east,No missing values
+results_summary.json,hotspots[].bbox_north,Maximum latitude of the original hotspot area geometry in EPSG:4326,degrees north,No missing values
+results_summary.json,authority_crossing[].scope,Authority-comparison population,text,No missing values
+results_summary.json,authority_crossing[].pair_count,"Number of big-gap pairs in the hotspot, or eligible pairs in the measure table",pairs,No missing values
+results_summary.json,authority_crossing[].cross_authority_count,Pairs linking different LAD22 codes in this scope,pairs,No missing values
+results_summary.json,authority_crossing[].cross_authority_share,Cross-authority pairs divided by all pairs in this scope,fraction 0–1,No missing values
+results_summary.json,pair_measure_differences[].measure,Column name of the saved provisional representative measure,identifier,No missing values
+results_summary.json,pair_measure_differences[].label,"Readable original measure or screened category label, including its table code",text,No missing values
+results_summary.json,pair_measure_differences[].better_direction,Higher or lower values count as better off for this measure,text,No missing values
+results_summary.json,pair_measure_differences[].pair_count,"Number of big-gap pairs in the hotspot, or eligible pairs in the measure table",pairs,No missing values
+results_summary.json,pair_measure_differences[].better_off_count,Eligible big-gap pairs whose higher-HLE member is strictly better off,pairs,No missing values
+results_summary.json,pair_measure_differences[].better_off_share,Better-off count divided by all eligible big-gap pairs; ties remain in denominator,fraction 0–1,No missing values
+results_summary.json,pair_measure_differences[].tied_count,Eligible big-gap pairs with equal values on this measure,pairs,No missing values
+results_summary.json,pair_measure_differences[].median_better_off_difference_sd,"Median higher-minus-lower difference, signed towards better off and divided by population SD across 654 areas",predictor standard deviations,No missing values
+results_summary.json,pair_measure_differences[].predictor_standard_deviation,Population standard deviation of the uncentred measure across 654 modelling areas,See predictor_unit,No missing values
+results_summary.json,pair_measure_differences[].predictor_unit,Original unit of the measure,text,No missing values
+results_summary.json,pair_measure_differences[].hotspot_pair_count,Eligible big-gap pairs inside the five hotspots,pairs,No missing values
+results_summary.json,pair_measure_differences[].hotspot_better_off_count,Hotspot pairs whose higher-HLE side is strictly better off on the measure,pairs,No missing values
+results_summary.json,pair_measure_differences[].hotspot_better_off_share,Hotspot better-off count divided by eligible hotspot pair count,fraction 0–1,No missing values
+results_summary.json,student_pairs[].name_a,Saved name of alphabetically first coded member of a student-flagged pair,text,No missing values
+results_summary.json,student_pairs[].name_b,Saved name of alphabetically second coded member of a student-flagged pair,text,No missing values
+results_summary.json,within_authority_r2,In-sample share of centred HLE variation accounted for by the within-authority fit,fraction,No missing values
+results_summary.json,within_authority_coefficients[].measure,Column name of the saved provisional representative measure,identifier,No missing values
+results_summary.json,within_authority_coefficients[].label,"Readable original measure or screened category label, including its table code",text,No missing values
+results_summary.json,within_authority_coefficients[].within_authority_coefficient_years,Linear weight after authority means removed; other six measures held fixed; HLE stays in years,years per within-authority predictor SD,No missing values
+results_summary.json,within_authority_coefficients[].within_predictor_standard_deviation,Population SD after each authority's mean has been removed from the measure,See predictor_unit,No missing values
+results_summary.json,within_authority_coefficients[].predictor_unit,Original unit of the measure,text,No missing values
+results_summary.json,within_authority_coefficients[].area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,No missing values
+results_summary.json,within_authority_coefficients[].notebook_05_coefficient_years,Saved Notebook 05 full-data linear weight; other six measures held fixed,years per all-area predictor SD,No missing values
+results_summary.json,within_authority_coefficients[].notebook_05_predictor_standard_deviation,Saved Notebook 05 population SD used to scale this measure,See predictor_unit,No missing values
+results_summary.json,within_authority_coefficients[].coefficient_difference_years,Within-authority weight minus Notebook 05 weight; each uses its own predictor spread,years per respective predictor SD,No missing values
+results_summary.json,within_authority_coefficients[].within_authority_r2,In-sample share of centred HLE variation accounted for by the within-authority fit,fraction,No missing values
+results_summary.json,coefficient_scaling,Scaling convention for the two sets of weights,text,No missing values
+results_summary.json,within_authority_validation,Fitting and validation convention for the new regression,text,No missing values
+results_summary.json,closeups[].hotspot_id,"Rank of the connected big-gap patch, from 1 to 5",identifier,No missing values
+results_summary.json,closeups[].lowest_name,Name of the hotspot area with lowest HLE,text,No missing values
+results_summary.json,closeups[].lowest_hle,Lowest average HLE among hotspot members,years,No missing values
+results_summary.json,closeups[].highest_name,Name of the hotspot area with highest HLE,text,No missing values
+results_summary.json,closeups[].highest_hle,Highest average HLE among hotspot members,years,No missing values
+results_summary.json,closeups[].standout_name,Hotspot member with largest absolute saved residual,text,No missing values
+results_summary.json,closeups[].standout_hle,Actual HLE of the largest-residual hotspot member,years,No missing values
+results_summary.json,closeups[].standout_prediction,Saved out-of-fold prediction of the largest-residual hotspot member,years,No missing values
+results_summary.json,closeups[].standout_residual,Saved actual-minus-predicted residual of the largest-residual hotspot member,years,No missing values
+results_summary.json,closeups[].median_actual_gap_years,Median actual big-pair gap within the hotspot,years,No missing values
+results_summary.json,closeups[].median_predicted_gap_years,Median signed predicted big-pair gap within the hotspot,years,No missing values
+results_summary.json,closeups[].student_flag_count,Hotspot members with the saved student flag,areas,No missing values
+results_summary.json,closeups[].context_area_count,Unique neighbours outside this hotspot,areas,No missing values
+results_summary.json,context_rings.1[],Context neighbour code for hotspot 1,MSOA21 code,No missing values
+results_summary.json,context_rings.2[],Context neighbour code for hotspot 2,MSOA21 code,No missing values
+results_summary.json,context_rings.3[],Context neighbour code for hotspot 3,MSOA21 code,No missing values
+results_summary.json,context_rings.4[],Context neighbour code for hotspot 4,MSOA21 code,No missing values
+results_summary.json,context_rings.5[],Context neighbour code for hotspot 5,MSOA21 code,No missing values
+results_summary.json,geojson_area_count,Unique hotspot and context areas in the GeoJSON,areas,No missing values
+results_summary.json,geojson_size_bytes,Size of the saved compact UTF-8 GeoJSON,bytes,No missing values
+results_summary.json,export_simplification_metres,Geometry simplification tolerance before export reprojection,metres,No missing values
+results_summary.json,preview_simplification_metres,Geometry simplification tolerance before drawing 3D blocks,metres,No missing values
+results_summary.json,geojson_coordinate_decimals,Precision used for longitude and latitude coordinates,decimal places,No missing values
+results_summary.json,geojson_crs,Coordinate reference system of the exported geometry,CRS identifier,No missing values
+results_summary.json,hle_band_breaks[],HLE cutoffs; a value equal to a cutoff enters the higher band,years,No missing values
+results_summary.json,hle_band_colours[],Five HLE colours in ascending band order,hex colour,No missing values
+results_summary.json,hle_band_rule,Exact interval membership of the five HLE bands,text,No missing values
+results_summary.json,hle_band_source,Dashboard source used to confirm the bands and palette,project-relative source,No missing values
+results_summary.json,preview_floor_years,HLE floor subtracted to set block heights,years,No missing values
+results_summary.json,preview_view_elevation,Common elevation angle of all 3D views,degrees,No missing values
+results_summary.json,preview_view_azimuth,Each 3D view is seen from the side of its lower-HLE areas,text,No missing values
+results_summary.json,preview_max_height_years,Common top of every 3D height axis,years above floor,No missing values
+results_summary.json,output_folder,Destination of all exports in this layout,project-relative path,No missing values
+results_summary.json,census_screen.counts[].step,Census screen preparation count stage,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.counts[].count,Count at this preparation stage,tables or variables,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.source_audit[].table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.source_audit[].source_status,"Used existing file, downloaded file, skipped or failed",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.source_audit[].source_note,Acquisition or skip note; TS002 double-dot member is retained,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.source_register,Source register relative to the Hotspots output folder,relative path,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.reference_date,Census reference day: 21 March 2021,ISO date,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.authority_halves[].authority_code,LAD22 code of a whole authority in the screen split,identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.authority_halves[].authority_name,Local authority name from the LSOA21–MSOA21–LAD22 lookup,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.authority_halves[].area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.authority_halves[].half,Authority assigned to finding A or confirming B by greedy area-count balancing,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.half_a_areas,Modelling areas in finding half A,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.half_b_areas,Modelling areas in confirming half B,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.candidate_count,Retained tests with half-A adjusted p below 0.05,variables,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_count,Candidates with half-B adjusted p below 0.05 and the same sign,variables,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.one_picture.first_share,Share of spread across confirmed characteristics carried by the first combined score (PCA on ranks),fraction 0–1,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.one_picture.second_share,Share carried by the second combined score,fraction 0–1,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.one_picture.strongly_aligned,Confirmed characteristics correlating with the first combined score at absolute 0.5 or more,variables,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.one_picture.score_residual_rho,"Correlation of the first combined score, oriented towards owning outright, with the residual",Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.health_rule,Health-related category removed from an otherwise screened table,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].label,"Readable original measure or screened category label, including its table code",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_a_n,Nonmissing pairs of variable and residual used in finding half A,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_a_rho,Rank correlation with the saved residual in finding half A,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_a_p,Unadjusted Spearman p-value in half A; 1 for an untestable constant variable,two-sided p-value,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_a_adjusted_p,Benjamini–Hochberg adjustment across all retained half-A tests,adjusted p-value,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_b_n,Nonmissing pairs used in confirming half B; only tested for A candidates,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_b_rho,Rank correlation with residual in half B; descriptive for noncandidate or dropped ethnic rows in the summary,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_b_p,Unadjusted half-B Spearman p-value for an A candidate,two-sided p-value,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].half_b_adjusted_p,Benjamini–Hochberg adjustment across half-A candidates tested in B,adjusted p-value,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].full_sample_n,Nonmissing pairs used across the 654 modelling areas,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].full_sample_rho,Rank correlation of this area characteristic with the saved residual across all available modelling areas,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.confirmed_variables[].status,"Not a candidate, candidate not confirmed, confirmed; dropped reason for descriptive ethnic summary rows",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].label,"Readable original measure or screened category label, including its table code",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].area_count,Number of areas in the hotspot; modelling count in the coefficient table,areas,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].added_variable,Whether this model adds one screened variable to the seven saved measures,boolean,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].rmse_years,Pooled grouped out-of-fold root mean squared HLE prediction error,years,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].r2,Pooled grouped out-of-fold R² against the overall observed mean,fraction,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].matched_baseline_rmse_years,Seven-measure grouped RMSE on exactly the same areas as this added-variable model,years,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].matched_baseline_r2,Seven-measure grouped R² on exactly the same areas as this added-variable model,fraction,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].rmse_change_years,Added-variable RMSE minus matched baseline RMSE; negative is better,years,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].r2_change,Added-variable R² minus matched baseline R²; positive is better,fraction,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_checks[].improves_grouped_prediction,"True only if RMSE decreases and R² increases against the matched baseline; this is a follow-up, not independent validation",boolean,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].variable_id,Stable table code and source-column position; FEAT identifier for takeaways; baseline in the model check,identifier,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].label,"Readable original measure or screened category label, including its table code",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].half_a_rho,Rank correlation with the saved residual in finding half A,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].half_b_rho,Rank correlation with residual in half B; descriptive for noncandidate or dropped ethnic rows in the summary,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].full_sample_rho,Rank correlation of this area characteristic with the saved residual across all available modelling areas,Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].rho_allowing_for_combined_score,Rank correlation with the residual after the first combined score is allowed for,partial Spearman rho,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.ethnic_composition[].status,"Not a candidate, candidate not confirmed, confirmed; dropped reason for descriptive ethnic summary rows",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.takeaway_missing_codes[],Redrawn 2021 area with no matching 2011 FEAT code,MSOA21 code,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.screen_target,Outcome and area population used for the screen,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.multiple_testing_rule,Finding and confirming multiple-test adjustment and sign rule,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.twin_rule,Ordered near-twin removal rule,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.model_check_rule,"Grouped prediction check, complete-case handling and selection limitation",text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+results_summary.json,census_screen.spatial_caution,P-value independence limitation and the role of replication across authority halves,text,JSON null for an undefined correlation or untested B statistic; otherwise no missing values
+hotspot_data_dictionary.csv,file,Filename described by this row,text,No missing values
+hotspot_data_dictionary.csv,column,Column name or dotted JSON leaf path; [] denotes list items,text,No missing values
+hotspot_data_dictionary.csv,meaning,Meaning of the column or JSON value,text,No missing values
+hotspot_data_dictionary.csv,unit,Measurement unit or value type,text,No missing values
+hotspot_data_dictionary.csv,missing_rule,Meaning of a blank CSV or null JSON value,text,No missing values

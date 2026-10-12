@@ -23,6 +23,7 @@ Run them in order. Each one reads the previous one's saved outputs.
 3. [03 Joined Table and Exploration](notebooks/C%20%E2%80%94%20Joined%20Table%20and%20Exploration/03_Joined_Table_and_Exploration.ipynb). Everything joined into one table, then explored: what moves with HLE, which measures overlap, and a shortlist of seven to take forward.
 4. [04 Hypothesis and Neighbour Gaps](notebooks/D%20%E2%80%94%20Hypothesis%20and%20Neighbour%20Gaps/04_Hypothesis_and_Neighbour_Gaps.ipynb). Are the gaps between neighbours real? A test against estimate noise, a check on how much neighbouring areas resemble each other, and the 95 biggest-gap pairs picked by a fixed rule.
 5. [05 Machine Learning](notebooks/E%20%E2%80%94%20Machine%20Learning/05_Machine_Learning.ipynb). K-means clustering with HLE held out, then one linear regression tested on local authorities it hasn't seen, and a map of where it gets HLE wrong.
+6. [06 Hotspots](notebooks/F%20%E2%80%94%20Hotspots/06_Hotspots.ipynb). I group the 95 big-gap neighbour pairs into patches, compare how often they cross local-authority boundaries, estimate within-authority patterns, and screen Census 2021 characteristics alongside FEAT takeaway rates. These are area-level associations, not causes.
 
 ## Repository layout
 
@@ -31,9 +32,9 @@ data/
   raw/          untouched source files, in dated folders, with a README
   prepared/     the LSOA-to-MSOA geography lookup
   reference/    familiar local area names and their attribution
-  cleaned/      everything the notebooks produce, one folder per dataset or notebook
+  cleaned/      everything the notebooks produce, including Hotspots outputs
   source-register.csv   links, dates, geography, checksums and licences for each source
-notebooks/      the notebooks, one folder each (A to E)
+notebooks/      the notebooks, one folder each (A to F)
 reports/ydata/  the interactive HLE profile used in Notebook 01
 requirements.txt
 ```
@@ -50,7 +51,7 @@ The notebooks find the `data` folder from wherever they're opened, so nothing de
 
 ## Data and sources
 
-- [Raw sources](data/raw/), in dated folders, with a [README](data/raw/README.md) and `.source.json` provenance files.
+- [Raw sources](data/raw/), in dated folders, organised by date and topic, with a [README](data/raw/README.md) and source register.
 - [Cleaned tables](data/cleaned/), all keyed on the same 660 MSOA codes.
 - [Local area names](data/reference/Area%20Names/), with their attribution.
 - [Geography lookup](data/prepared/Geography/), LSOA to MSOA.
@@ -60,7 +61,7 @@ HLE covers 2019 to 2023. The other measures come from 2021 to 2024, so they're n
 
 ## Attribution
 
-ONS and Nomis for Census, HLE, income and geography data; DESNZ for fuel poverty; Defra for pollution; Police.uk and the supplying forces for recorded crime and anti-social behaviour. Public-sector data is used under the Open Government Licence. The ONS boundaries also carry Ordnance Survey attribution.
+ONS and Nomis for Census, HLE, income and geography data; the MRC Epidemiology Unit at the University of Cambridge for FEAT; DESNZ for fuel poverty; Defra for pollution; Police.uk and the supplying forces for recorded crime and anti-social behaviour. Public-sector data is used under the Open Government Licence. The ONS boundaries also carry Ordnance Survey attribution.
 
 My local area names adapt the House of Commons Library MSOA Names lookup under the [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/). They're labels only and don't change any boundary.
 

@@ -1,0 +1,8 @@
+measure,label,better_direction,pair_count,better_off_count,better_off_share,tied_count,median_better_off_difference_sd,predictor_standard_deviation,predictor_unit,hotspot_pair_count,hotspot_better_off_count,hotspot_better_off_share
+annual_equivalised_income_after_housing_costs_gbp,Household income after housing costs,higher,92,92,1.0,0,1.9806674091908305,5033.656813726784,£ per year,29,29,1.0
+level4plus_pct,Level 4+ qualifications,higher,92,92,1.0,0,1.4463913106891682,8.761663942750562,% residents aged 16+,29,29,1.0
+fuel_poor_households_pct,Fuel-poor households,lower,92,84,0.9130434782608695,0,1.0281162880382384,3.724699263317955,% households,29,26,0.896551724137931
+crime_for_analysis,Recorded crime (visitor hubs omitted),lower,92,82,0.8913043478260869,0,1.155485600263413,44.1299107078674,"published rows / 1,000 residents",29,22,0.7586206896551724
+employed_residents_16plus_pct,Employed residents aged 16+,higher,92,78,0.8478260869565217,0,0.9707200904120948,5.880476900813882,% residents aged 16+,29,28,0.9655172413793104
+no2_area_mean_ug_m3,NO₂ area mean,lower,92,76,0.8260869565217391,0,0.3374489410585763,3.6436828145758597,µg/m³,29,22,0.7586206896551724
+asb_rows_per_1000_residents,Anti-social behaviour rate,lower,92,74,0.8043478260869565,0,0.7490390505180144,6.827976505745335,"published rows / 1,000 residents",29,17,0.5862068965517241
