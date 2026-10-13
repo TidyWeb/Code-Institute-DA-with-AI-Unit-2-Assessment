@@ -137,6 +137,6 @@ The project uses [ONS health state life expectancy estimates](https://www.ons.go
 
 The [source register](data/source-register.csv) lists the project files, source and download links, periods, geographies, uses, and recorded licence and attribution notes. Licence terms vary by source; where applicable, public-sector information is used under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The [ONS 2021 MSOA boundaries](https://geoportal.statistics.gov.uk/datasets/ons::middle-layer-super-output-areas-december-2021-boundaries-ew-bgc-v3/about) carry Ordnance Survey attribution.
 
-I adapted my local area names from the [House of Commons Library MSOA Names lookup](https://houseofcommonslibrary.github.io/msoanames/MSOA-Names-Latest2.csv), under the [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/). The names are display labels; they do not change the official boundaries.
+I adapted my local area names from the [House of Commons Library MSOA Names lookup](https://houseofcommonslibrary.github.io/msoanames/), under the [Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/). The names are display labels; they do not change the official boundaries.
 
 The project idea credits [*Lives on the Line*](https://jcheshire.com/featured-maps/lives-on-the-line/) by James Cheshire and Oliver O'Brien.
