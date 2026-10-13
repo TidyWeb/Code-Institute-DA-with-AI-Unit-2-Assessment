@@ -26,11 +26,36 @@ The idea came from a map of the London Tube that showed life expectancy at each 
 
 Everything here describes areas, not people. A link between HLE and income in an area doesn't tell you about anyone who lives there, and it doesn't prove a cause.
 
+It's for people who know Birmingham and the places around it, the public and professionals alike. They should recognise the areas by name, read the maps, and relate what they see to what they already know.
+
 ## Start here
 
 ### [tidyweb.github.io/Birmingham-Healthy-Life](https://tidyweb.github.io/Birmingham-Healthy-Life/)
 
-The website above is the real README. It tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This page is the map of the repository.
+The website tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This README covers what you need here: the questions, the hypothesis, the dashboards, how to run the notebooks and how I worked.
+
+## What I wanted to find out
+
+These are the questions the project has to answer, and where each one is answered.
+
+1. **How much does healthy life expectancy vary across Birmingham and the areas around it, and where is it lowest?** Notebook 01 ranks every area with its margin of error, and Notebook 03 shows the spread for men and women as histograms. The dashboards map it.
+2. **Are the big gaps between neighbouring areas real, or just noise in the estimates?** Notebook 04 compares the real gaps with simulated noise in two distribution charts, tests how alike neighbours are with a permutation chart, and maps the biggest gaps.
+3. **What else about an area lines up with its HLE?** Notebook 03 has correlation heatmaps and a grid of scatter plots, one per measure.
+4. **How much of HLE can those measures predict, and where do they fall short?** Notebook 05 profiles the groups as a heatmap, compares their HLE in a box plot, shows the regression weights as a bar chart, and maps where the model gets HLE wrong.
+5. **What sets the two sides of the sharpest boundaries apart?** Notebook 06 maps the five hotspots and compares the two sides of each pair in bar charts.
+
+## The hypothesis
+
+**H₀:** neighbouring areas don't really differ. The gaps between them come only from the margin of error in the estimates.
+**H₁:** neighbouring areas differ by more than that noise can produce.
+
+I tested it in Notebook 04 on all 1,885 pairs of neighbouring areas, against 10,000 simulated runs of pure noise. If the gaps were noise, about 5% of pairs would pass the usual 1.96 line. In the real data, 69.8% do. So I reject H₀: the gaps are real. That tells me they're worth explaining. It doesn't tell me why they happen, which is what Notebooks 05 and 06 go after.
+
+## Dashboards
+
+**Tableau Public: [Birmingham HLE](https://public.tableau.com/views/BirminghamHLEFinal/Dashboard1).** This is my business intelligence dashboard. It reads the joined table that Notebook 03 saves (`data/cleaned/Wide/msoa_wide_660.csv`), so all the cleaning and joining is done in Python first. It has three linked views: a map of HLE by area, a box plot of HLE by local authority, and a scatter of HLE against household income. Clicking an area on the map picks it out in the scatter, and hovering over anything shows the area's name and figures.
+
+**My own dashboard: [on the project website](https://tidyweb.github.io/Birmingham-Healthy-Life/dashboard/).** Tableau did the job, but I couldn't make it behave the way I wanted. It had no 3D, a legend I couldn't pin to the map, a fixed layout and limited colour control. So I built a second dashboard around a Leaflet map. It reads the same saved tables, so the two always agree. It lives on the website, not in this repository, which holds only the Python analysis.
 
 ## The notebooks
 
