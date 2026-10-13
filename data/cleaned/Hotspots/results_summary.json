@@ -538,7 +538,7 @@
   "preview_view_elevation": 45,
   "preview_view_azimuth": "from the lower-HLE side",
   "preview_max_height_years": 26.0,
-  "output_folder": "Data/Cleaned/Hotspots",
+  "output_folder": "data/cleaned/Hotspots",
   "census_screen": {
     "counts": [
       {
@@ -800,7 +800,7 @@
         "source_note": "Used"
       }
     ],
-    "source_register": "../../Raw/Nomis/census_screen_sources.csv",
+    "source_register": "../../raw/Nomis/census_screen_sources.csv",
     "reference_date": "2021-03-21",
     "authority_halves": [
       {

@@ -91,12 +91,12 @@ hotspot_census_values.csv,variable_unit,"Percent of this table's total, persons/
 hotspot_census_values.csv,value,Screened characteristic value for this hotspot area,See variable_unit,Blank for unavailable FEAT codes if takeaways enter the top five; no Census blanks
 hotspot_census_values.csv,study_median,Median of available variable values across all 660 study areas,See variable_unit,No missing values
 hotspot_census_values.csv,difference_from_median,Area value minus the 660-study-area median of this characteristic,See variable_unit,Blank for unavailable FEAT codes if takeaways enter the top five; no Census blanks
-../../Raw/Nomis/census_screen_sources.csv,table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,No missing values
-../../Raw/Nomis/census_screen_sources.csv,title,Official Nomis Census topic title,text,No missing values
-../../Raw/Nomis/census_screen_sources.csv,URL,Official Nomis bulk zip source,URL,No missing values
-../../Raw/Nomis/census_screen_sources.csv,date_retrieved,"First retrieval for this screen, including locally reused files; retained on reruns",ISO date,No missing values
-../../Raw/Nomis/census_screen_sources.csv,licence,Open Government Licence v3.0 for the Census source,text,No missing values
-../../Raw/Nomis/census_screen_sources.csv,reference_date,Census reference day: 21 March 2021,ISO date,No missing values
+../../raw/Nomis/census_screen_sources.csv,table,"Census 2021 topic summary code, or FEAT for the extra takeaway candidate",identifier,No missing values
+../../raw/Nomis/census_screen_sources.csv,title,Official Nomis Census topic title,text,No missing values
+../../raw/Nomis/census_screen_sources.csv,URL,Official Nomis bulk zip source,URL,No missing values
+../../raw/Nomis/census_screen_sources.csv,date_retrieved,"First retrieval for this screen, including locally reused files; retained on reruns",ISO date,No missing values
+../../raw/Nomis/census_screen_sources.csv,licence,Open Government Licence v3.0 for the Census source,text,No missing values
+../../raw/Nomis/census_screen_sources.csv,reference_date,Census reference day: 21 March 2021,ISO date,No missing values
 hotspot_areas.geojson,area_code,ONS MSOA21 code; one row per unique area,identifier,No missing values
 hotspot_areas.geojson,name,Familiar local area name from the saved wide table,text,No missing values
 hotspot_areas.geojson,authority_name,Local authority name from the LSOA21–MSOA21–LAD22 lookup,text,No missing values
