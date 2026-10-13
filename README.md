@@ -125,6 +125,8 @@ That's the work as I expect to find it: messy public data, a question that chang
 
 I developed the notebooks in a working folder on my own machine and published them here a notebook at a time, as each one was finished. That's why some early commits are large: each adds a whole notebook and its outputs, or the raw data. From the final review onwards, each fix has its own commit.
 
+I used a [live Kanban board](https://github.com/users/TidyWeb/projects/1) to plan and track the project.
+
 ## Ethics
 
 This project uses publicly available, area-level data from public-sector and academic sources. Each source has its own terms; the source register records the licence and attribution information for each one. I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. The project contains no person-level records. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
