@@ -2,7 +2,7 @@ MIT License
 
 Copyright (c) 2026 TidyWeb
 
-The code in this repository is released under the MIT Licence (see LICENSE). The source data in data/ is not covered by it: each dataset remains under its own licence, as recorded in data/source-register.csv. Most are Open Government Licence v3.0. Boundaries contain OS data © Crown copyright and database right.
+The code in this repository is released under the MIT Licence (see LICENSE). The source data in data/ is not covered by it: each dataset remains under its own licence, as recorded in data/source-register.csv. Most are Open Government Licence v3.0. Boundaries contain OS data © Crown copyright and database right 2021.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
