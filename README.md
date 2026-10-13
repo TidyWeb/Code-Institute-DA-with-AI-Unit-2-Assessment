@@ -127,7 +127,7 @@ I developed the notebooks in a working folder on my own machine and published th
 
 ## Ethics
 
-This project doesn't raise any privacy issues. Every dataset is open, public data, published by the government and public bodies under open licences, and I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. There are no records about individuals, so no one can be identified. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
+This project uses publicly available, area-level data from public-sector and academic sources. Each source has its own terms; the source register records the licence and attribution information for each one. I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. The project contains no person-level records. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
 
 The one thing I've been careful about is how I describe places, because calling a neighbourhood "unhealthy" could stigmatise the people who live there. So I describe areas and not people, I say links and not causes, and I treat ethnic composition only as a description of who lives in an area for the purpose of investigating culture as a factor in HLE.
 
