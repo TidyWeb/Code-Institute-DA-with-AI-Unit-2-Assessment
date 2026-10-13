@@ -12,7 +12,7 @@ Everything here describes areas, not people. A link between HLE and income in an
 
 ### [tidyweb.github.io/Birmingham-Healthy-Life](https://tidyweb.github.io/Birmingham-Healthy-Life/)
 
-The site is the real README. It tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This page is the map of the repository.
+The website abovve is the real README. It tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This page is the map of the repository.
 
 ## The notebooks
 
@@ -61,9 +61,9 @@ HLE covers 2019 to 2023. The other measures come from 2021 to 2024, so they're n
 
 ## Ethics
 
-I don't think this project raises any privacy issues. Every dataset is open, public data, published by the government and public bodies under open licences, and I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. There are no records about individuals, so no one can be identified. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
+This project doesn't raise any privacy issues. Every dataset is open, public data, published by the government and public bodies under open licences, and I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. There are no records about individuals, so no one can be identified. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
 
-The one thing I've been careful about is how I describe places, because calling a neighbourhood "unhealthy" could stigmatise the people who live there. So I describe areas and not people, I say links and not causes, and I treat ethnic composition only as a description of who lives in an area.
+The one thing I've been careful about is how I describe places, because calling a neighbourhood "unhealthy" could stigmatise the people who live there. So I describe areas and not people, I say links and not causes, and I treat ethnic composition only as a description of who lives in an area for the purpose of investigating culture as a factor in HLE.
 
 ## Attribution
 
