@@ -102,6 +102,29 @@ The notebooks find the `data` folder from wherever they're opened, so nothing de
 
 HLE covers 2019 to 2023. The other measures come from 2021 to 2024, so they're not one snapshot in time.
 
+## How I used AI
+
+I used AI throughout this project, at every stage, and it was fundamental to it. Claude was my sounding board for ideas. Google Gemini was my research assistant: we searched for open datasets together, and I rejected most of them as unfit. Codex was my coding partner. I shaped the plans and steps in VS Code, and the code, and the first drafts of much of the wording, came out of working with Codex through a skill I built from what I've learned on this course.
+
+I decided what to look at, which sources to use and what to leave out, and I checked the results, including the ones that added up suspiciously well. I've edited the text so it says what I mean, and every number in it comes from a notebook's own output. Notebook 01 has a section on how I worked.
+
+## What I learned
+
+The longer version is on the website, in [How I worked](https://tidyweb.github.io/Birmingham-Healthy-Life/story/how-i-worked.html).
+
+- **Let the question lead.** I held on to the railway idea too long because it made a good picture. Once I saw that the real question was neighbours, it had to go.
+- **Real data never lines up.** Fuel poverty came for smaller areas, pollution as a grid and crime as single records, and the years run from 2019 to 2024. Getting all of it onto the same 660 areas, without bending any of it, was most of the work.
+- **Test from a clean copy.** My notebooks ran on my machine and broke in a fresh clone, because of folder names and paths that only existed on my computer. Now I test from a clean copy before I publish.
+- **Distrust a result that looks too good.** My Census screen confirmed 81 characteristics. Most of them turned out to be one picture told 81 ways.
+- **Tools are a choice.** Tableau got me a working dashboard quickly, but not the one I wanted, so I built my own as well.
+- **AI needs directing.** It speeds everything up, but it gets carried away without a firm hand, and checking its numbers is my job.
+
+That's the work as I expect to find it: messy public data, a question that changes as you go, results that have to be checked before anyone acts on them, and tools that come and go. This project made me practise all of it.
+
+## How this repository was built
+
+I developed the notebooks in a working folder on my own machine and published them here a notebook at a time, as each one was finished. That's why some early commits are large: each adds a whole notebook and its outputs, or the raw data. From the final review onwards, each fix has its own commit.
+
 ## Ethics
 
 This project doesn't raise any privacy issues. Every dataset is open, public data, published by the government and public bodies under open licences, and I didn't collect any data myself. Everything is at MSOA level, where each area holds roughly 5,000 to 15,000 residents, and every figure is a total, rate or estimate for the whole area. There are no records about individuals, so no one can be identified. ONS also applies disclosure control to its Census tables, and the police data is anonymised to approximate locations before release.
