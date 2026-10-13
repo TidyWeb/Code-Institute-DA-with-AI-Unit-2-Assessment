@@ -1,5 +1,23 @@
 # Birmingham Healthy Life Expectancy
 
+<!-- Visual additions: package badges and project map -->
+<p align="center">
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"></a>
+  <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"></a>
+  <a href="https://geopandas.org/"><img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&amp;logo=geopandas&amp;logoColor=white"></a>
+  <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"></a>
+  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"></a>
+  <a href="https://scipy.org/"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white"></a>
+  <a href="https://shapely.readthedocs.io/"><img alt="Shapely" src="https://img.shields.io/badge/Shapely-3D7A57?style=for-the-badge&amp;logo=shapely&amp;logoColor=white"></a>
+  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white"></a>
+  <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white"></a>
+  <a href="https://ipython.org/"><img alt="IPython" src="https://img.shields.io/badge/IPython-515151?style=for-the-badge&amp;logo=ipython&amp;logoColor=white"></a>
+</p>
+<p align="center">
+  <img src="data/cleaned/Neighbours/figures/04_big_gap_neighbours_map.png" alt="Map of derived average healthy life expectancy across the West Midlands study area, with selected large-gap neighbour pairs outlined in red and an enlarged Birmingham detail view." width="100%">
+</p>
+<!-- End visual additions -->
+
 Many data analysis assessment projects use general datasets from Kaggle, on things like credit card churn, car prices or health insurance, and they're fine for us newbies to show off our new skills. I'd been there and done that. I wanted to find a problem that was closer to home, more relevant to me and to those I love, and something I could direct and shape to ask and answer real questions about my here and now.
 
 How many years can you expect to live in good health? In Birmingham and the areas around it, the answer depends a lot on where you live. Across 660 neighbourhoods, healthy life expectancy (HLE) runs from about 54 years to nearly 76. Some places that share a boundary are 14 to 16 years apart. I find that remarkable.
@@ -12,7 +30,7 @@ Everything here describes areas, not people. A link between HLE and income in an
 
 ### [tidyweb.github.io/Birmingham-Healthy-Life](https://tidyweb.github.io/Birmingham-Healthy-Life/)
 
-The website abovve is the real README. It tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This page is the map of the repository.
+The website above is the real README. It tells the whole story of the project in short illustrated chapters, from the idea to what the data does and doesn't say. It also holds my interactive dashboard of HLE across the 660 areas, which I built in my own code because Tableau couldn't show what I wanted, and you can read all six notebooks there without running anything. This page is the map of the repository.
 
 ## The notebooks
 
